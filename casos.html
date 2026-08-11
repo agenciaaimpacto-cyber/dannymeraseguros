@@ -85,8 +85,15 @@
   .card .institucion {
     font-size: 13px; color: var(--ink-dim); border-top: 1px solid var(--line); padding-top: 12px;
   }
-  .card .credito {
-    font-size: 12.5px; color: var(--ink-dim); margin-top: 6px;
+  .credito-box {
+    display: flex; gap: 24px; margin-top: 12px; padding-top: 12px;
+    border-top: 1px dashed var(--line); flex-wrap: wrap;
+  }
+  .credito-box .stat .v {
+    font-family: 'Fraunces', serif; font-weight: 600; font-size: 17px; color: var(--teal-dark);
+  }
+  .credito-box .stat .k {
+    font-size: 12px; color: var(--ink-dim);
   }
 
   .note-box {
@@ -153,7 +160,9 @@
             <div><div class="num">$2.473.140</div><div class="lbl">Abono al cliente</div></div>
           </div>
           <div class="institucion">Banco · seguro nuevo contratado: $2.347.402</div>
-          <div class="credito">Crédito en curso · 51 cuotas pagadas</div>
+          <div class="credito-box">
+            <div class="stat"><div class="v">51</div><div class="k">Cuotas pendientes</div></div>
+          </div>
         </div>
 
         <div class="card">
@@ -166,7 +175,10 @@
             <div><div class="num">$457.319</div><div class="lbl">Abono al cliente</div></div>
           </div>
           <div class="institucion">Banco · seguro nuevo contratado: $693.419</div>
-          <div class="credito">Saldo del crédito: $34.757.820 · 50 cuotas pagadas</div>
+          <div class="credito-box">
+            <div class="stat"><div class="v">$34.757.820</div><div class="k">Saldo del crédito</div></div>
+            <div class="stat"><div class="v">50</div><div class="k">Cuotas pendientes</div></div>
+          </div>
         </div>
 
         <div class="card">
@@ -179,7 +191,10 @@
             <div><div class="num">$186.631</div><div class="lbl">Abono al cliente</div></div>
           </div>
           <div class="institucion">Casa comercial · seguro nuevo contratado: $215.066</div>
-          <div class="credito">Saldo del crédito: $7.956.552 · 53 cuotas pagadas</div>
+          <div class="credito-box">
+            <div class="stat"><div class="v">$7.956.552</div><div class="k">Saldo del crédito</div></div>
+            <div class="stat"><div class="v">53</div><div class="k">Cuotas pendientes</div></div>
+          </div>
         </div>
 
         <div class="card">
@@ -192,7 +207,10 @@
             <div><div class="num">$82.203</div><div class="lbl">Abono al cliente</div></div>
           </div>
           <div class="institucion">Casa comercial · seguro nuevo contratado: $40.546</div>
-          <div class="credito">Saldo del crédito: $5.884.462 · 18 cuotas pagadas</div>
+          <div class="credito-box">
+            <div class="stat"><div class="v">$5.884.462</div><div class="k">Saldo del crédito</div></div>
+            <div class="stat"><div class="v">18</div><div class="k">Cuotas pendientes</div></div>
+          </div>
         </div>
 
         <div class="card">
@@ -205,7 +223,10 @@
             <div><div class="num">$32.515</div><div class="lbl">Abono al cliente</div></div>
           </div>
           <div class="institucion">Financiera · seguro nuevo contratado: $147.822</div>
-          <div class="credito">Saldo del crédito: $5.927.117 · 43 cuotas pagadas</div>
+          <div class="credito-box">
+            <div class="stat"><div class="v">$5.927.117</div><div class="k">Saldo del crédito</div></div>
+            <div class="stat"><div class="v">43</div><div class="k">Cuotas pendientes</div></div>
+          </div>
         </div>
 
         <div class="card">
@@ -218,7 +239,11 @@
             <div><div class="num">$11.836</div><div class="lbl">Abono al cliente</div></div>
           </div>
           <div class="institucion">Banco · seguro nuevo contratado: $8.836</div>
-          <div class="credito">Crédito original: $4.644.172 · 18 de 56 cuotas pagadas (38 pendientes)</div>
+          <div class="credito-box">
+            <div class="stat"><div class="v">$4.644.172</div><div class="k">Crédito original</div></div>
+            <div class="stat"><div class="v">$2.134.337</div><div class="k">Saldo del crédito</div></div>
+            <div class="stat"><div class="v">18 de 56</div><div class="k">Cuotas pendientes</div></div>
+          </div>
         </div>
 
       </div>
