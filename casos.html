@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Casos de devolución — Danny Mera Seguros</title>
+<meta name="description" content="Casos reales de devolución de seguro de desgravamen (nombres cambiados para proteger la identidad de los clientes).">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --teal-dark: #0F3D3E;
+    --teal: #1B6B63;
+    --teal-light: #E8F3F1;
+    --gold: #C9A227;
+    --gold-deep: #A6841E;
+    --paper: #FAFAF7;
+    --ink: #16211E;
+    --ink-dim: #5B6963;
+    --line: #DCE6E3;
+    --whatsapp: #25D366;
+    --whatsapp-deep: #1DA851;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--paper); color: var(--ink); font-family: 'Inter', sans-serif;
+    line-height: 1.55; -webkit-font-smoothing: antialiased;
+  }
+  .serif { font-family: 'Fraunces', serif; }
+  a { color: inherit; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+
+  header.site {
+    background: var(--teal-dark); color: var(--paper); position: sticky; top: 0; z-index: 50;
+    border-bottom: 1px solid rgba(250,250,247,0.1);
+  }
+  .nav-row {
+    display: flex; align-items: center; justify-content: space-between; padding: 16px 24px;
+    max-width: 960px; margin: 0 auto; gap: 16px;
+  }
+  .brand { font-family: 'Fraunces', serif; font-weight: 600; font-size: 20px; white-space: nowrap; }
+  .brand span { color: var(--gold); }
+  nav.links { display: none; gap: 22px; font-size: 14px; font-weight: 500; }
+  nav.links a { text-decoration: none; color: rgba(250,250,247,0.85); }
+  nav.links a:hover, nav.links a.active { color: var(--gold); }
+  @media (min-width: 760px) { nav.links { display: flex; } }
+  .btn-nav-wa {
+    background: var(--whatsapp); color: #fff; font-size: 13px; font-weight: 600;
+    padding: 9px 16px; border-radius: 999px; text-decoration: none; white-space: nowrap;
+  }
+  .btn-nav-wa:hover { background: var(--whatsapp-deep); }
+
+  .page-head { padding: 48px 24px 16px; max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--teal); margin-bottom: 12px; display: block;
+  }
+  h1 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 32px; color: var(--teal-dark); margin-bottom: 12px; }
+  .page-head p.lead { font-size: 15.5px; color: var(--ink-dim); }
+  .page-head p.lead em { font-style: normal; color: var(--ink); }
+
+  section { padding: 28px 0 48px; }
+
+  .cards {
+    display: grid; grid-template-columns: 1fr; gap: 16px;
+  }
+  @media (min-width: 700px) { .cards { grid-template-columns: repeat(2, 1fr); } }
+
+  .card { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 24px; }
+  .card .top-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px; }
+  .card .name { font-weight: 700; font-size: 15px; color: var(--teal-dark); }
+  .card .tag {
+    font-family: 'IBM Plex Mono', monospace; font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.05em; padding: 4px 10px; border-radius: 999px; white-space: nowrap;
+  }
+  .tag.proceso { background: var(--teal-light); color: var(--teal); }
+  .tag.terminado { background: #FBF2DC; color: var(--gold-deep); }
+
+  .figures { display: flex; gap: 20px; margin-bottom: 16px; flex-wrap: wrap; }
+  .figures div .num { font-family: 'Fraunces', serif; font-weight: 600; font-size: 22px; color: var(--teal-dark); }
+  .figures div .lbl { font-size: 11.5px; color: var(--ink-dim); }
+
+  .card .institucion {
+    font-size: 13px; color: var(--ink-dim); border-top: 1px solid var(--line); padding-top: 12px;
+  }
+
+  .note-box {
+    background: var(--teal-light); border-radius: 12px; padding: 18px 20px; margin: 28px 0; font-size: 14px; color: var(--teal-dark);
+  }
+
+  .cta-block { text-align: center; padding: 32px 24px 0; }
+  .btn-primary {
+    display: inline-flex; align-items: center; gap: 10px; background: var(--whatsapp);
+    color: #fff; font-weight: 600; font-size: 16px; padding: 14px 26px; border-radius: 999px;
+    text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.28);
+  }
+  .btn-primary:hover { background: var(--whatsapp-deep); }
+
+  footer { background: var(--teal-dark); color: rgba(250,250,247,0.7); margin-top: 40px; padding: 40px 24px 90px; }
+  footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px; font-size: 14px; }
+  footer a { text-decoration: none; color: rgba(250,250,247,0.85); }
+  footer a:hover { color: var(--gold); }
+  footer .brand { color: var(--paper); margin-bottom: 8px; }
+
+  .wa-float {
+    position: fixed; bottom: 20px; right: 20px; background: var(--whatsapp); color: #fff;
+    width: 56px; height: 56px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 8px 22px rgba(0,0,0,0.25); z-index: 60; text-decoration: none;
+  }
+  .wa-float:hover { background: var(--whatsapp-deep); }
+  .wa-float svg { width: 28px; height: 28px; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="nav-row">
+    <div class="brand">Danny Mera <span>Seguros</span></div>
+    <nav class="links">
+      <a href="index.html">Inicio</a>
+      <a href="como-funciona.html">Cómo funciona</a>
+      <a href="casos.html" class="active">Casos</a>
+      <a href="otros-seguros.html">Otros seguros</a>
+      <a href="sobre-mi.html">Sobre mí</a>
+    </nav>
+    <a class="btn-nav-wa" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener">WhatsApp</a>
+  </div>
+</header>
+
+<main>
+  <div class="page-head">
+    <span class="eyebrow">Casos de devolución</span>
+    <h1>Casos reales de devolución de desgravamen</h1>
+    <p class="lead"><em>Nombres cambiados para proteger la identidad de cada cliente.</em> Los montos son reales, extraídos de gestiones en curso o ya cerradas.</p>
+  </div>
+
+  <div class="wrap">
+    <section>
+      <div class="cards">
+
+        <div class="card">
+          <div class="top-row">
+            <div class="name">Sergio V.</div>
+            <span class="tag proceso">En trámite de pago</span>
+          </div>
+          <div class="figures">
+            <div><div class="num">$5.095.190</div><div class="lbl">Devolución calculada</div></div>
+            <div><div class="num">$2.473.140</div><div class="lbl">Abono al cliente</div></div>
+          </div>
+          <div class="institucion">Banco · seguro nuevo contratado: $2.347.402</div>
+        </div>
+
+        <div class="card">
+          <div class="top-row">
+            <div class="name">Loreto S.</div>
+            <span class="tag terminado">Terminado · pagado</span>
+          </div>
+          <div class="figures">
+            <div><div class="num">$1.232.319</div><div class="lbl">Devolución calculada</div></div>
+            <div><div class="num">$457.319</div><div class="lbl">Abono al cliente</div></div>
+          </div>
+          <div class="institucion">Banco · seguro nuevo contratado: $693.419</div>
+        </div>
+
+        <div class="card">
+          <div class="top-row">
+            <div class="name">Camila R.</div>
+            <span class="tag proceso">En trámite de pago</span>
+          </div>
+          <div class="figures">
+            <div><div class="num">$443.872</div><div class="lbl">Devolución calculada</div></div>
+            <div><div class="num">$186.631</div><div class="lbl">Abono al cliente</div></div>
+          </div>
+          <div class="institucion">Casa comercial · seguro nuevo contratado: $215.066</div>
+        </div>
+
+        <div class="card">
+          <div class="top-row">
+            <div class="name">Manuel P.</div>
+            <span class="tag terminado">Terminado · pagado</span>
+          </div>
+          <div class="figures">
+            <div><div class="num">$139.722</div><div class="lbl">Devolución calculada</div></div>
+            <div><div class="num">$82.203</div><div class="lbl">Abono al cliente</div></div>
+          </div>
+          <div class="institucion">Casa comercial · seguro nuevo contratado: $40.546</div>
+        </div>
+
+        <div class="card">
+          <div class="top-row">
+            <div class="name">Pedro G.</div>
+            <span class="tag proceso">En trámite de pago</span>
+          </div>
+          <div class="figures">
+            <div><div class="num">$237.439</div><div class="lbl">Devolución calculada</div></div>
+            <div><div class="num">$32.515</div><div class="lbl">Abono al cliente</div></div>
+          </div>
+          <div class="institucion">Financiera · seguro nuevo contratado: $147.822</div>
+        </div>
+
+        <div class="card">
+          <div class="top-row">
+            <div class="name">Rosa M.</div>
+            <span class="tag proceso">En trámite de pago</span>
+          </div>
+          <div class="figures">
+            <div><div class="num">$32.275</div><div class="lbl">Devolución calculada</div></div>
+            <div><div class="num">$11.836</div><div class="lbl">Abono al cliente</div></div>
+          </div>
+          <div class="institucion">Banco · seguro nuevo contratado: $8.836</div>
+        </div>
+
+      </div>
+
+      <div class="note-box">
+        <strong>Dato:</strong> mientras menos cuotas de tu crédito hayas pagado, mayor suele ser la devolución posible — el caso de Sergio, por ejemplo, corresponde a un crédito con pocas cuotas pagadas.
+      </div>
+
+      <div class="cta-block">
+        <a class="btn-primary" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener">
+          Quiero revisar mi caso
+        </a>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brand serif" style="font-size:18px;">Danny Mera Seguros</div>
+      <p>Agente Comercial — Grupo Insurex (Mueve Seguro)</p>
+    </div>
+    <div>
+      <div>+56 9 4013 0088</div>
+      <div><a href="mailto:danny.mera@grupoinsurex.cl">danny.mera@grupoinsurex.cl</a></div>
+    </div>
+    <div>
+      <a href="https://instagram.com/dannymera.seguros" target="_blank" rel="noopener">@dannymera.seguros</a>
+    </div>
+  </div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener" aria-label="Escribir por WhatsApp">
+  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2m0 1.67a8.2 8.2 0 0 1 5.83 2.42 8.18 8.18 0 0 1 2.41 5.82c0 4.55-3.7 8.24-8.25 8.24a8.2 8.2 0 0 1-4.19-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.18 8.18 0 0 1-1.26-4.38c0-4.55 3.7-8.24 8.25-8.24m-4.52 4.7c-.16 0-.42.06-.64.31s-.85.83-.85 2.02.87 2.35.99 2.51c.12.16 1.7 2.72 4.19 3.71 2.07.83 2.49.66 2.94.62.45-.04 1.46-.6 1.66-1.17.21-.58.21-1.08.15-1.18-.06-.1-.22-.16-.46-.28s-1.46-.72-1.68-.8c-.23-.08-.39-.12-.56.12s-.65.8-.8.97c-.15.16-.29.19-.55.06-.26-.12-1.08-.4-2.06-1.27-.76-.68-1.28-1.51-1.42-1.77-.15-.25-.02-.39.11-.51.11-.11.25-.29.37-.43.12-.15.16-.25.24-.42.08-.16.04-.31-.02-.43-.06-.12-.56-1.36-.77-1.86-.2-.49-.41-.42-.56-.43z"/></svg>
+</a>
+
+</body>
+</html>

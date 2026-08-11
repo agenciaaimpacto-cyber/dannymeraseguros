@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cómo funciona — Danny Mera Seguros</title>
+<meta name="description" content="Cómo funciona la devolución de seguro de desgravamen, qué créditos aplican y qué documentos se necesitan.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --teal-dark: #0F3D3E;
+    --teal: #1B6B63;
+    --teal-light: #E8F3F1;
+    --gold: #C9A227;
+    --gold-deep: #A6841E;
+    --paper: #FAFAF7;
+    --ink: #16211E;
+    --ink-dim: #5B6963;
+    --line: #DCE6E3;
+    --whatsapp: #25D366;
+    --whatsapp-deep: #1DA851;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .serif { font-family: 'Fraunces', serif; }
+  .mono { font-family: 'IBM Plex Mono', monospace; }
+  a { color: inherit; }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 24px; }
+
+  header.site {
+    background: var(--teal-dark);
+    color: var(--paper);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    border-bottom: 1px solid rgba(250,250,247,0.1);
+  }
+  .nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 24px;
+    max-width: 960px;
+    margin: 0 auto;
+    gap: 16px;
+  }
+  .brand { font-family: 'Fraunces', serif; font-weight: 600; font-size: 20px; white-space: nowrap; }
+  .brand span { color: var(--gold); }
+  nav.links { display: none; gap: 22px; font-size: 14px; font-weight: 500; }
+  nav.links a { text-decoration: none; color: rgba(250,250,247,0.85); transition: color .15s ease; }
+  nav.links a:hover, nav.links a.active { color: var(--gold); }
+  @media (min-width: 760px) { nav.links { display: flex; } }
+  .btn-nav-wa {
+    background: var(--whatsapp); color: #fff; font-size: 13px; font-weight: 600;
+    padding: 9px 16px; border-radius: 999px; text-decoration: none; white-space: nowrap;
+  }
+  .btn-nav-wa:hover { background: var(--whatsapp-deep); }
+
+  .page-head { padding: 48px 24px 12px; max-width: 780px; margin: 0 auto; }
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--teal); margin-bottom: 12px; display: block;
+  }
+  h1 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 34px; color: var(--teal-dark); margin-bottom: 14px; }
+  .page-head p.lead { font-size: 16px; color: var(--ink-dim); max-width: 620px; }
+
+  section { padding: 32px 0; }
+  h2 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 22px; color: var(--teal-dark); margin-bottom: 14px; }
+  p { font-size: 15.5px; color: var(--ink); margin-bottom: 14px; }
+  p strong { color: var(--teal-dark); }
+
+  .steps { list-style: none; counter-reset: step; margin: 18px 0; }
+  .steps li {
+    counter-increment: step;
+    display: flex; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--line);
+    font-size: 15px;
+  }
+  .steps li:last-child { border-bottom: none; }
+  .steps li::before {
+    content: counter(step);
+    font-family: 'Fraunces', serif; font-weight: 600; color: var(--teal);
+    background: var(--teal-light); width: 30px; height: 30px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+
+  .callout {
+    background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--gold);
+    border-radius: 12px; padding: 20px 22px; margin: 20px 0; font-size: 15px;
+  }
+
+  .exclusion-box {
+    background: var(--teal-dark); color: var(--paper); border-radius: 16px; padding: 28px; margin: 20px 0;
+  }
+  .exclusion-box h3 { font-family: 'Fraunces', serif; font-size: 19px; margin-bottom: 10px; }
+  .exclusion-box p { color: rgba(250,250,247,0.8); margin-bottom: 14px; }
+  .exclusion-box ul { list-style: none; display: flex; flex-wrap: wrap; gap: 10px; }
+  .exclusion-box li {
+    background: rgba(250,250,247,0.1); padding: 6px 14px; border-radius: 999px; font-size: 13.5px;
+  }
+
+  .docs { display: grid; gap: 14px; margin: 18px 0; }
+  @media (min-width: 640px) { .docs { grid-template-columns: repeat(3, 1fr); } }
+  .doc-card {
+    background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 18px;
+  }
+  .doc-card .name { font-weight: 700; color: var(--teal-dark); margin-bottom: 6px; font-size: 15px; }
+  .doc-card p { font-size: 13.5px; color: var(--ink-dim); margin: 0; }
+
+  .cta-block {
+    text-align: center; padding: 40px 24px; margin-top: 20px;
+  }
+  .btn-primary {
+    display: inline-flex; align-items: center; gap: 10px; background: var(--whatsapp);
+    color: #fff; font-weight: 600; font-size: 16px; padding: 14px 26px; border-radius: 999px;
+    text-decoration: none; box-shadow: 0 6px 20px rgba(37,211,102,0.28);
+  }
+  .btn-primary:hover { background: var(--whatsapp-deep); }
+
+  footer { background: var(--teal-dark); color: rgba(250,250,247,0.7); margin-top: 60px; padding: 40px 24px 90px; }
+  footer .wrap { max-width: 960px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 24px; font-size: 14px; }
+  footer a { text-decoration: none; color: rgba(250,250,247,0.85); }
+  footer a:hover { color: var(--gold); }
+  footer .brand { color: var(--paper); margin-bottom: 8px; }
+
+  .wa-float {
+    position: fixed; bottom: 20px; right: 20px; background: var(--whatsapp); color: #fff;
+    width: 56px; height: 56px; border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 8px 22px rgba(0,0,0,0.25); z-index: 60; text-decoration: none;
+  }
+  .wa-float:hover { background: var(--whatsapp-deep); }
+  .wa-float svg { width: 28px; height: 28px; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="nav-row">
+    <div class="brand">Danny Mera <span>Seguros</span></div>
+    <nav class="links">
+      <a href="index.html">Inicio</a>
+      <a href="como-funciona.html" class="active">Cómo funciona</a>
+      <a href="casos.html">Casos</a>
+      <a href="otros-seguros.html">Otros seguros</a>
+      <a href="sobre-mi.html">Sobre mí</a>
+    </nav>
+    <a class="btn-nav-wa" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener">WhatsApp</a>
+  </div>
+</header>
+
+<main>
+  <div class="page-head">
+    <span class="eyebrow">Cómo funciona</span>
+    <h1>El seguro de tu crédito no lo elegiste tú</h1>
+    <p class="lead">Cuando pides un crédito, casi siempre viene con un seguro de desgravamen incluido — el que la institución tiene por convenio con una aseguradora específica, no necesariamente el más conveniente para ti.</p>
+  </div>
+
+  <div class="wrap">
+    <section>
+      <p>Lo que casi nadie te dice es que <strong>tienes derecho a cambiarte</strong> a un seguro de desgravamen distinto, más barato, y a recuperar parte de lo que ya pagaste por el que tenías.</p>
+    </section>
+
+    <section>
+      <h2>Qué hacemos</h2>
+      <ol class="steps">
+        <li>Revisamos tu crédito y tu póliza actual.</li>
+        <li>Calculamos cuánto queda de la prima que contrataste y que todavía no se ha usado.</li>
+        <li>Reclamamos esa devolución a tu nombre.</li>
+        <li>Te cambiamos a un seguro de desgravamen nuevo, con un costo operativo menor.</li>
+        <li>Recibes una devolución en dinero <strong>y</strong> te queda un seguro más barato para lo que resta del crédito.</li>
+      </ol>
+    </section>
+
+    <div class="callout">
+      <strong>Dato importante:</strong> mientras menos cuotas de tu crédito hayas pagado, mayor suele ser la devolución posible — porque se ha usado menos de la prima que contrataste. Si recién empezaste a pagar tu crédito, vale la pena revisar tu caso.
+    </div>
+
+    <section>
+      <h2>¿Aplica para tu crédito?</h2>
+      <p>Funciona con la mayoría de créditos de bancos, casas comerciales y cooperativas.</p>
+      <div class="exclusion-box">
+        <h3>No podemos gestionar portabilidad con:</h3>
+        <ul>
+          <li>Créditos Hipotecarios</li>
+          <li>Cajas de Compensación</li>
+          <li>Forum</li>
+        </ul>
+        <p style="margin-top:14px; margin-bottom:0;">Si tu crédito es con alguna de estas instituciones, este servicio en particular no aplica — pero igual puedo ayudarte a revisar otros seguros (salud, vida, automotriz).</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Por qué te pedimos ciertos documentos</h2>
+      <p>Para calcular tu devolución y comprarte el seguro nuevo, necesitamos tres documentos:</p>
+      <div class="docs">
+        <div class="doc-card">
+          <div class="name">Resumen del crédito</div>
+          <p>Cantidad de cuotas, cuotas pagadas a la fecha, monto total y número de operación.</p>
+        </div>
+        <div class="doc-card">
+          <div class="name">Póliza del seguro actual</div>
+          <p>Número de póliza y compañía, para calcular su valor y comparar con una mejor alternativa.</p>
+        </div>
+        <div class="doc-card">
+          <div class="name">Foto del carnet de identidad</div>
+          <p>Para verificar que los documentos corresponden a la persona que los envía.</p>
+        </div>
+      </div>
+      <p>Sin estos tres documentos no es posible calcular tu devolución real.</p>
+    </section>
+
+    <div class="cta-block">
+      <a class="btn-primary" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener">
+        Revisa tu caso por WhatsApp
+      </a>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="brand serif" style="font-size:18px;">Danny Mera Seguros</div>
+      <p>Agente Comercial — Grupo Insurex (Mueve Seguro)</p>
+    </div>
+    <div>
+      <div>+56 9 4013 0088</div>
+      <div><a href="mailto:danny.mera@grupoinsurex.cl">danny.mera@grupoinsurex.cl</a></div>
+    </div>
+    <div>
+      <a href="https://instagram.com/dannymera.seguros" target="_blank" rel="noopener">@dannymera.seguros</a>
+    </div>
+  </div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener" aria-label="Escribir por WhatsApp">
+  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91 0-2.65-1.03-5.14-2.9-7.01A9.82 9.82 0 0 0 12.04 2m0 1.67a8.2 8.2 0 0 1 5.83 2.42 8.18 8.18 0 0 1 2.41 5.82c0 4.55-3.7 8.24-8.25 8.24a8.2 8.2 0 0 1-4.19-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.18 8.18 0 0 1-1.26-4.38c0-4.55 3.7-8.24 8.25-8.24m-4.52 4.7c-.16 0-.42.06-.64.31s-.85.83-.85 2.02.87 2.35.99 2.51c.12.16 1.7 2.72 4.19 3.71 2.07.83 2.49.66 2.94.62.45-.04 1.46-.6 1.66-1.17.21-.58.21-1.08.15-1.18-.06-.1-.22-.16-.46-.28s-1.46-.72-1.68-.8c-.23-.08-.39-.12-.56.12s-.65.8-.8.97c-.15.16-.29.19-.55.06-.26-.12-1.08-.4-2.06-1.27-.76-.68-1.28-1.51-1.42-1.77-.15-.25-.02-.39.11-.51.11-.11.25-.29.37-.43.12-.15.16-.25.24-.42.08-.16.04-.31-.02-.43-.06-.12-.56-1.36-.77-1.86-.2-.49-.41-.42-.56-.43z"/></svg>
+</a>
+
+</body>
+</html>
