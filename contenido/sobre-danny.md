@@ -4,7 +4,7 @@
 - Danny Mera C. — **Agente Comercial**
 - Empresa: **Grupo Insurex** (marca comercial: **Mueve Seguro**)
 - Marcas/productos asociados: Insurex, Mueve Seguro, Garantía Segura, TuAsistencia
-- Fono: +56 9 4013 0088
+- Fono: +56 9 5793 8503
 - Email: danny.mera@grupoinsurex.cl
 - Oficina: Barros Arana #1098, oficina 1307, Edificio Mall del Centro, Concepción
 
