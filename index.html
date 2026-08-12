@@ -274,6 +274,18 @@
     padding-top: 12px;
   }
 
+  /* Medios */
+  .media-sub { font-size: 15px; color: var(--ink-dim); max-width: 620px; margin: -12px 0 20px; }
+  .media-grid { display: grid; gap: 20px; grid-template-columns: 1fr; }
+  @media (min-width: 640px) { .media-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 900px) { .media-grid { grid-template-columns: repeat(4, 1fr); } }
+  .video-frame {
+    position: relative; width: 100%; aspect-ratio: 16 / 9;
+    border-radius: 14px; overflow: hidden; border: 1px solid var(--line); background: #000;
+  }
+  .video-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .video-caption { font-size: 12.5px; color: var(--ink-dim); margin-top: 10px; }
+
   /* Despachos */
   .despacho-list {
     display: flex;
@@ -442,6 +454,39 @@
           <div class="amount">$186.631</div>
           <div class="amount-label">Devolución en proceso</div>
           <div class="meta"><span>Casa comercial</span><span>Crédito de consumo</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="medios">
+      <div class="section-head">
+        <h2>La empresa que represento, en los medios</h2>
+      </div>
+      <p class="media-sub">Grupo Insurex (Mueve Seguro) ha salido en televisión nacional explicando este mismo derecho a portabilidad del seguro de desgravamen.</p>
+      <div class="media-grid">
+        <div>
+          <div class="video-frame">
+            <iframe src="https://www.youtube.com/embed/TxzlRuk0MDo" title="Contigo en la Mañana CHV — Portabilidad de seguros" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p class="video-caption">"Contigo en la Mañana", CHV.</p>
+        </div>
+        <div>
+          <div class="video-frame">
+            <iframe src="https://www.youtube.com/embed/u1j_L_alx3U" title="CHV — Cómo funciona la portabilidad de seguros, con expertos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p class="video-caption">CHV — Con expertos.</p>
+        </div>
+        <div>
+          <div class="video-frame">
+            <iframe src="https://www.youtube.com/embed/TPcOBmDP0u0" title="Mucho Gusto Mega — Porta tus seguros de desgravamen y cesantía" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p class="video-caption">"Mucho Gusto", Mega.</p>
+        </div>
+        <div>
+          <div class="video-frame">
+            <iframe src="https://www.youtube.com/embed/hu4ZhvnP-oY" title="La Tarde es Nuestra, Canal 13 — Marcelo Rubio, Grupo Insurex" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p class="video-caption">"La Tarde es Nuestra", Canal 13.</p>
         </div>
       </div>
     </section>
