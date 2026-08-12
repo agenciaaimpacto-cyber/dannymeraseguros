@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABÍAS QUE...", "text": "Tu crédito trae un seguro que **no elegiste tú**"},
+    {"type": "text", "lines": ["Viene por convenio entre el banco", "**y una aseguradora específica.**"], "sub": "No necesariamente la más barata para ti."},
+    {"type": "stat", "number": "10", "unit": "días", "text": "es el plazo máximo que tiene la aseguradora para **devolverte tu plata**"},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a una compañía más barata", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "¿Quieres saber cuánto puedes **recuperar tú?**", "button": "Escríbeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

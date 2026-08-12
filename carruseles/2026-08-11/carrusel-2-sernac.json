@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA · SERNAC", "text": "Demandan a una financiera por **obligar** a sus clientes a contratar un seguro"},
+    {"type": "text", "lines": ["Creditú exigía un seguro", "**de una sola aseguradora**"], "sub": "como condición para dar el crédito hipotecario."},
+    {"type": "stat", "number": "1.500", "unit": "UTM", "text": "es la multa máxima que pidió el SERNAC **por infracción**"},
+    {"type": "proof", "tag": "RECUERDA", "text": "**Nadie puede obligarte** a mantener el seguro que vino con tu crédito", "source": "Fuente: SERNAC, junio 2026"},
+    {"type": "cta", "text": "¿Sabes si tu seguro actual es el **más conveniente?**", "button": "Revisemos tu caso ->", "sub": "Es gratis y toma 5 minutos."}
+  ]
+}

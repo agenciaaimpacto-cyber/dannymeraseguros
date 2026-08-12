@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO DEL RUBRO", "text": "El chileno promedio **recupera $350.000** de su seguro de desgravamen"},
+    {"type": "text", "lines": ["Y si se incluye seguro de cesantía,", "**puede llegar a $650.000.**"], "sub": "Cifras citadas por plataformas del rubro, 2026."},
+    {"type": "stat", "number": "10", "unit": "días hábiles", "text": "es lo máximo que puede demorar la aseguradora en **devolverte tu dinero**"},
+    {"type": "proof", "tag": "OJO", "text": "El monto final depende del **saldo pendiente** de tu crédito y las cuotas que te falten", "source": "Fuente: Circular CMF N° 2.114"},
+    {"type": "cta", "text": "¿Cuánto podrías **recuperar tú?**", "button": "Escríbeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
