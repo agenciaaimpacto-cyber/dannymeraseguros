@@ -3,6 +3,7 @@
 Notas trasladadas desde la sesión de Radar Comercial (11 agosto 2026) para arrancar este proyecto sin perder contexto.
 
 **Repositorio:** [github.com/agenciaaimpacto-cyber/dannymeraseguros](https://github.com/agenciaaimpacto-cyber/dannymeraseguros) (público, creado 2026-08-11).
+**Sitio en vivo:** [danny-mera-seguros.netlify.app](https://danny-mera-seguros.netlify.app) (Netlify, deploy automático desde `main`, publicado 2026-08-11).
 
 ## Qué se quiere construir
 Un sitio para el negocio de seguros de Danny (agente de seguros, primer mes: $874.000 CLP), con:
