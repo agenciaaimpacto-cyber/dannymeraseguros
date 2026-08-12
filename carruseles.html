@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Carruseles — Danny Mera Seguros</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --teal-dark: #0F3D3E; --teal: #1B6B63; --teal-light: #E8F3F1;
+    --gold: #C9A227; --gold-deep: #A6841E; --paper: #FAFAF7;
+    --ink: #16211E; --ink-dim: #5B6963; --line: #DCE6E3;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--teal-dark); color: var(--paper); font-family: 'Inter', sans-serif; line-height: 1.5; }
+  header { border-bottom: 1px solid rgba(250,250,247,0.15); padding: 28px 24px 20px; max-width: 960px; margin: 0 auto; }
+  .brand { font-family: 'Fraunces', serif; font-weight: 700; font-size: 26px; }
+  .brand span { color: var(--gold); }
+  .sub { margin-top: 8px; font-size: 13px; color: rgba(250,250,247,0.6); font-family: 'IBM Plex Mono', monospace; }
+  main { max-width: 960px; margin: 0 auto; padding: 32px 24px 60px; }
+
+  .day-group { margin-bottom: 40px; }
+  .day-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--gold);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(250,250,247,0.1);
+  }
+
+  .carousel-set { border-left: 3px solid rgba(250,250,247,0.15); padding-left: 16px; margin-bottom: 24px; transition: border-color 0.2s, opacity 0.2s; }
+  .carousel-set.done { border-left-color: var(--teal); opacity: 0.55; }
+  .carousel-set.pending { border-left-color: var(--gold); }
+
+  .check-row { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  .check-row input[type="checkbox"] { width: 16px; height: 16px; accent-color: var(--teal); cursor: pointer; }
+  .check-row label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: rgba(250,250,247,0.6);
+    cursor: pointer;
+  }
+  .badge-pendiente {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: var(--gold);
+    border: 1px solid var(--gold);
+    border-radius: 3px;
+    padding: 1px 6px;
+    margin-left: 8px;
+  }
+
+  .carousel-title { font-family: 'Fraunces', serif; font-size: 16px; margin-bottom: 10px; color: var(--paper); }
+  .thumbs { display: flex; gap: 10px; flex-wrap: wrap; }
+  .thumb { position: relative; }
+  .thumb a.dl {
+    display: block; position: relative; border-radius: 4px; overflow: hidden;
+    border: 1px solid rgba(250,250,247,0.15); cursor: pointer;
+  }
+  .thumb a.dl img { width: 110px; height: 137px; object-fit: cover; display: block; }
+  .thumb a.dl .dl-overlay {
+    position: absolute; inset: 0; background: rgba(15,61,62,0.7); color: var(--paper);
+    display: flex; align-items: center; justify-content: center; font-size: 26px;
+    opacity: 0; transition: opacity 0.15s;
+  }
+  .thumb a.dl:hover .dl-overlay, .thumb a.dl:active .dl-overlay { opacity: 1; }
+  .thumb .slide-num {
+    display: block; margin-top: 4px; text-align: center;
+    font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: rgba(250,250,247,0.5);
+  }
+  .dl-all {
+    display: inline-block; margin-top: 12px;
+    font-family: 'IBM Plex Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.4px;
+    color: var(--gold); text-decoration: none; border: 1px solid var(--gold);
+    padding: 6px 12px; border-radius: 4px; cursor: pointer; background: none;
+  }
+  .dl-all:hover { background: rgba(201,162,39,0.1); }
+
+  .status-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    background: rgba(201,162,39,0.08); border: 1px solid rgba(201,162,39,0.25);
+    border-radius: 6px; padding: 14px 18px; margin-bottom: 32px;
+    font-family: 'IBM Plex Mono', monospace; font-size: 12.5px;
+  }
+  #pending-count { color: var(--gold); font-weight: 600; }
+  .status-bar.all-done { border-color: rgba(27,107,99,0.4); background: rgba(27,107,99,0.15); }
+  .status-bar.all-done #pending-count { color: var(--teal-light); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">Danny Mera <span>Seguros</span></div>
+  <div class="sub">Carruseles diarios para redes — descarga y publica</div>
+</header>
+
+<main>
+
+  <div class="status-bar" id="status-bar">
+    <span><span id="pending-count">—</span> pendientes de publicar</span>
+    <span style="color:rgba(250,250,247,0.5); font-size:11px;">el check se guarda en este navegador</span>
+  </div>
+
+  <div class="day-group">
+    <div class="day-label">12 agosto 2026</div>
+
+    <div class="carousel-set" data-carousel-id="2026-08-12-1">
+      <div class="check-row">
+        <input type="checkbox" id="chk-2026-08-12-1">
+        <label for="chk-2026-08-12-1">Marcar como publicado</label>
+        <span class="badge-pendiente">Pendiente</span>
+      </div>
+      <div class="carousel-title">Carrusel 1 (portabilidad) — Si recién empezaste a pagar tu crédito, puedes recuperar más plata</div>
+      <div class="thumbs">
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-1-portabilidad/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-08-12/carrusel-1-portabilidad/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-1-portabilidad/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-08-12/carrusel-1-portabilidad/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-1-portabilidad/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-08-12/carrusel-1-portabilidad/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-1-portabilidad/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-08-12/carrusel-1-portabilidad/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-1-portabilidad/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-08-12/carrusel-1-portabilidad/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+      </div>
+      <button type="button" class="dl-all" data-download-all="2026-08-12-1">Descargar carrusel completo (5) →</button>
+    </div>
+
+    <div class="carousel-set" data-carousel-id="2026-08-12-2">
+      <div class="check-row">
+        <input type="checkbox" id="chk-2026-08-12-2">
+        <label for="chk-2026-08-12-2">Marcar como publicado</label>
+        <span class="badge-pendiente">Pendiente</span>
+      </div>
+      <div class="carousel-title">Carrusel 2 — Una aseguradora vendió 5.349 pólizas con agentes que no estaban inscritos</div>
+      <div class="thumbs">
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-08-12/carrusel-2-cmf-multa/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+      </div>
+      <button type="button" class="dl-all" data-download-all="2026-08-12-2">Descargar carrusel completo (5) →</button>
+    </div>
+
+    <div class="carousel-set" data-carousel-id="2026-08-12-3">
+      <div class="check-row">
+        <input type="checkbox" id="chk-2026-08-12-3">
+        <label for="chk-2026-08-12-3">Marcar como publicado</label>
+        <span class="badge-pendiente">Pendiente</span>
+      </div>
+      <div class="carousel-title">Carrusel 3 — Van al menos 3 aseguradoras multadas por vender con agentes no inscritos</div>
+      <div class="thumbs">
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-08-12/carrusel-3-patron-sanciones/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+      </div>
+      <button type="button" class="dl-all" data-download-all="2026-08-12-3">Descargar carrusel completo (5) →</button>
+    </div>
+  </div>
+
+  <div class="day-group">
+    <div class="day-label">11 agosto 2026</div>
+
+    <div class="carousel-set" data-carousel-id="2026-08-11-1">
+      <div class="check-row">
+        <input type="checkbox" id="chk-2026-08-11-1">
+        <label for="chk-2026-08-11-1">Marcar como publicado</label>
+        <span class="badge-pendiente">Pendiente</span>
+      </div>
+      <div class="carousel-title">Carrusel 1 (portabilidad) — Tu crédito trae un seguro que no elegiste tú</div>
+      <div class="thumbs">
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-1-portabilidad/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-08-11/carrusel-1-portabilidad/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-1-portabilidad/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-08-11/carrusel-1-portabilidad/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-1-portabilidad/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-08-11/carrusel-1-portabilidad/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-1-portabilidad/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-08-11/carrusel-1-portabilidad/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-1-portabilidad/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-08-11/carrusel-1-portabilidad/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+      </div>
+      <button type="button" class="dl-all" data-download-all="2026-08-11-1">Descargar carrusel completo (5) →</button>
+    </div>
+
+    <div class="carousel-set" data-carousel-id="2026-08-11-2">
+      <div class="check-row">
+        <input type="checkbox" id="chk-2026-08-11-2">
+        <label for="chk-2026-08-11-2">Marcar como publicado</label>
+        <span class="badge-pendiente">Pendiente</span>
+      </div>
+      <div class="carousel-title">Carrusel 2 — Demandan a una financiera por obligar a sus clientes a contratar un seguro</div>
+      <div class="thumbs">
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-2-sernac/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-08-11/carrusel-2-sernac/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-2-sernac/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-08-11/carrusel-2-sernac/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-2-sernac/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-08-11/carrusel-2-sernac/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-2-sernac/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-08-11/carrusel-2-sernac/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-2-sernac/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-08-11/carrusel-2-sernac/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+      </div>
+      <button type="button" class="dl-all" data-download-all="2026-08-11-2">Descargar carrusel completo (5) →</button>
+    </div>
+
+    <div class="carousel-set" data-carousel-id="2026-08-11-3">
+      <div class="check-row">
+        <input type="checkbox" id="chk-2026-08-11-3">
+        <label for="chk-2026-08-11-3">Marcar como publicado</label>
+        <span class="badge-pendiente">Pendiente</span>
+      </div>
+      <div class="carousel-title">Carrusel 3 — El chileno promedio recupera $350.000 de su seguro de desgravamen</div>
+      <div class="thumbs">
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-3-cifras/slide-1.png" download title="Descargar slide 1"><img src="carruseles/2026-08-11/carrusel-3-cifras/slide-1.png" alt="Slide 1"><span class="dl-overlay">⬇</span></a><span class="slide-num">1</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-3-cifras/slide-2.png" download title="Descargar slide 2"><img src="carruseles/2026-08-11/carrusel-3-cifras/slide-2.png" alt="Slide 2"><span class="dl-overlay">⬇</span></a><span class="slide-num">2</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-3-cifras/slide-3.png" download title="Descargar slide 3"><img src="carruseles/2026-08-11/carrusel-3-cifras/slide-3.png" alt="Slide 3"><span class="dl-overlay">⬇</span></a><span class="slide-num">3</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-3-cifras/slide-4.png" download title="Descargar slide 4"><img src="carruseles/2026-08-11/carrusel-3-cifras/slide-4.png" alt="Slide 4"><span class="dl-overlay">⬇</span></a><span class="slide-num">4</span></div>
+        <div class="thumb"><a class="dl" href="carruseles/2026-08-11/carrusel-3-cifras/slide-5.png" download title="Descargar slide 5"><img src="carruseles/2026-08-11/carrusel-3-cifras/slide-5.png" alt="Slide 5"><span class="dl-overlay">⬇</span></a><span class="slide-num">5</span></div>
+      </div>
+      <button type="button" class="dl-all" data-download-all="2026-08-11-3">Descargar carrusel completo (5) →</button>
+    </div>
+  </div>
+
+  <p style="margin-top:20px; font-family:'IBM Plex Mono',monospace; font-size:11px; color:rgba(250,250,247,0.5);">
+    — cada día se suman 3 carruseles nuevos aquí (el primero siempre sobre portabilidad), ordenados por fecha con el más reciente arriba, nada se elimina —
+  </p>
+
+</main>
+
+<script>
+(function () {
+  var STORAGE_KEY = 'dannyMeraSeguros.carruseles.publicados';
+  var state = {};
+  try { state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (e) { state = {}; }
+
+  function save() {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  }
+
+  function updateStatusBar() {
+    var sets = document.querySelectorAll('.carousel-set');
+    var pending = 0;
+    sets.forEach(function (el) {
+      if (!state[el.dataset.carouselId]) pending++;
+    });
+    var bar = document.getElementById('status-bar');
+    document.getElementById('pending-count').textContent = pending;
+    bar.classList.toggle('all-done', pending === 0);
+  }
+
+  function applyState(el) {
+    var id = el.dataset.carouselId;
+    var done = !!state[id];
+    var checkbox = el.querySelector('input[type="checkbox"]');
+    var badge = el.querySelector('.badge-pendiente');
+    checkbox.checked = done;
+    el.classList.toggle('done', done);
+    el.classList.toggle('pending', !done);
+    if (badge) badge.style.display = done ? 'none' : 'inline-block';
+  }
+
+  document.querySelectorAll('.carousel-set').forEach(function (el) {
+    var checkbox = el.querySelector('input[type="checkbox"]');
+    applyState(el);
+    checkbox.addEventListener('change', function () {
+      state[el.dataset.carouselId] = checkbox.checked;
+      save();
+      applyState(el);
+      updateStatusBar();
+    });
+  });
+
+  document.querySelectorAll('[data-download-all]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var id = btn.dataset.downloadAll;
+      var set = document.querySelector('.carousel-set[data-carousel-id="' + id + '"]');
+      if (!set) return;
+      var links = set.querySelectorAll('a.dl');
+      links.forEach(function (link, i) {
+        setTimeout(function () {
+          var a = document.createElement('a');
+          a.href = link.href;
+          a.download = '';
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        }, i * 350);
+      });
+    });
+  });
+
+  updateStatusBar();
+})();
+</script>
+
+</body>
+</html>
