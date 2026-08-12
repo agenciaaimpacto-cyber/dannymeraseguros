@@ -48,6 +48,18 @@
   }
   .badge .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); }
 
+  .media-section { margin: 32px 0; }
+  .media-section h2 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 21px; color: var(--teal-dark); margin-bottom: 6px; }
+  .media-section p.media-sub { font-size: 14px; color: var(--ink-dim); margin-bottom: 18px; max-width: 560px; }
+  .media-grid { display: grid; gap: 24px; grid-template-columns: 1fr; }
+  @media (min-width: 640px) { .media-grid { grid-template-columns: repeat(2, 1fr); } }
+  .video-frame {
+    position: relative; width: 100%; aspect-ratio: 16 / 9;
+    border-radius: 14px; overflow: hidden; border: 1px solid var(--line); background: #000;
+  }
+  .video-frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .video-caption { font-size: 12.5px; color: var(--ink-dim); margin-top: 10px; }
+
   .contact-card {
     background: var(--teal-dark); color: var(--paper); border-radius: 18px; padding: 32px; margin-top: 32px;
   }
@@ -111,6 +123,25 @@
         <span class="badge"><span class="dot"></span>28 años en ventas</span>
         <span class="badge"><span class="dot"></span>Grupo Insurex · Mueve Seguro</span>
         <span class="badge"><span class="dot"></span>Proceso 100% online</span>
+      </div>
+    </section>
+
+    <section class="media-section">
+      <h2>La empresa que represento, en los medios</h2>
+      <p class="media-sub">Grupo Insurex (Mueve Seguro) ha salido en televisión nacional explicando este mismo derecho a portabilidad del seguro de desgravamen.</p>
+      <div class="media-grid">
+        <div>
+          <div class="video-frame">
+            <iframe src="https://www.youtube.com/embed/TxzlRuk0MDo" title="Contigo en la Mañana CHV — Portabilidad de seguros" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p class="video-caption">"Contigo en la Mañana", CHV — Portabilidad de seguros.</p>
+        </div>
+        <div>
+          <div class="video-frame">
+            <iframe src="https://www.youtube.com/embed/u1j_L_alx3U" title="CHV — Cómo funciona la portabilidad de seguros, con expertos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p class="video-caption">CHV — Cómo funciona la portabilidad de seguros, con expertos.</p>
+        </div>
       </div>
     </section>
 
