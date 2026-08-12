@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Otros seguros — Danny Mera Seguros</title>
-<meta name="description" content="Además de la devolución de desgravamen, Danny Mera también asesora en seguros de vida, salud y automotriz.">
+<title>Noticias del rubro — Danny Mera Seguros</title>
+<meta name="description" content="Normativa, derechos del consumidor financiero y datos sobre devoluciones de seguros en Chile, con fuentes verificables.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -26,7 +26,7 @@
   .nav-row { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; max-width: 960px; margin: 0 auto; gap: 16px; }
   .brand { font-family: 'Fraunces', serif; font-weight: 600; font-size: 20px; white-space: nowrap; }
   .brand span { color: var(--gold); }
-  nav.links { display: none; gap: 22px; font-size: 14px; font-weight: 500; }
+  nav.links { display: none; gap: 20px; font-size: 14px; font-weight: 500; }
   nav.links a { text-decoration: none; color: rgba(250,250,247,0.85); }
   nav.links a:hover, nav.links a.active { color: var(--gold); }
   @media (min-width: 760px) { nav.links { display: flex; } }
@@ -34,25 +34,37 @@
   .btn-nav-wa:hover { background: var(--whatsapp-deep); }
 
   .page-head { padding: 48px 24px 12px; max-width: 780px; margin: 0 auto; }
-  .eyebrow { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal); margin-bottom: 12px; display: block; }
+  .eyebrow { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal); margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+  .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--gold); display: inline-block; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+  @media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
   h1 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 32px; color: var(--teal-dark); margin-bottom: 12px; }
   .page-head p.lead { font-size: 15.5px; color: var(--ink-dim); }
 
-  section { padding: 28px 0; }
-  .cards { display: grid; gap: 16px; margin-top: 8px; }
-  @media (min-width: 640px) { .cards { grid-template-columns: repeat(3, 1fr); } }
-  .card { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 24px; }
-  .card .icon {
-    width: 42px; height: 42px; border-radius: 10px; background: var(--teal-light); color: var(--teal);
-    display: flex; align-items: center; justify-content: center; margin-bottom: 14px; font-size: 20px;
-  }
-  .card h2 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 18px; color: var(--teal-dark); margin-bottom: 8px; }
-  .card p { font-size: 14px; color: var(--ink-dim); }
+  section { padding: 28px 0 48px; }
 
-  .cta-block {
-    background: var(--teal-dark); color: var(--paper); border-radius: 18px; padding: 32px; margin-top: 32px; text-align: center;
+  .despacho {
+    background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 26px; margin-bottom: 18px;
   }
-  .cta-block p { color: rgba(250,250,247,0.85); margin-bottom: 18px; font-size: 15px; max-width: 480px; margin-left: auto; margin-right: auto; }
+  .despacho .meta {
+    display: flex; align-items: center; gap: 10px; font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--teal); margin-bottom: 12px;
+  }
+  .despacho .meta .fuente {
+    background: var(--teal-light); padding: 3px 10px; border-radius: 999px; color: var(--teal-dark);
+  }
+  .despacho h2 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 20px; color: var(--teal-dark); margin-bottom: 10px; line-height: 1.3; }
+  .despacho p { font-size: 15px; color: var(--ink); margin-bottom: 14px; }
+  .despacho .fuente-link {
+    font-size: 13px; font-weight: 600; color: var(--teal); text-decoration: none; border-bottom: 1px solid var(--gold); padding-bottom: 1px;
+  }
+  .despacho .fuente-link:hover { color: var(--gold-deep); }
+
+  .note-box {
+    background: var(--teal-light); border-radius: 12px; padding: 18px 20px; margin: 8px 0 28px; font-size: 13.5px; color: var(--teal-dark);
+  }
+
+  .cta-block { text-align: center; padding: 12px 24px 0; }
   .btn-primary {
     display: inline-flex; align-items: center; gap: 10px; background: var(--whatsapp);
     color: #fff; font-weight: 600; font-size: 16px; padding: 14px 26px; border-radius: 999px;
@@ -84,8 +96,8 @@
       <a href="index.html">Inicio</a>
       <a href="como-funciona.html">Cómo funciona</a>
       <a href="casos.html">Casos</a>
-      <a href="noticias.html">Noticias</a>
-      <a href="otros-seguros.html" class="active">Otros seguros</a>
+      <a href="noticias.html" class="active">Noticias</a>
+      <a href="otros-seguros.html">Otros seguros</a>
       <a href="sobre-mi.html">Sobre mí</a>
     </nav>
     <a class="btn-nav-wa" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener">WhatsApp</a>
@@ -94,35 +106,45 @@
 
 <main>
   <div class="page-head">
-    <span class="eyebrow">Otros seguros</span>
-    <h1>También te puedo ayudar con otros seguros</h1>
-    <p class="lead">Además de la devolución de tu seguro de desgravamen, superviso otras líneas de seguros. Esta sección es informativa por ahora.</p>
+    <span class="eyebrow"><span class="live-dot"></span>Normativa · Derechos · Datos del rubro</span>
+    <h1>Noticias del rubro seguros</h1>
+    <p class="lead">Normativa, derechos del consumidor financiero y datos sobre devoluciones de seguros, con fuentes chilenas verificables.</p>
   </div>
 
   <div class="wrap">
     <section>
-      <div class="cards">
-        <div class="card">
-          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="22" height="22"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8Z"/></svg></div>
-          <h2>Seguro de vida</h2>
-          <p>Protege a tu familia o a quien tú designes con un pago en caso de fallecimiento. Puede incluir coberturas adicionales según el plan.</p>
-        </div>
-        <div class="card">
-          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="22" height="22"><path d="M19 14c1.5-1.5 3-3.28 3-5.5A5.5 5.5 0 0 0 12 5a5.5 5.5 0 0 0-10 3.5C2 12 8 17 12 20c1.5-1.1 3.02-2.36 4.5-3.75"/><path d="M8 12h2l1-2 2 4 1-2h2"/></svg></div>
-          <h2>Seguro de salud</h2>
-          <p>Complementa lo que cubre Fonasa o tu Isapre, ayudando con gastos médicos, exámenes o tratamientos que no quedan cubiertos del todo.</p>
-        </div>
-        <div class="card">
-          <div class="icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="22" height="22"><path d="M5 17h14M5 17a2 2 0 1 0 4 0M5 17a2 2 0 1 1 4 0m6 0a2 2 0 1 0 4 0m-4 0a2 2 0 1 1 4 0M3 17V11l2-5h10l4 5v6M3 11h16"/></svg></div>
-          <h2>Seguro automotriz</h2>
-          <p>Cubre tu vehículo ante robo, choque u otros daños, según el tipo de póliza contratada.</p>
-        </div>
+
+      <div class="despacho">
+        <div class="meta"><span>12 jun 2026</span><span class="fuente">SERNAC</span></div>
+        <h2>SERNAC demanda a financiera hipotecaria por obligar a clientes a contratar un seguro específico</h2>
+        <p>El Servicio Nacional del Consumidor presentó una demanda colectiva contra la mutuaria Creditú y la aseguradora AVLA por "venta atada": exigir la contratación de un seguro determinado como condición obligatoria para acceder a un crédito hipotecario, sin dejar al cliente elegir. El SERNAC pide declarar nulas las cláusulas abusivas y aplicar multas de hasta 1.500 UTM por infracción.</p>
+        <p>El caso confirma algo que muchas personas no saben: <strong>nadie puede obligarte a mantener el seguro que vino con tu crédito.</strong></p>
+        <a class="fuente-link" href="https://www.sernac.cl/portal/604/w3-article-88862.html" target="_blank" rel="noopener">Ver fuente: SERNAC →</a>
+      </div>
+
+      <div class="despacho">
+        <div class="meta"><span>28 jul 2026</span><span class="fuente">G5 Noticias</span></div>
+        <h2>La ley que permite cambiar tu seguro de desgravamen (y casi nadie conoce)</h2>
+        <p>La Ley 20.448 (2010) establece que ningún banco ni financiera puede obligarte a contratar el seguro de desgravamen con la misma institución que te otorgó el crédito. La Ley 21.236, de portabilidad financiera, va más allá: permite comparar ofertas y trasladarte a una aseguradora con mejores condiciones, siempre que la nueva póliza cumpla los requisitos mínimos que exige la entidad que dio el crédito.</p>
+        <p>Aplica para créditos de consumo, automotrices, comerciales e hipotecarios.</p>
+        <a class="fuente-link" href="https://g5noticias.cl/2026/07/28/educacion-financiera-como-funciona-la-portabilidad-del-seguro-de-desgravamen-en-los-creditos/" target="_blank" rel="noopener">Ver fuente: G5 Noticias →</a>
+      </div>
+
+      <div class="despacho">
+        <div class="meta"><span>31 jul 2026</span><span class="fuente">Chócale</span></div>
+        <h2>Cuánto se puede recuperar del seguro de desgravamen, según cifras del sector</h2>
+        <p>Según cifras citadas por plataformas del rubro, la devolución promedio por seguro de desgravamen ronda los <strong>$350.000</strong> por persona, y puede acercarse a los <strong>$650.000</strong> cuando se incluye seguro de cesantía. La Circular N° 2.114 de la CMF obliga a las aseguradoras a realizar la devolución en un plazo máximo de <strong>10 días hábiles</strong> una vez aceptado el cambio.</p>
+        <p>El monto final depende del saldo pendiente del crédito y de las cuotas que falten por pagar — por eso cada caso es distinto.</p>
+        <a class="fuente-link" href="https://chocale.cl/2026/07/recuperar-portabilidad-seguro-de-desgravamen-creditos/" target="_blank" rel="noopener">Ver fuente: Chócale →</a>
+      </div>
+
+      <div class="note-box">
+        Estos despachos se investigan con fuentes verificables y se actualizan de forma periódica — igual que en el resto de nuestros canales.
       </div>
 
       <div class="cta-block">
-        <p>Además de la devolución de tu seguro de desgravamen, también puedo ayudarte a revisar tus seguros de vida, salud o automotriz. Escríbeme y conversamos sobre tu caso.</p>
-        <a class="btn-primary" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20conversar%20sobre%20otros%20seguros" target="_blank" rel="noopener">
-          Conversemos por WhatsApp
+        <a class="btn-primary" href="https://wa.me/56940130088?text=Hola%20Danny%2C%20quiero%20revisar%20mi%20caso%20de%20devoluci%C3%B3n%20de%20seguro%20de%20desgravamen" target="_blank" rel="noopener">
+          Revisa tu caso por WhatsApp
         </a>
       </div>
     </section>
