@@ -5,6 +5,10 @@ Notas trasladadas desde la sesión de Radar Comercial (11 agosto 2026) para arra
 **Repositorio:** [github.com/agenciaaimpacto-cyber/dannymeraseguros](https://github.com/agenciaaimpacto-cyber/dannymeraseguros) (público, creado 2026-08-11).
 **Sitio en vivo:** [danny-mera-seguros.netlify.app](https://danny-mera-seguros.netlify.app) (Netlify, deploy automático desde `main`, publicado 2026-08-11).
 
+**Ojo, no confundir con otro sitio:** en la misma cuenta de Netlify (`agenciaaimpacto`) existe también `dannymera.com`, que es un sitio **distinto**, ligado al negocio principal de Danny y a Radar Comercial (no a este proyecto de seguros). Son dos sitios separados a propósito.
+
+**Nota de cuenta Netlify:** el equipo `agenciaaimpacto` tiene varios sitios corriendo bajo la misma cuenta y en algún momento mostró un aviso de "operational credits" agotados (los sitios publicados siguen en línea, pero los deploys nuevos podrían no ejecutarse hasta actualizar el plan). Si la rutina diaria alguna vez deja de reflejarse en el sitio en vivo aunque el commit sí llegue a GitHub, revisar esto primero (Netlify → Usage & billing).
+
 ## Qué se quiere construir
 Un sitio para el negocio de seguros de Danny (agente de seguros, primer mes: $874.000 CLP), con:
 - Despachos de noticias del rubro seguros (mismo modelo que Radar Comercial: automatizado, investigación real con fuentes verificables)
