@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PATRÓN 2026", "text": "Van al menos **3 aseguradoras multadas** por vender con agentes no inscritos"},
+    {"type": "text", "lines": ["Continental, Suramericana y Renta Nacional,", "**todas sancionadas por la CMF este año.**"], "sub": "Todas por el mismo motivo: agentes o corredores sin registro vigente."},
+    {"type": "stat", "number": "200", "unit": "UF", "text": "fue la multa más alta del año, a **Compañía de Seguros de Crédito Continental**"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Antes de firmar, puedes pedir el **número de registro** de quien te está vendiendo el seguro", "source": "Fuente: CMF, sanciones 2026"},
+    {"type": "cta", "text": "Trabaja con un agente **registrado y verificable**", "button": "Escríbeme por WhatsApp ->", "sub": "Agente comercial de Grupo Insurex (Mueve Seguro)."}
+  ]
+}

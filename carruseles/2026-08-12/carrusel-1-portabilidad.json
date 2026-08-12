@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Si recién empezaste a pagar tu crédito, **puedes recuperar más plata**"},
+    {"type": "text", "lines": ["Mientras menos cuotas llevas pagadas,", "**más prima sin usar queda en tu seguro.**"], "sub": "Y esa parte no usada se puede devolver."},
+    {"type": "stat", "number": "3", "unit": "créditos", "text": "tipos donde puedes portar tu seguro de desgravamen: **consumo, automotriz y comercial**"},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "El banco **no puede obligarte** a mantener el seguro que vino con tu crédito", "source": "Fuente: G5 Noticias / CMF Educa"},
+    {"type": "cta", "text": "¿Aún no sabes cuánto puedes **recuperar tú?**", "button": "Escríbeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

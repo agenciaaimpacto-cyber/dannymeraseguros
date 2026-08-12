@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA · CMF", "text": "Una aseguradora vendió **5.349 pólizas** con agentes que no estaban inscritos"},
+    {"type": "text", "lines": ["Seguros Generales Suramericana", "**fue multada con 100 UF.**"], "sub": "Por usar 155 agentes no registrados en la CMF."},
+    {"type": "stat", "number": "155", "unit": "agentes", "text": "no estaban inscritos en el registro de la CMF y **igual vendían pólizas**"},
+    {"type": "proof", "tag": "ARTÍCULO 57 · LEY DE SEGUROS", "text": "**Puedes verificar** si tu agente o corredor está inscrito ante la CMF", "source": "Fuente: CMF, feb 2026"},
+    {"type": "cta", "text": "¿Quieres que revisemos **tu seguro actual?**", "button": "Escríbeme por WhatsApp ->", "sub": "Trabajamos como agente registrado de Grupo Insurex."}
+  ]
+}
