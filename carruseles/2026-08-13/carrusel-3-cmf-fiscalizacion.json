@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "REGULACION FRESCA", "text": "La CMF acaba de exigir **mas control** a las aseguradoras sobre sus proveedores"},
+    {"type": "text", "lines": ["La nueva norma N 573 obliga a las", "**companias de seguros a fiscalizar** a quienes subcontratan."], "sub": "Publicada el 12 de agosto de 2026."},
+    {"type": "stat", "number": "3", "unit": "normas", "text": "de gobierno corporativo y ciberseguridad se suman para **proteger tu poliza**"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Mientras mas fiscalizada esta una aseguradora, **mayor respaldo tienes tu** como cliente", "source": "Fuente: CMF Chile, ago 2026"},
+    {"type": "cta", "text": "Trabaja con un agente **respaldado y regulado**", "button": "Escribeme por WhatsApp ->", "sub": "Agente comercial de Grupo Insurex (Mueve Seguro)."}
+  ]
+}

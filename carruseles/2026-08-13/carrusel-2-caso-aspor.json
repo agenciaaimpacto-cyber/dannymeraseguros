@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA · CORTE SUPREMA", "text": "Una aseguradora se nego a pagar **$1.000 millones** en polizas... y perdio"},
+    {"type": "text", "lines": ["Aspor se nego a pagar 5 polizas", "**que debia al Gobierno Regional.**"], "sub": "Alegando falta de documentacion, durante meses."},
+    {"type": "stat", "number": "1.000", "unit": "UF", "text": "fue la multa que le aplico la CMF por **no cumplir con el pago**"},
+    {"type": "proof", "tag": "LO QUE IMPORTA", "text": "La CMF y los tribunales **pueden obligar** a una aseguradora a cumplir", "source": "Fuente: BioBioChile, ago 2026"},
+    {"type": "cta", "text": "¿Tu aseguradora te debe **una devolucion?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a exigir lo que corresponde."}
+  ]
+}

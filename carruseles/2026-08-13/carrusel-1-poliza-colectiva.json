@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Tu seguro de desgravamen puede ser **colectivo**, no tuyo"},
+    {"type": "text", "lines": ["El banco te afilia a una poliza", "**negociada para muchos clientes a la vez.**"], "sub": "No fue pensada para tu caso particular."},
+    {"type": "stat", "number": "2", "unit": "tipos", "text": "de poliza existen: **colectiva** (del banco) o **individual** (tuya y portable)"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes terminar la poliza colectiva y contratar una **individual y mas barata**", "source": "Fuente: Portabilidad de seguros, 2026"},
+    {"type": "cta", "text": "¿Sabes que tipo de poliza **tienes tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
