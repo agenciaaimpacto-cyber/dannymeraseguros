@@ -83,6 +83,15 @@ El proyecto es para Chile. Evitar acentos/voseo argentino (vos, tenés, etc.) al
 **Nota técnica importante (descubierta el 14 de agosto, en Radar Comercial) — leer ANTES de armar cualquier automatización local en la Mac para este proyecto:**
 Si en algún momento este proyecto necesita algo que corra en la Mac de Danny (no en la nube) — por ejemplo, bajar y organizar archivos generados en carpetas locales — hay que usar `launchd` (no `cron`, que no recupera tareas perdidas cuando la Mac estuvo dormida). Pero ojo: **macOS bloquea el acceso a las carpetas Documentos/Escritorio/Descargas para procesos que corren en segundo plano vía `launchd`, sin importar qué permiso de "Acceso total al disco" se le dé al programa** — se probó dándole el permiso, reiniciando sesión, y hasta usando la ruta exacta del binario, y siguió fallando con `Operation not permitted`. La solución real es evitar el problema, no pelearlo: **la carpeta de este proyecto tiene que vivir fuera de `~/Documents`** (directo en `~/NombreProyecto`, no dentro de Documentos/Escritorio/Descargas) desde el principio, si se sabe que en algún momento va a necesitar una automatización local así. Por eso Radar Comercial se movió de `~/Documents/Danny Mera/Proyecto Radar Comercial` a `~/RadarComercial`.
 
+**Estado: aplicado en este proyecto el 14 de agosto de 2026.** El proyecto se movió de `~/Documents/Danny Mera/Proyecto Seguros` a `~/DannyMeraSeguros` (misma razón que Radar Comercial). Ruta local nueva a usar siempre de ahora en adelante: `/Users/danny/DannyMeraSeguros`.
+
+## Sincronización local de carruseles (`Contenido Carrusel/Carrusel`)
+- Script: `scripts/sync_carruseles.py` — copia lo nuevo de `carruseles/<YYYY-MM-DD>/carrusel-N-tema/` (que llega vía `git pull` desde la rutina en la nube) hacia `Contenido Carrusel/Carrusel/<Mes Año>/<día>/C<n>/`, deduplicando por hash de la primera imagen (así no pisa nada que Danny haya guardado a mano en esa misma carpeta del día).
+- Corre solo, vía `launchd` (plist `~/Library/LaunchAgents/com.dannymera.seguros.synccarruseles.plist`), todos los días a las **10:00 AM hora del Mac** — 2 horas después de que corre la rutina en la nube (8:00 AM Chile), mismo margen que se usa en Radar Comercial.
+- `Contenido Carrusel/` es local, **no se sube al repo** (está en `.gitignore`) — es solo para que Danny la revise y publique manualmente en redes, igual que la página `carruseles.html` no listada, pero organizada en carpetas de Finder en vez de una web.
+- Logs en `scripts/sync_carruseles.log` (log propio del script) y `scripts/launchd_out.log` / `scripts/launchd_err.log` (salida de launchd) — revisar ahí primero si algún día no aparece contenido nuevo.
+- Probado el 14 de agosto: corrida manual copió 10 carruseles nuevos sin pisar los 2 que Danny ya había copiado a mano el día 12 (los reconoció por hash y los saltó).
+
 ## Cómo se configuró Radar Comercial (guía técnica reutilizable)
 
 Si este proyecto se construye con el mismo esquema (sitio estático + automatización diaria en la nube), estos son los pasos que se siguieron, en orden. Se puede repetir tal cual:
