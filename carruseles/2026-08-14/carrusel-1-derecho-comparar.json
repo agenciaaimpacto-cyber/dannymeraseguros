@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TU DERECHO", "text": "Nadie puede **apurarte** a decidir sobre tu seguro de desgravamen"},
+    {"type": "text", "lines": ["La normativa que regula la portabilidad", "**esta pensada para que compares con calma.**"], "sub": "No para que resuelvas todo en la misma llamada."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "te respaldan para comparar y cambiar tu seguro de desgravamen: **Ley 20.448 y Ley 21.236**"},
+    {"type": "proof", "tag": "EL PRINCIPIO DETRAS DE LA LEY", "text": "Comparar antes de decidir **es un derecho tuyo**, no un favor que te hacen", "source": "Fuente: Carey Abogados / Ley 21.236"},
+    {"type": "cta", "text": "¿Nadie te ha explicado **tus opciones?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin apuro."}
+  ]
+}

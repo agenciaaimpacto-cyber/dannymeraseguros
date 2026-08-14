@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO POCO CONOCIDO", "text": "En creditos de consumo, el seguro de desgravamen **no es obligatorio**"},
+    {"type": "text", "lines": ["Segun SERNAC, ese seguro solo es", "**obligatorio en creditos hipotecarios.**"], "sub": "En consumo, automotriz y comercial, es voluntario."},
+    {"type": "stat", "number": "0", "unit": "seguros", "text": "obligatorios existen en un credito de consumo, **segun SERNAC**"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes aceptarlo, rechazarlo o **contratarlo con quien te convenga**, no con quien te dio el credito", "source": "Fuente: SERNAC Educacion"},
+    {"type": "cta", "text": "¿Te lo presentaron como **obligatorio?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

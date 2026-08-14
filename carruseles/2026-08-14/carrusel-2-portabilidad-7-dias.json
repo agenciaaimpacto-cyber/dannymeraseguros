@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NORMATIVA", "text": "Toda oferta de portabilidad financiera debe durar **minimo 7 dias habiles**"},
+    {"type": "text", "lines": ["Las instituciones estan obligadas a entregarte", "**un certificado de liquidacion gratuito.**"], "sub": "Con el detalle de tasas, comisiones y saldos vigentes."},
+    {"type": "stat", "number": "7", "unit": "dias habiles", "text": "es el plazo minimo que debe durar una oferta de portabilidad, **para que puedas comparar**"},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La normativa busca que decidas **sin presion y sin apuro**", "source": "Fuente: Carey Abogados, ago 2026"},
+    {"type": "cta", "text": "¿Sabes que **opciones tienes tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso de seguro de desgravamen sin costo."}
+  ]
+}
