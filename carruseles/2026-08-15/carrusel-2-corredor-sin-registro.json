@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO CMF 2026", "text": "Un corredor **sin registro vigente** vendio 293 polizas en 4 anos"},
+    {"type": "text", "lines": ["Su registro fue cancelado en 2021", "**y siguio vendiendo hasta 2025.**"], "sub": "La aseguradora fue multada por dejarlo operar."},
+    {"type": "stat", "number": "150", "unit": "UF", "text": "fue la multa que aplico la CMF a **Renta Nacional Compania de Seguros**"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes pedir el **numero de registro** de quien te vende un seguro, antes de firmar", "source": "Fuente: CMF, Resolucion N4606"},
+    {"type": "cta", "text": "Trabaja con un agente **registrado y verificable**", "button": "Escribeme por WhatsApp ->", "sub": "Agente comercial de Grupo Insurex (Mueve Seguro)."}
+  ]
+}

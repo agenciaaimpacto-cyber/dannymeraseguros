@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "Cambiar tu seguro de desgravamen **no cambia tu credito**"},
+    {"type": "text", "lines": ["Mismo banco, mismo monto,", "**mismas cuotas de siempre.**"], "sub": "Lo unico que cambia es quien te asegura."},
+    {"type": "stat", "number": "3", "unit": "pasos", "text": "bastan para portar tu seguro de desgravamen: **revisar, comparar y firmar**"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes portar tu seguro de desgravamen **sin tocar tu credito**", "source": "Fuente: Ley 20.448"},
+    {"type": "cta", "text": "Pensabas que cambiar de seguro **complicaba tu credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico como funciona, sin compromiso."}
+  ]
+}

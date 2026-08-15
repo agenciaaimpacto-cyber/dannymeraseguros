@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Tu banco tiene que darte **gratis** el detalle completo de tu credito"},
+    {"type": "text", "lines": ["Se llama certificado de liquidacion", "**y lo puedes pedir cuando quieras.**"], "sub": "Incluye tasas, comisiones y saldo pendiente de tus productos."},
+    {"type": "stat", "number": "5", "unit": "dias habiles", "text": "es el plazo maximo para que te lo entreguen, **una vez que lo pides**"},
+    {"type": "proof", "tag": "PORTABILIDAD FINANCIERA", "text": "Ese mismo derecho aplica a **tu seguro de desgravamen**", "source": "Fuente: gob.cl/portabilidadfinanciera"},
+    {"type": "cta", "text": "Con ese mismo documento, revisamos **si te conviene un cambio**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
