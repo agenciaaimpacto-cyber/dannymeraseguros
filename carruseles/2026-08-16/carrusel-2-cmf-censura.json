@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO CMF 2026", "text": "Una aseguradora vendio polizas con coberturas **prohibidas por ley** casi 3 anos"},
+    {"type": "text", "lines": ["La CMF le ordeno corregirlas en 2020.", "**Siguio vendiendolas hasta 2023.**"], "sub": "Casi 316 mil polizas con la misma falla."},
+    {"type": "stat", "number": "3", "unit": "anos", "text": "vendio Chubb Seguros polizas que la ley ya prohibia, **segun la CMF**"},
+    {"type": "proof", "tag": "LA LECCION", "text": "Que un seguro este vigente **no significa que su cobertura sea valida**", "source": "Fuente: CMF / CNN Chile, jun 2026"},
+    {"type": "cta", "text": "Sabes realmente que cubre **tu seguro?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo, sin costo."}
+  ]
+}

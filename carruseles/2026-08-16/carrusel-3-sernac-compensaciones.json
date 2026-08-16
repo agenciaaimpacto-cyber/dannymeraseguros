@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "El SERNAC logro mas de **30 mil millones** en compensaciones durante 2025"},
+    {"type": "text", "lines": ["655 mil reclamos recibidos,", "**casi la mitad con respuesta favorable.**"], "sub": "El sector financiero fue el segundo rubro mas reclamado."},
+    {"type": "stat", "number": "18", "unit": "%", "text": "de los reclamos del SERNAC en 2025 fueron por el **sector financiero**"},
+    {"type": "proof", "tag": "QUE SIGNIFICA ESTO", "text": "Reclamar **si funciona** - el sistema esta hecho para que lo uses", "source": "Fuente: Cuenta Publica SERNAC 2025"},
+    {"type": "cta", "text": "Crees que te estan cobrando **de mas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

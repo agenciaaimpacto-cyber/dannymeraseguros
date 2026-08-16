@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TRANSPARENCIA", "text": "Para revisar tu caso te pedimos **3 documentos** - y aca te explico por que"},
+    {"type": "text", "lines": ["No es para complicarte,", "**es para calcular bien tu devolucion.**"], "sub": "Cada documento tiene un uso especifico, nada mas."},
+    {"type": "stat", "number": "3", "unit": "documentos", "text": "bastan para revisar tu caso: **resumen de credito, poliza y carnet**"},
+    {"type": "proof", "tag": "POR QUE EL CARNET", "text": "Solo sirve para **verificar que los documentos son tuyos** - nada mas", "source": "Asi protegemos tu informacion"},
+    {"type": "cta", "text": "Quieres saber que hacemos con **cada documento?**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico todo antes de pedirte nada."}
+  ]
+}
