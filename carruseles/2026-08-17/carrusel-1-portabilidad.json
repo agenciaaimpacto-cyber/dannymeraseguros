@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "8 de cada 10 chilenos **no sabe** que puede cambiar su seguro de desgravamen"},
+    {"type": "text", "lines": ["Ni el banco ni la casa comercial", "**te lo van a ofrecer.**"], "sub": "La decision de portarte es tuya, no de ellos."},
+    {"type": "stat", "number": "80", "unit": "%", "text": "de las personas **no conoce** que puede portar su seguro de desgravamen a uno mas barato", "source": "Fuente: Estudio Cadem"},
+    {"type": "proof", "tag": "LO QUE DICE LA LEY", "text": "Puedes cambiarte **aunque tu credito ya este vigente**", "source": "Ley N 20.448"},
+    {"type": "cta", "text": "Quieres saber si **tu caso califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

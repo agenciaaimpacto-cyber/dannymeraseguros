@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PATRON 2020-2026", "text": "No eres el primero al que **no le devuelven** su prima a tiempo"},
+    {"type": "text", "lines": ["Banco Security, cinco aseguradoras", "**y ahora una corredora - todos multados por lo mismo.**"], "sub": "La CMF los ha sancionado en distintos anos por no devolver primas."},
+    {"type": "stat", "number": "10", "unit": "dias habiles", "text": "es el plazo maximo que la normativa le da a tu aseguradora para devolver la prima, una vez aceptado el cambio", "source": "Fuente: Circular CMF N 2.114"},
+    {"type": "proof", "tag": "SI NO TE LA DEVUELVEN", "text": "Puedes **reclamar directamente** ante la CMF o el SERNAC", "source": "Son tus derechos como asegurado"},
+    {"type": "cta", "text": "Prefieres que **alguien lo revise por ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a gestionar tu devolucion."}
+  ]
+}

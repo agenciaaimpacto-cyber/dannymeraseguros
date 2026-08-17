@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA - CORTE DE APELACIONES", "text": "Una corredora fue multada con **10.000 UF** por no devolver primas a sus clientes"},
+    {"type": "text", "lines": ["Mas de 21 mil personas afectadas,", "**26 mil seguros con primas sin devolver.**"], "sub": "Entre febrero de 2020 y abril de 2024, segun confirmo la Corte."},
+    {"type": "stat", "number": "119.552", "unit": "UF", "text": "en primas no devueltas a tiempo a los asegurados, segun establecio el fallo", "source": "Fuente: Diario Constitucional, mayo 2026"},
+    {"type": "proof", "tag": "LO QUE CONFIRMA EL FALLO", "text": "La prima no usada de tu seguro **es tuya** - te la deben devolver completa y a tiempo", "source": "Corte de Apelaciones de Santiago"},
+    {"type": "cta", "text": "Nadie te ha devuelto **lo que te corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
