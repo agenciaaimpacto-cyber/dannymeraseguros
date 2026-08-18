@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "FALLO CORTE SUPREMA", "text": "La aseguradora **no quiso pagar** - alego una enfermedad que el cliente nunca declaro"},
+    {"type": "text", "lines": ["La Corte fallo: quien debe probar eso", "**es la aseguradora, no tu.**"], "sub": "Revirtio lo que habia resuelto la Corte de Apelaciones."},
+    {"type": "stat", "number": "1698", "unit": "Cod. Civil", "text": "es el articulo que la aseguradora violo al exigirle al asegurado probar algo que no le correspondia", "source": "Fuente: Corte Suprema, Rol 59.461-2024"},
+    {"type": "proof", "tag": "LO QUE CONFIRMA EL FALLO", "text": "Si te niegan un pago o una devolucion, **la prueba es de ellos**, no tuya", "source": "Corte Suprema de Chile"},
+    {"type": "cta", "text": "Te han negado algo que **si te corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

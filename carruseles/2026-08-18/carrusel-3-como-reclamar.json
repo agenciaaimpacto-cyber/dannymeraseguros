@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE NIEGAN UN PAGO O DEVOLUCION", "text": "No siempre tienen **la razon** - y hay como reclamar"},
+    {"type": "text", "lines": ["Puedes exigir por escrito", "**los motivos exactos** del rechazo."], "sub": "La aseguradora esta obligada a explicartelo."},
+    {"type": "stat", "number": "2", "unit": "instancias", "text": "puedes reclamar directo ante la CMF o presentar tu caso ante el SERNAC", "source": "Derechos del consumidor financiero"},
+    {"type": "proof", "tag": "LO QUE DICEN LOS TRIBUNALES", "text": "Los tribunales han fallado **a favor del asegurado** cuando la aseguradora no logra probar sus argumentos", "source": "Jurisprudencia Corte Suprema"},
+    {"type": "cta", "text": "Necesitas ayuda para **reclamar lo tuyo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

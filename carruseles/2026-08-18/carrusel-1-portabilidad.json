@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO FUNCIONA", "text": "No es un regalo: es la plata que **nadie te dijo** que te sobraba"},
+    {"type": "text", "lines": ["Rescatamos lo que queda sin usar", "de tu seguro **actual.**"], "sub": "Contratamos uno nuevo, mas barato, con la misma cobertura."},
+    {"type": "stat", "number": "3", "unit": "pasos", "text": "rescatar tu prima, contratar un seguro mas barato y **recibir la diferencia**", "source": "Asi funciona la portabilidad"},
+    {"type": "proof", "tag": "LEY 20.448", "text": "El banco **no puede obligarte** a mantener el seguro que vino con tu credito", "source": "Fuente: Ley 20.448"},
+    {"type": "cta", "text": "Quieres saber **cuanto te corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
