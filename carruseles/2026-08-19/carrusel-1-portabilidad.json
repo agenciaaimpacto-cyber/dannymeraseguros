@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ANTES DE ESCRIBIRME", "text": "Revisa esto primero: **no todos los creditos califican**"},
+    {"type": "text", "lines": ["Si tu credito es Hipotecario, de Caja de", "Compensacion o Forum, **no podemos portar tu seguro.**"], "sub": "Para el resto -consumo, automotriz, comercial- si aplica."},
+    {"type": "stat", "number": "3", "unit": "excepciones", "text": "son las unicas donde no aplica la portabilidad de desgravamen: **Hipotecarios, Cajas de Compensacion y Forum**"},
+    {"type": "proof", "tag": "PARA NO HACERTE PERDER TIEMPO", "text": "Si tu credito no es ninguno de esos tres, **hay altas chances de que califiques**", "source": "Segun tipo de credito y aseguradora actual"},
+    {"type": "cta", "text": "Quieres saber si **tu credito califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Te lo confirmo en un mensaje, sin compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "No basta con que te devuelvan tu prima - **tiene que venir reajustada**"},
+    {"type": "text", "lines": ["Si te la devuelven en pesos fijos,", "**puede terminar valiendo menos** que cuando la pagaste."], "sub": "El reajuste protege el valor real de tu plata."},
+    {"type": "stat", "number": "2", "unit": "motivos", "text": "por los que la CMF multo a 5 aseguradoras: **atraso en la devolucion y no reajustarla**"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "La prima no usada se devuelve **a su valor actual**, no al valor de cuando la pagaste", "source": "Fuente: Circular CMF N 2.114"},
+    {"type": "cta", "text": "Te devolvieron menos de lo que **esperabas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MULTA CMF", "text": "La CMF multo a 5 aseguradoras con **19.250 UF** por atrasarse en devolver primas"},
+    {"type": "text", "lines": ["Tanner, BCI y Chubb no devolvieron a tiempo", "**la plata que le debian a sus clientes.**"], "sub": "Y en varios casos, la devolvieron sin el reajuste que correspondia."},
+    {"type": "stat", "number": "10.000", "unit": "UF", "text": "fue la multa mas alta de las 5 - para **Tanner Corredora de Seguros**"},
+    {"type": "proof", "tag": "CIRCULAR CMF N 2.114", "text": "La aseguradora tiene **maximo 10 dias habiles** para devolverte tu plata", "source": "Fuente: CMF, Circular N 2.114"},
+    {"type": "cta", "text": "Te estan demorando **una devolucion?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
