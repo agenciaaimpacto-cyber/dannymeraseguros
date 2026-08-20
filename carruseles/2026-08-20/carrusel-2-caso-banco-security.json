@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL CMF", "text": "Banco, aseguradora y corredora: **los tres fallaron** en el mismo caso"},
+    {"type": "text", "lines": ["La CMF los multo con UF 6.000", "**por atrasarse en devolver primas.**"], "sub": "El banco no aviso a tiempo que el credito se habia prepagado."},
+    {"type": "stat", "number": "6.000", "unit": "UF", "text": "repartidas entre banco, aseguradora y corredora **por la misma demora**", "source": "Fuente: CMF, Resolucion N 10.100"},
+    {"type": "proof", "tag": "LO QUE CONFIRMA EL CASO", "text": "La devolucion de tu prima no consumida **no depende de la buena voluntad de nadie**", "source": "Es una obligacion fiscalizada por la CMF"},
+    {"type": "cta", "text": "Quieres asegurarte de que **no te pase lo mismo?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo."}
+  ]
+}

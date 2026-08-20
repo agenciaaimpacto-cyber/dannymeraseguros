@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI PREPAGASTE TU CREDITO", "text": "Tu seguro de desgravamen **debio terminar ese mismo dia**"},
+    {"type": "text", "lines": ["Si terminaste tu credito antes de tiempo,", "**tu seguro tambien termina.**"], "sub": "Y lo que no alcanzaste a usar de la prima, te lo deben devolver."},
+    {"type": "stat", "number": "100", "unit": "%", "text": "de la prima no usada **te corresponde**, sin importar cuanto falte del credito", "source": "A menos cuotas pagadas, mayor devolucion posible"},
+    {"type": "proof", "tag": "CASO REAL", "text": "Un banco no informo a tiempo un prepago **y termino multado por la CMF**", "source": "El tramite no se hace solo - hay que pedirlo"},
+    {"type": "cta", "text": "Prepagaste o estas por prepagar **tu credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos si te corresponde devolucion."}
+  ]
+}

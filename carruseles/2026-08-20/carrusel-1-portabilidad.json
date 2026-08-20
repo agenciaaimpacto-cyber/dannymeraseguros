@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE APRENDIMOS HOY", "text": "Hasta los bancos grandes **se atrasan** en devolver primas"},
+    {"type": "text", "lines": ["No es raro que la devolucion", "**se demore mas de lo que deberia.**"], "sub": "Por eso conviene que alguien lo gestione por ti."},
+    {"type": "stat", "number": "3", "unit": "actores", "text": "banco, aseguradora y corredora - **los tres pueden fallar** en el proceso de devolucion", "source": "Por eso conviene tener quien te represente"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes portar tu seguro de desgravamen **sin depender de que ellos lo hagan bien**", "source": "Fuente: Ley 20.448"},
+    {"type": "cta", "text": "Prefieres que alguien **gestione esto por ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo."}
+  ]
+}
