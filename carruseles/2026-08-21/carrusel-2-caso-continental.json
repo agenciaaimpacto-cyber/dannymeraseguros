@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL - CMF", "text": "Aseguradora vendio **124 polizas** con corredores no habilitados"},
+    {"type": "text", "lines": ["La Corte de Santiago", "confirmo la multa: **200 UF**."], "sub": "Los corredores ya tenian el registro cancelado."},
+    {"type": "stat", "number": "124", "unit": "polizas", "text": "vendidas entre 2021 y 2025 a traves de corredores **sin registro vigente**", "source": "Fuente: Diario Constitucional"},
+    {"type": "proof", "tag": "EL FALLO", "text": "Basta con que la cancelacion **conste en el registro publico** para que la aseguradora este al tanto", "source": "Fuente: Corte de Apelaciones de Santiago, mayo 2026"},
+    {"type": "cta", "text": "Verifiquemos si tu seguro esta **en orden**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo."}
+  ]
+}

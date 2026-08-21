@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO UTIL", "text": "El registro de corredores de seguros **es publico**"},
+    {"type": "text", "lines": ["Puedes revisarlo tu mismo", "**antes de firmar nada.**"], "sub": "Esta disponible en el sitio de la CMF."},
+    {"type": "stat", "number": "5", "unit": "aseguradoras", "text": "sancionadas en 2026 por vender polizas con corredores **no inscritos o con registro cancelado**", "source": "Fuente: CMF, Diario Constitucional, BioBioChile"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes pedir el numero de registro de quien te vende o gestiona **tu seguro**", "source": "Fuente: Ley de Seguros DFL N 251, arts. 57 y 58"},
+    {"type": "cta", "text": "Prefieres que **lo revisemos por ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo."}
+  ]
+}
