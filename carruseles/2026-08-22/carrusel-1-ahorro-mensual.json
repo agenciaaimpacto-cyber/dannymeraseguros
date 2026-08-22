@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MAS ALLA DE LA DEVOLUCION", "text": "Portar tu seguro de desgravamen no es solo un pago **unico**"},
+    {"type": "text", "lines": ["Tambien cambias a un seguro", "**mas barato para lo que queda de tu credito.**"], "sub": "Eso significa menos costo cada mes, no solo una vez."},
+    {"type": "stat", "number": "2", "unit": "beneficios", "text": "recibes al portar tu seguro: **la devolucion de lo no usado y una cuota mas baja de ahi en adelante**"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "Rescatamos tu prima no usada y contratamos un seguro nuevo **con menor costo operativo**", "source": "Asi funciona la portabilidad"},
+    {"type": "cta", "text": "Quieres saber cuanto **ahorras cada mes?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo."}
+  ]
+}

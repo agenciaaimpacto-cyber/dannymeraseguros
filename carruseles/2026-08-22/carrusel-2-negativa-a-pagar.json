@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO SERNAC", "text": "El 39% de los reclamos por seguro de auto es porque la aseguradora **se niega a pagar**"},
+    {"type": "text", "lines": ["No es que no haya seguro,", "es que **la aseguradora dice que no corresponde.**"], "sub": "SERNAC recibio 2.172 reclamos en el segundo semestre de 2025."},
+    {"type": "stat", "number": "843", "text": "reclamos fueron por **negativa a pagar el siniestro** - el motivo mas comun de todos", "source": "Fuente: SERNAC, informe seguros automotrices"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Si te niegan un pago que corresponde, **puedes reclamar formalmente ante el SERNAC**", "source": "Fuente: SERNAC"},
+    {"type": "cta", "text": "Quieres revisar si tu seguro actual **te protege de verdad?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a comparar opciones, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SI TE DICEN QUE NO", "text": "Que hacer si tu aseguradora **rechaza tu siniestro**"},
+    {"type": "text", "lines": ["Antes de darlo por perdido,", "**puedes pedir el rechazo por escrito.**"], "sub": "La aseguradora esta obligada a explicar el motivo."},
+    {"type": "stat", "number": "47,5", "unit": "%", "text": "de los reclamos por seguros de auto **no fueron aceptados** por la aseguradora", "source": "Fuente: SERNAC, segundo semestre 2025"},
+    {"type": "proof", "tag": "TUS OPCIONES", "text": "Puedes reclamar ante el **SERNAC** o llevar tu caso a la **CMF** si la aseguradora no responde bien", "source": "Fuente: SERNAC / CMF"},
+    {"type": "cta", "text": "Te rechazaron un seguro o **quieres revisar el tuyo?**", "button": "Escribeme por WhatsApp ->", "sub": "Te oriento sin costo."}
+  ]
+}
