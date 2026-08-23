@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MIENTRAS ANTES REVISES", "text": "Mientras menos cuotas hayas **pagado**, mas grande puede ser tu devolucion"},
+    {"type": "text", "lines": ["Si recien empezaste a pagar tu credito,", "**se ha consumido menos prima del seguro.**"], "sub": "Eso significa mas plata disponible para devolverte."},
+    {"type": "stat", "number": "1", "unit": "regla simple", "text": "menos cuotas pagadas = **menos prima usada = mayor devolucion posible**"},
+    {"type": "proof", "tag": "COMO FUNCIONA LA PORTABILIDAD", "text": "Rescatamos lo que queda de tu prima actual y contratamos un seguro **nuevo y mas barato**", "source": "Ley 20.448 y Ley 21.236 de portabilidad financiera"},
+    {"type": "cta", "text": "Recien empezaste a pagar tu credito? **Revisemos tu caso**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

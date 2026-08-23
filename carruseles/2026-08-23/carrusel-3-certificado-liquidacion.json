@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO POCO CONOCIDO", "text": "Puedes pedir un **certificado gratuito** antes de decidir cualquier cambio"},
+    {"type": "text", "lines": ["Se llama certificado de liquidacion:", "**detalla tasas, comisiones y saldo pendiente.**"], "sub": "Toda institucion esta obligada a entregarlo, sin costo."},
+    {"type": "stat", "number": "7", "unit": "dias habiles", "text": "es la vigencia minima que debe tener cualquier **oferta de portabilidad** que recibas"},
+    {"type": "proof", "tag": "LEY 21.236 DE PORTABILIDAD FINANCIERA", "text": "La normativa esta pensada para que **compares con calma**, no para que decidas apurado", "source": "Analisis normativo, estudio Carey"},
+    {"type": "cta", "text": "Quieres revisar tu caso **sin apuro y sin costo?**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico tus opciones con calma."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL - CMF", "text": "Que un corredor este **inscrito** no significa que sepa de seguros"},
+    {"type": "text", "lines": ["La CMF multo a Tanner Corredora de Seguros", "por no tener un **apoderado con conocimiento acreditado.**"], "sub": "La ley exige representantes capacitados, no solo inscritos en el registro."},
+    {"type": "stat", "number": "150", "unit": "UF de multa", "text": "aplico la CMF a la corredora por **no acreditar conocimiento suficiente en seguros**"},
+    {"type": "proof", "tag": "DFL 251 / CIRCULAR 2.271", "text": "Toda corredora debe mantener **permanentemente** representantes capacitados para asesorarte", "source": "CMF, sancion de diciembre 2025"},
+    {"type": "cta", "text": "Quieres que **revisemos tu seguro** con alguien que sabe del tema?", "button": "Escribeme por WhatsApp ->", "sub": "Te explico todo antes de pedirte un solo documento."}
+  ]
+}
