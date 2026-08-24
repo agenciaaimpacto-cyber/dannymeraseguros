@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL", "text": "La Corte confirmo: **no te pueden obligar** a aceptar el seguro que viene con tu credito"},
+    {"type": "text", "lines": ["La Corte de Santiago valido la orden de la CMF", "que obligo a dos empresas a **dejar de vender un seguro atado.**"], "sub": "El esquema exigia el seguro como condicion para dar el credito."},
+    {"type": "stat", "number": "460", "text": "es la norma de la CMF que dice que este tipo de seguro debe ser **voluntario, nunca obligatorio**", "source": "Fuente: Norma de Caracter General N 460, CMF"},
+    {"type": "proof", "tag": "EL PRINCIPIO ES EL MISMO", "text": "Aunque este caso es de creditos hipotecarios, la regla aplica a cualquier seguro atado: **es tu decision, no una condicion**", "source": "Fuente: Diario Constitucional, 27 mayo 2026"},
+    {"type": "cta", "text": "Quieres saber si el tuyo aplica? **Revisemos tu caso**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

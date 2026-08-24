@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "APRENDE A RECONOCERLA", "text": "Que es la **venta atada** de seguros (y por que es ilegal)"},
+    {"type": "text", "lines": ["Es cuando te obligan a aceptar un seguro", "**como condicion para darte un credito.**"], "sub": "La ley dice que estos seguros deben ser siempre voluntarios."},
+    {"type": "stat", "number": "2", "unit": "instituciones", "text": "fiscalizan la venta atada de seguros en Chile: **la CMF y el SERNAC**"},
+    {"type": "proof", "tag": "COMO IDENTIFICARLA", "text": "Si te dijeron 'no hay credito sin este seguro', **eso no es legal**", "source": "Fuente: Norma de Caracter General N 460, CMF"},
+    {"type": "cta", "text": "Te paso algo asi? **Cuentame tu caso**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

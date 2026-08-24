@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE NO TE CUENTAN", "text": "Tu banco **no te va a avisar** que puedes cambiar tu seguro de desgravamen"},
+    {"type": "text", "lines": ["El seguro que viene con tu credito", "**es una decision del banco, no la unica opcion.**"], "sub": "La ley te da el derecho a cambiarte, pero nadie te lo dice al firmar."},
+    {"type": "stat", "number": "0", "unit": "avisos", "text": "es lo que la mayoria de los bancos te dice sobre este derecho **cuando firmas tu credito**"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes portar tu seguro de desgravamen a una compania **mas barata**", "source": "Fuente: Ley 20.448 / Ley 21.236 de portabilidad financiera"},
+    {"type": "cta", "text": "Nadie te aviso? **Revisemos tu caso**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}
