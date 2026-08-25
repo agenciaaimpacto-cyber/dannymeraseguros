@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL", "text": "La aseguradora se nego a pagar... **y la Corte Suprema la obligo**"},
+    {"type": "text", "lines": ["Banco de Chile y Banchile fueron condenados", "**por no cubrir un seguro de desgravamen.**"], "sub": "Alegaron que pagar la deuda era un favor. La Corte dijo que no."},
+    {"type": "stat", "number": "35", "unit": "millones", "text": "mas una multa de **100 UTM** es lo que deben pagar, segun confirmo la Corte Suprema"},
+    {"type": "proof", "tag": "EL PRINCIPIO", "text": "Si pagaste la prima, la cobertura **es una obligacion exigible**, no un favor", "source": "Fuente: Poder Judicial, 18 marzo 2026"},
+    {"type": "cta", "text": "Te niegan una cobertura o devolucion? **Revisemos tu caso**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

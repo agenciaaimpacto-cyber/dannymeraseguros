@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "El seguro de tu credito **no es del banco** - es tuyo"},
+    {"type": "text", "lines": ["El banco solo lo intermedia,", "**la cobertura y la prima son tuyas.**"], "sub": "Por eso puedes cambiarlo a uno mas barato sin perder cobertura."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "te dan el derecho a portar tu seguro de desgravamen: Ley 20.448 y **Ley 21.236**"},
+    {"type": "proof", "tag": "LO QUE CONFIRMAN LOS TRIBUNALES", "text": "Si pagaste la prima, la cobertura **no es un favor de la aseguradora**", "source": "Fuente: Corte Suprema, fallo confirmado 18 marzo 2026"},
+    {"type": "cta", "text": "Sabes cuanto puedes **recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

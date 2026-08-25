@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO BASICO", "text": "Que cubre en verdad tu seguro de desgravamen?"},
+    {"type": "text", "lines": ["Si mueres o quedas invalido,", "**paga lo que queda de tu credito.**"], "sub": "No es un seguro para ti - es para que tu familia no herede la deuda."},
+    {"type": "stat", "number": "100", "unit": "%", "text": "del saldo pendiente del credito es lo que debe cubrir, segun la poliza contratada"},
+    {"type": "proof", "tag": "CUANDO LA ASEGURADORA FALLA", "text": "Si se niega a pagar alegando algo que tu no declaraste, **la prueba es de ellos, no tuya**", "source": "Fuente: Corte Suprema, casos de seguro de desgravamen"},
+    {"type": "cta", "text": "Sabes si el tuyo te protege de verdad?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu poliza sin costo."}
+  ]
+}
