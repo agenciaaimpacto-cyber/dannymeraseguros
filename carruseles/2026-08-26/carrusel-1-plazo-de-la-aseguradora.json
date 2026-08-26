@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "La aseguradora tiene un **plazo fijado por norma** para devolverte lo que no ocupaste"},
+    {"type": "text", "lines": ["Cuando prepagas o cambias de credito,", "**la prima que no alcanzaste a gastar es tuya.**"], "sub": "No depende de la buena voluntad de la aseguradora."},
+    {"type": "stat", "number": "10", "unit": "dias habiles", "text": "es lo que tiene la aseguradora para **poner tu devolucion a disposicion**, una vez que le avisan del termino del seguro"},
+    {"type": "proof", "tag": "LA NORMA", "text": "El calculo de lo que te toca **esta regulado**, no es a criterio de la aseguradora", "source": "Fuente: CMF, Circular N° 1.762"},
+    {"type": "cta", "text": "Sabes cuanto puedes **recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

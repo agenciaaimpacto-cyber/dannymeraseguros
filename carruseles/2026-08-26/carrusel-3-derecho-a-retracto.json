@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO POCO CONOCIDO", "text": "Te vendieron un seguro **por telefono o en linea**? Puedes arrepentirte"},
+    {"type": "text", "lines": ["Si contrataste un seguro a distancia,", "**sin firmar nada en papel,**"], "sub": "la ley te da un derecho a retractarte sin perder tu plata."},
+    {"type": "stat", "number": "1", "unit": "circular", "text": "de la CMF regula este **derecho de retracto** en ventas de seguros a distancia", "source": "Circular N° 1.587"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Muchos seguros atados a creditos **se venden asi, por telefono**", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Te vendieron un seguro y **no sabes si aplica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

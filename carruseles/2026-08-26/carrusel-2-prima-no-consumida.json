@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO SE CALCULA", "text": "Cuanto de tu prima **ya se gasto** y cuanto te pueden devolver?"},
+    {"type": "text", "lines": ["No es un numero al azar.", "**La CMF tiene una formula fijada para calcularlo.**"], "sub": "Prima unica, menos comision, menos costos ya informados en tu poliza."},
+    {"type": "stat", "number": "1", "unit": "circular", "text": "de la CMF regula que pasa con tu prima **si prepagas o cambias tu credito**", "source": "Circular N° 1.762"},
+    {"type": "proof", "tag": "LA REGLA", "text": "Lo que no se devengo por termino del seguro **es tuyo, no de la aseguradora**", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Quieres saber **cuanto te corresponde a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
