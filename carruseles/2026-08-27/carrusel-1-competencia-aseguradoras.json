@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO CLAVE", "text": "El seguro que trae tu credito es **una opcion entre muchas**"},
+    {"type": "text", "lines": ["Tu banco eligio esa aseguradora", "**por convenio, no por ser la mas barata.**"], "sub": "Existen muchas mas compitiendo por asegurar tu credito."},
+    {"type": "stat", "number": "9,3", "unit": "%", "text": "crecio en terminos reales el mercado asegurador chileno durante 2025", "source": "Fuente: CMF, Informe Financiero del Mercado Asegurador"},
+    {"type": "proof", "tag": "LO QUE IMPORTA", "text": "Mas competencia significa que **puedes comparar y cambiarte**", "source": "Fuente: Ley 20.448 y Ley 21.236"},
+    {"type": "cta", "text": "Quieres saber si **hay algo mejor para ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

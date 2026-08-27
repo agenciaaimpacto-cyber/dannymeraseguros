@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CIFRAS DEL RUBRO", "text": "El mercado de seguros de vida crecio **17,6%** en un ano"},
+    {"type": "text", "lines": ["La CMF publico su informe", "**del cierre de 2025.**"], "sub": "US$12.215 millones en primas de seguros de vida."},
+    {"type": "stat", "number": "13,6", "unit": "%", "text": "mas utilidad gano la industria aseguradora en 2025, **respecto del ano anterior**", "source": "Fuente: CMF, Informe Financiero del Mercado Asegurador"},
+    {"type": "proof", "tag": "POR QUE TE SIRVE", "text": "Es un mercado grande y **rentable** - hay espacio para competir por tu prima", "source": "Fuente: CMF"},
+    {"type": "cta", "text": "Quieres revisar **tu caso?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}

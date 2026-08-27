@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY 20.448", "text": "El banco **no te puede obligar** a contratar el seguro que el ofrece"},
+    {"type": "text", "lines": ["Puede exigirte tener un seguro de desgravamen,", "**pero no elegir con quien contratarlo.**"], "sub": "La ley lo dice de forma expresa."},
+    {"type": "stat", "number": "8", "unit": "articulo", "text": "de la Ley 20.448 prohibe condicionar tu credito a un seguro especifico", "source": "Fuente: Ley 20.448"},
+    {"type": "proof", "tag": "LO QUE SIGNIFICA", "text": "Puedes elegir una aseguradora **distinta y mas barata**, sin perder tu credito", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Te obligaron a contratar **un seguro especifico?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
