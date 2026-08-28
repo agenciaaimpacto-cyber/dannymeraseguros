@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ANTES DE FIRMAR", "text": "Si te ofrecen una devolucion **mas baja** de lo que esperabas, no tienes que aceptarla"},
+    {"type": "text", "lines": ["Recibir un primer pago", "**no es lo mismo que renunciar** al resto."], "sub": "Puedes pedir que revisen el calculo antes de firmar cualquier finiquito."},
+    {"type": "stat", "number": "350.000", "unit": "$", "text": "es la devolucion promedio por seguro de desgravamen, **segun cifras del sector**", "source": "Fuente: Chocale, cifras del rubro"},
+    {"type": "proof", "tag": "LO QUE PUEDES HACER", "text": "Pide el detalle de como se calculo tu devolucion **antes de firmar nada**", "source": "Fuente: CMF, Circular N 2.114"},
+    {"type": "cta", "text": "Quieres saber cuanto **te corresponde a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

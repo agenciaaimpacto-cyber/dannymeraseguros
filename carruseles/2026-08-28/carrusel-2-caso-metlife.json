@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL", "text": "Le pagaron **la mitad** de su seguro... y la Corte Suprema ordeno completar el pago"},
+    {"type": "text", "lines": ["La aseguradora dijo que un documento", "**no estaba bien firmado.**"], "sub": "La Corte Suprema rechazo ese argumento por falta de fundamento."},
+    {"type": "stat", "number": "500", "unit": "UF", "text": "es lo que la Corte Suprema ordeno pagar ademas, **mas reajustes e intereses**", "source": "Fuente: Diario Constitucional, fallo Corte Suprema"},
+    {"type": "proof", "tag": "EL PRINCIPIO CLAVE", "text": "Aceptar un pago parcial **no significa renunciar** al resto de lo que corresponde", "source": "Fuente: Corte Suprema, recurso de casacion"},
+    {"type": "cta", "text": "Te ofrecieron **menos de lo esperado?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

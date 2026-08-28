@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE MUCHOS NO SABEN", "text": "Si te pagan **menos de lo que corresponde**, la diferencia no se congela"},
+    {"type": "text", "lines": ["Mientras no te paguen completo,", "**la deuda se reajusta y genera intereses.**"], "sub": "Asi lo confirmo la Corte Suprema en un caso reciente."},
+    {"type": "stat", "number": "2", "unit": "conceptos", "text": "se suman a lo que te deben cuando pagan tarde o incompleto: **reajuste e intereses**"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Mientras mas se demoren en pagarte bien, **mas crece lo que te deben**", "source": "Fuente: Corte Suprema, fallo confirmado"},
+    {"type": "cta", "text": "Sientes que te deben **una devolucion?**", "button": "Escribeme por WhatsApp ->", "sub": "Te oriento sin costo."}
+  ]
+}
