@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL DIA", "text": "El SERNAC esta rediseñando como se explican los creditos **hipotecarios**"},
+    {"type": "text", "lines": ["La nueva cartola muestra tu credito", "**al lado del promedio** del mercado."], "sub": "Banco Estado sera el primer banco en probar el nuevo formato."},
+    {"type": "stat", "number": "500", "text": "consumidores participaron en el testeo del nuevo formato, **liderado por academicos**", "source": "Fuente: SERNAC, consulta publica hasta el 31 de agosto"},
+    {"type": "proof", "tag": "OJO CON ESTO", "text": "Esto aplica a creditos **hipotecarios** - no es el mismo tramite que hacemos con tu seguro de desgravamen", "source": "Fuente: SERNAC"},
+    {"type": "cta", "text": "Tu credito **no es hipotecario?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos si tu seguro de desgravamen se puede portar."}
+  ]
+}

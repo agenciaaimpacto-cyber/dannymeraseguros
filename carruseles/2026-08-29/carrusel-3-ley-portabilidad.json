@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TUS DERECHOS", "text": "Hay una ley que te da derecho a **cambiarte** de proveedor financiero"},
+    {"type": "text", "lines": ["No es solo para bancos:", "tambien aplica a **seguros atados a un credito.**"], "sub": "Incluye el seguro de desgravamen que viene con tu credito de consumo."},
+    {"type": "stat", "number": "21.236", "text": "es el numero de la ley que respalda tu derecho a comparar y portarte", "source": "Fuente: Biblioteca del Congreso Nacional, Ley 21.236"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "Puedes pedir tu portabilidad **sin que tu banco actual tenga que aprobarlo**", "source": "Fuente: SERNAC, paso a paso de la portabilidad financiera"},
+    {"type": "cta", "text": "Nadie te habia explicado **este derecho?**", "button": "Escribeme por WhatsApp ->", "sub": "Te cuento si tu caso califica, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMPARA ANTES DE FIRMAR", "text": "Tu seguro de desgravamen se puede **comparar** con el resto del mercado"},
+    {"type": "text", "lines": ["El banco te asigno un seguro,", "**no te obligo a quedarte con el.**"], "sub": "La ley te permite comparar condiciones y cambiarte a uno mas conveniente."},
+    {"type": "stat", "number": "17,6", "unit": "%", "text": "crecio el mercado de seguros de vida en Chile durante 2025, **segun la CMF**", "source": "Fuente: CMF, Informe Financiero del Mercado Asegurador 2025"},
+    {"type": "proof", "tag": "LO QUE ESTA CAMBIANDO", "text": "Los reguladores estan empujando **mas transparencia** para que puedas comparar tu credito y tu seguro", "source": "Fuente: SERNAC, rediseno de cartola hipotecaria 2026"},
+    {"type": "cta", "text": "Quieres saber **si el tuyo es conveniente?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
