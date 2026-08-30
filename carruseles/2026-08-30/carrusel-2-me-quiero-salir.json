@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL DIA", "text": "El SERNAC tiene una herramienta para **terminar un seguro** en linea"},
+    {"type": "text", "lines": ["Se llama 'Me Quiero Salir'", "y funciona con RUT y Clave Unica."], "sub": "Pero ojo: no aplica a todos los seguros."},
+    {"type": "stat", "number": "8", "unit": "dias habiles", "text": "tiene el SERNAC para responder tu solicitud, **segun la propia plataforma**", "source": "Fuente: SERNAC, Me Quiero Salir"},
+    {"type": "proof", "tag": "LA LETRA CHICA", "text": "El desgravamen de un credito **hipotecario** queda excluido - es obligatorio por ley. El de un credito de consumo **es otra historia**", "source": "Fuente: SERNAC"},
+    {"type": "cta", "text": "Tu credito **no es hipotecario?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos si tu seguro de desgravamen se puede portar y devolverte dinero."}
+  ]
+}

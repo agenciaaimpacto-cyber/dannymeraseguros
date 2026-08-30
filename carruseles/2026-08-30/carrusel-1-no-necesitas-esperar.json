@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "MITO COMUN", "text": "No necesitas **terminar tu credito** para cambiar tu seguro"},
+    {"type": "text", "lines": ["La portabilidad se puede pedir", "**mientras sigues pagando** tu credito."], "sub": "No hace falta esperar a la ultima cuota para revisar tu seguro de desgravamen."},
+    {"type": "stat", "number": "9.000", "text": "reclamos por seguros generales recibio el SERNAC durante 2023, **segun cifras oficiales**", "source": "Fuente: SERNAC"},
+    {"type": "proof", "tag": "POR QUE CONVIENE REVISAR AHORA", "text": "Mientras menos cuotas hayas pagado, **mas prima sin usar** puede quedar en tu seguro actual", "source": "Fuente: CMF Educa, calculo de prima no consumida"},
+    {"type": "cta", "text": "Quieres revisar **tu caso ahora?**", "button": "Escribeme por WhatsApp ->", "sub": "Te digo si tu credito califica, sin costo."}
+  ]
+}

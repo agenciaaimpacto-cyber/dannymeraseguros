@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE NO TE CUENTAN", "text": "Los bancos estan **obligados** a reportarle a la CMF cada portabilidad"},
+    {"type": "text", "lines": ["No es un favor que te hacen.", "**Es una obligacion regulatoria.**"], "sub": "La CMF exige canales claros para resolver tus consultas y reclamos."},
+    {"type": "stat", "number": "2.269", "text": "es la circular de la CMF que obliga a bancos y emisores de tarjetas a **identificar y reportar** las operaciones de portabilidad", "source": "Fuente: CMF"},
+    {"type": "proof", "tag": "QUE SIGNIFICA PARA TI", "text": "Tu banco **no puede simplemente ignorar** una solicitud de portabilidad - la CMF esta mirando", "source": "Fuente: CMF, instrucciones Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Sabes si tu seguro **se puede portar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
