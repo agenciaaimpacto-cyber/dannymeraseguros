@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE SORPRENDE", "text": "En **6 anos**, casi nadie ha usado su derecho a cambiar de seguro"},
+    {"type": "text", "lines": ["No es porque la ley no sirva.", "**Es porque casi nadie sabe que existe.**"], "sub": "Tu banco o casa comercial no tiene ningun interes en contartelo."},
+    {"type": "stat", "number": "4.760", "text": "personas han usado la portabilidad financiera desde 2020, **segun cifras de la CMF**", "source": "Fuente: CMF, citado por Chocale"},
+    {"type": "proof", "tag": "TU CASO", "text": "Tu seguro de desgravamen **no lo elegiste tu** - vino atado al credito por convenio del banco", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres ser de los **pocos que si revisan?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo y sin compromiso."}
+  ]
+}

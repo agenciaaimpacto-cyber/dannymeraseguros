@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Un solo banco concentra **el 70%** de todas las portabilidades del pais"},
+    {"type": "text", "lines": ["De 5.546 productos portados en 6 anos,", "**3.841 fueron a Banco Consorcio.**"], "sub": "El resto del mercado se reparte lo que queda: Banco de Chile, BancoEstado, Itau, Santander."},
+    {"type": "stat", "number": "5.546", "text": "productos financieros se han portado en Chile desde 2020, **segun la CMF**", "source": "Fuente: CMF, citado por Chocale"},
+    {"type": "proof", "tag": "POR QUE PASA ESTO", "text": "La gente **no compara** porque no sabe que puede - no porque no le convenga cambiarse", "source": "Fuente: Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Sabes si **te conviene comparar tu seguro?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso de desgravamen sin costo."}
+  ]
+}

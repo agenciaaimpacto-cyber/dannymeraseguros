@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL DIA", "text": "Solo **4.760 clientes** han usado la portabilidad financiera desde que existe la ley"},
+    {"type": "text", "lines": ["La Ley 21.236 se publico en 2020.", "**6 anos despues, casi no se usa.**"], "sub": "Los bancos registraron 5.546 productos portados en total, segun la CMF."},
+    {"type": "stat", "number": "3.809", "text": "de esos productos portados fueron **creditos de consumo**, el mismo tipo al que va atado tu seguro de desgravamen", "source": "Fuente: CMF, citado por Chocale"},
+    {"type": "proof", "tag": "LO QUE ESTO SIGNIFICA", "text": "Si tienes un credito de consumo, **tu caso es exactamente el tipo que mas se porta** - solo que casi nadie lo pide", "source": "Fuente: CMF, cifras a mayo 2026"},
+    {"type": "cta", "text": "Ya revisaste **si tu seguro se puede cambiar?**", "button": "Escribeme por WhatsApp ->", "sub": "Te digo si tu credito califica, sin costo."}
+  ]
+}
