@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ANTES DE FIRMAR", "text": "Revisar tu seguro de desgravamen **no te cuesta nada ni te compromete a nada**"},
+    {"type": "text", "lines": ["Solo por preguntar no firmas nada.", "**Primero revisamos, despues decides.**"], "sub": "Te decimos si tu caso conviene antes de pedirte cualquier documento."},
+    {"type": "stat", "number": "0", "unit": "costo", "text": "cuesta revisar tu caso - la unica forma de saber cuanto puedes recuperar es mirando tus documentos", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "proof", "tag": "TRANSPARENCIA", "text": "Pedimos tu resumen de credito, tu poliza y tu carnet - y en este sitio explicamos **para que sirve cada uno**", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber cuanto **te corresponde a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

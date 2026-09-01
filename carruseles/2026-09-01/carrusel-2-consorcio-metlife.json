@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL DIA", "text": "La CMF volvio a multar a dos aseguradoras grandes por **lo mismo de siempre**"},
+    {"type": "text", "lines": ["Consorcio y MetLife vendieron polizas", "**a traves de agentes no inscritos.**"], "sub": "Entre junio de 2022 y junio de 2025, segun la propia CMF."},
+    {"type": "stat", "number": "300", "unit": "UF", "text": "suman las multas a Consorcio (200 UF) y MetLife (100 UF) por el mismo motivo", "source": "Fuente: CMF, Resoluciones N. 2.224 y N. 2.234"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Antes de firmar cualquier poliza, puedes **verificar** que quien te atiende este inscrito ante la CMF", "source": "Fuente: Ley de Seguros, DFL N. 251, articulos 57 y 58"},
+    {"type": "cta", "text": "Tienes dudas sobre **tu propio seguro?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo."}
+  ]
+}

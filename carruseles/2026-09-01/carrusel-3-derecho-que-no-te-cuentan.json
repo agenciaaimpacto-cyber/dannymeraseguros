@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "COMO VERIFICARLO", "text": "Puedes buscar si tu vendedor de seguros **esta inscrito ante la CMF**"},
+    {"type": "text", "lines": ["La CMF mantiene un registro", "**publico y gratuito** de agentes."], "sub": "Busca por RUT o nombre antes de firmar cualquier poliza."},
+    {"type": "stat", "number": "2", "unit": "aseguradoras", "text": "grandes fueron multadas esta semana **por el mismo motivo:** vender con agentes no inscritos", "source": "Fuente: CMF, Resoluciones N. 2.224 y N. 2.234"},
+    {"type": "proof", "tag": "TU RESGUARDO", "text": "Un agente no inscrito no anula tu poliza, pero **si es una señal de alerta** sobre quien te esta vendiendo", "source": "Fuente: CMF, Registro de Agentes de Venta de Seguros"},
+    {"type": "cta", "text": "Quieres que revisemos **tu seguro actual?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}
