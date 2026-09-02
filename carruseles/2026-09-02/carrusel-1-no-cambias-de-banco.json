@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ACLAREMOS ESTO", "text": "Cambiar tu seguro de desgravamen **no significa cambiar de banco**"},
+    {"type": "text", "lines": ["Tu credito sigue igual: mismo banco, mismas cuotas, mismo plazo.", "**Solo se reemplaza el seguro que va pegado a el.**"], "sub": "El banco no desaparece de la ecuacion, solo deja de ser quien te vende el seguro."},
+    {"type": "stat", "number": "1", "unit": "seguro", "text": "de los seguros que puede traer tu credito es el que se puede portar - el desgravamen - el resto de tu credito no se toca", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "proof", "tag": "TRANQUILO", "text": "Revisamos, comparamos y gestionamos el cambio - tu banco solo ve el seguro nuevo **cuando ya esta listo**", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "Quieres saber si **tu caso califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

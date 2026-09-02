@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO DEL CONSUMIDOR", "text": "Puedes verificar **gratis** si quien te vende un seguro esta habilitado"},
+    {"type": "text", "lines": ["La CMF mantiene un Registro de Agentes de Ventas y Corredores de Seguros.", "**Cualquier persona puede consultarlo.**"], "sub": "Buscas por RUT o nombre y ves si la inscripcion esta vigente."},
+    {"type": "stat", "number": "57-58", "unit": "DFL 251", "text": "son los articulos de la Ley de Seguros que obligan a que solo personas inscritas vendan polizas en Chile", "source": "Fuente: DFL N. 251, Ley de Seguros"},
+    {"type": "proof", "tag": "ANTES DE FIRMAR", "text": "Si alguien te contacta para portar tu seguro de desgravamen, **pidele que te muestre su inscripcion** antes de mandar ningun documento", "source": "Fuente: Norma de Caracter General N. 471, CMF"},
+    {"type": "cta", "text": "Quieres revisar tu caso **con alguien verificable?**", "button": "Escribeme por WhatsApp ->", "sub": "Agente Comercial de Grupo Insurex - Mueve Seguro."}
+  ]
+}

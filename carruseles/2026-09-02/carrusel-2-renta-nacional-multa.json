@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La CMF multo a una aseguradora por vender con **agentes dados de baja**"},
+    {"type": "text", "lines": ["Renta Nacional Compania de Seguros vendio polizas entre 2021 y 2025", "**a traves de agentes que ya no estaban inscritos.**"], "sub": "La CMF aplico una multa de UF 150 por infringir la Ley de Seguros."},
+    {"type": "stat", "number": "150", "unit": "UF", "text": "de multa aplico la CMF a Renta Nacional por comercializar polizas con agentes fuera del registro oficial", "source": "Fuente: CMF, Resolucion N. 4606"},
+    {"type": "proof", "tag": "NO ES UN CASO AISLADO", "text": "Van varias aseguradoras sancionadas en 2026 por lo mismo - **verificar que tu vendedor este inscrito es gratis** en el registro publico de la CMF", "source": "Fuente: CMF, registro de agentes y corredores de seguros"},
+    {"type": "cta", "text": "Prefieres tratar con alguien **que puedas verificar?**", "button": "Escribeme por WhatsApp ->", "sub": "Te muestro mi inscripcion como agente antes de pedirte cualquier documento."}
+  ]
+}
