@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La Corte Suprema obligo a una aseguradora a **pagar por un robo** que casi no cubre"},
+    {"type": "text", "lines": ["A un cliente le robaron su camioneta en Maitencillo", "**mientras estaba surfeando en la playa.**"], "sub": "BCI Seguros se nego a pagar alegando negligencia por como guardo las llaves."},
+    {"type": "stat", "number": "13,75", "unit": "millones", "text": "de pesos debe pagar BCI Seguros al cliente, confirmo la Corte Suprema en enero de 2026", "source": "Fuente: Corte Suprema, fallo sobre seguro automotriz"},
+    {"type": "proof", "tag": "LO QUE IMPORTA", "text": "Una aseguradora **no puede negarte el pago** solo con una lectura forzada del contrato", "source": "Fuente: fallo Corte Suprema, caso BCI Seguros"},
+    {"type": "cta", "text": "Tu aseguradora **te nego un pago?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar si tienes derecho a reclamar."}
+  ]
+}

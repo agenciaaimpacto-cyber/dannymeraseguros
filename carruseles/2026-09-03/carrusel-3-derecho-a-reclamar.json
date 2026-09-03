@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO DEL CONSUMIDOR", "text": "Si tu aseguradora te niega un pago, **no es la ultima palabra**"},
+    {"type": "text", "lines": ["Puedes reclamar directo a la aseguradora,", "**reclamar en el SERNAC, o llegar a tribunales.**"], "sub": "Como el caso de la camioneta robada en Maitencillo, que termino en la Corte Suprema."},
+    {"type": "stat", "number": "39", "unit": "%", "text": "de los reclamos contra aseguradoras de auto en Chile son por negarse a pagar el siniestro", "source": "Fuente: SERNAC, ranking de aseguradoras automotrices"},
+    {"type": "proof", "tag": "NO TE QUEDES CALLADO", "text": "Guarda toda la documentacion de tu siniestro - **es lo que respalda tu reclamo** si la aseguradora se niega a pagar", "source": "Fuente: SERNAC, derechos del consumidor de seguros"},
+    {"type": "cta", "text": "Necesitas ayuda con un seguro que **no te pagaron?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

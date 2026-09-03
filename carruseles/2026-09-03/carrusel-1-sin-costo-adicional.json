@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Portar tu seguro de desgravamen **no tiene costo administrativo**"},
+    {"type": "text", "lines": ["No pagas nada extra por cambiarte", "**ni por comparar** opciones antes de decidir."], "sub": "Lo unico que pagas es la prima del seguro nuevo, que suele ser mas barata que la que traes hoy."},
+    {"type": "stat", "number": "0", "unit": "costo extra", "text": "cobra la ley por ejercer tu derecho a portar el seguro de desgravamen de tu credito", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "proof", "tag": "TU DECIDES", "text": "Revisamos tu poliza actual y **te mostramos si conviene** cambiarte, antes de que gastes nada", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "Quieres revisar tu caso **sin costo?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin compromiso, tu decides si te conviene."}
+  ]
+}
