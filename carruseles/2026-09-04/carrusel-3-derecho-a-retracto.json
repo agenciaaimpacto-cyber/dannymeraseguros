@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO POCO CONOCIDO", "text": "Si contrataste un seguro por telefono, **tienes 10 dias para arrepentirte**"},
+    {"type": "text", "lines": ["Es el derecho a retracto", "**de los seguros a distancia.**"], "sub": "Aplica cuando contratas sin firma presencial, por ejemplo por telefono o de forma online."},
+    {"type": "stat", "number": "10", "unit": "dias", "text": "tienes desde que recibes la poliza para retractarte, sin dar explicaciones ni pagar nada extra", "source": "Fuente: Art. 538 Codigo de Comercio, via CMF Educa"},
+    {"type": "proof", "tag": "OJO", "text": "Si te retractas a tiempo, **tienen que devolverte la prima** que ya pagaste por ese seguro", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Tienes dudas sobre un seguro **que contrataste?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tu caso, sin costo."}
+  ]
+}

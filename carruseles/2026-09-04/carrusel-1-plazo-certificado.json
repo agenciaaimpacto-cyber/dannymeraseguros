@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Pedir el detalle de tu seguro actual **tiene un plazo que la ley obliga a cumplir**"},
+    {"type": "text", "lines": ["No depende de la buena voluntad", "**de tu aseguradora o tu banco.**"], "sub": "Es un derecho que ya esta regulado, paso a paso, desde que lo pides hasta que se hace el cambio."},
+    {"type": "stat", "number": "5", "unit": "dias habiles", "text": "es el plazo maximo para que te entreguen, sin costo, el detalle de tu seguro de desgravamen actual", "source": "Fuente: CMF Educa, portabilidad financiera"},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Con ese detalle en mano, **puedes comparar con calma** si te conviene cambiarte a un seguro mas barato", "source": "Fuente: Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres que revisemos **tu caso primero?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo, sin compromiso."}
+  ]
+}

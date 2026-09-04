@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA", "text": "La portabilidad de tu seguro **tiene plazos fijados por la CMF**, no por quien te atiende"},
+    {"type": "text", "lines": ["Desde que pides el detalle", "**hasta que se hace el cambio,**"], "sub": "cada etapa tiene un plazo maximo definido por la Comision para el Mercado Financiero."},
+    {"type": "stat", "number": "7", "unit": "dias habiles", "text": "es la vigencia minima que debe tener la oferta de tu nuevo seguro antes de que decidas si la aceptas", "source": "Fuente: CMF Educa, portabilidad financiera"},
+    {"type": "proof", "tag": "DATO CLAVE", "text": "Si aceptas, tu proveedor actual tiene **3 dias habiles** para devolverte los saldos que te correspondan", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Quieres saber en que etapa **quedarias tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
