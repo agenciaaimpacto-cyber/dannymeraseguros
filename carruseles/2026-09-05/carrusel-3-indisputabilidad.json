@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY DE SEGUROS", "text": "Despues de **2 anos**, tu aseguradora ya no puede alegar que mentiste al contratar"},
+    {"type": "text", "lines": ["Se llama clausula de", "**indisputabilidad.**"], "sub": "Protege al asegurado ante intentos de anular la cobertura por errores u omisiones al declarar el riesgo."},
+    {"type": "stat", "number": "2", "unit": "anos", "text": "es el plazo desde que empieza tu seguro para que la aseguradora ya no pueda invocar una declaracion inexacta o incompleta, salvo que haya sido dolosa", "source": "Fuente: Articulo 592, Codigo de Comercio"},
+    {"type": "proof", "tag": "CASO REAL", "text": "La Corte Suprema ya ha **aplicado esta regla** para obligar a aseguradoras a pagar coberturas medicas", "source": "Fuente: Corte Suprema, via Diario Constitucional"},
+    {"type": "cta", "text": "Tienes un seguro **que quieres revisar?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a entender que cubre, sin costo."}
+  ]
+}

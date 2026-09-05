@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO, NO FAVOR", "text": "No necesitas el **permiso** de tu banco para portar tu seguro de desgravamen"},
+    {"type": "text", "lines": ["Es un tramite regulado por ley,", "**no una gentileza** de la institucion."], "sub": "Tu banco o aseguradora actual no pueden negarse a iniciar el proceso si tu se lo pides."},
+    {"type": "stat", "number": "3", "unit": "actores obligados", "text": "tu proveedor actual, la nueva aseguradora y la CMF que fiscaliza, todos tienen plazos que cumplir en este proceso, no solo tu", "source": "Fuente: Ley 21.236 de Portabilidad Financiera"},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Cada institucion tiene un **plazo maximo** para responder, y la CMF fiscaliza que se cumpla", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Quieres partir el tramite **hoy mismo?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo, sin compromiso."}
+  ]
+}

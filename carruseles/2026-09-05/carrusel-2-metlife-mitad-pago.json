@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL, CORTE SUPREMA", "text": "Le pagaron **la mitad** de su seguro de vida - la Corte obligo a completar el pago"},
+    {"type": "text", "lines": ["Era el unico beneficiario", "**de una poliza de 1.000 UF.**"], "sub": "La aseguradora le pago solo 500 UF alegando una modificacion antigua. El caso llego hasta la Corte Suprema."},
+    {"type": "stat", "number": "500", "unit": "UF", "text": "es lo que la Corte Suprema ordeno pagar a Metlife, ademas de reajustes e intereses, por el saldo pendiente de la poliza", "source": "Fuente: Diario Constitucional, agosto 2026"},
+    {"type": "proof", "tag": "LO QUE ENSEÑA EL CASO", "text": "Revisar **quien figura como beneficiario** y cuanto cubre tu poliza no es un detalle menor", "source": "Fuente: Corte Suprema, fallo unanime"},
+    {"type": "cta", "text": "Tienes dudas sobre **tu propia poliza?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarla, sin costo."}
+  ]
+}
