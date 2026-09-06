@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL, LIBRE COMPETENCIA", "text": "BCI escondio la oferta **mas barata** de seguro para quedarse con la de su propia filial"},
+    {"type": "text", "lines": ["Eran 110.449 clientes", "**con credito hipotecario.**"], "sub": "El banco excluyo a la aseguradora mas economica y declaro ganadora una mas cara, ligada a su propia corredora."},
+    {"type": "stat", "number": "3.378", "unit": "millones", "text": "de pesos pagaron de mas esos clientes en sobreprecio de seguro, segun determino el Tribunal de Defensa de la Libre Competencia", "source": "Fuente: FNE / TDLC, Sentencia 186/2023"},
+    {"type": "proof", "tag": "LO QUE TERMINO PAGANDO BCI", "text": "El banco pago **el mayor monto** de la historia en un acuerdo con la Fiscalia Nacional Economica", "source": "Fuente: FNE, conciliacion aprobada por la Corte Suprema"},
+    {"type": "cta", "text": "Sabes si tu seguro **es el mas barato?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a comparar, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CONFLICTO DE INTERES", "text": "Tu banco puede tener **su propia corredora** de seguros"},
+    {"type": "text", "lines": ["Eso significa que puede ganar dos veces:", "**por el credito y por el seguro.**"], "sub": "El caso BCI mostro que ese incentivo puede llevar a excluir opciones mas baratas para el cliente."},
+    {"type": "stat", "number": "2,7", "unit": "millones USD", "text": "pago BCI a beneficio fiscal por excluir arbitrariamente la oferta de seguro mas barata para su cartera hipotecaria", "source": "Fuente: FNE, conciliacion aprobada por la Corte Suprema"},
+    {"type": "proof", "tag": "POR ESO IMPORTA COMPARAR", "text": "Que tu credito venga con un seguro **no significa que sea el mejor** para ti", "source": "Fuente: Caso FNE contra BCI"},
+    {"type": "cta", "text": "Quieres comparar **tu seguro actual?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo, sin compromiso."}
+  ]
+}

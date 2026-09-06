@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "El seguro de desgravamen de tu credito **no lo elegiste tu**"},
+    {"type": "text", "lines": ["Lo eligio el banco o la casa comercial", "**por un convenio con una aseguradora.**"], "sub": "No necesariamente la mas conveniente para ti - puede ser la mas conveniente para ellos."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "te dan el derecho a comparar y cambiarte a un seguro de desgravamen mas barato: Ley 20.448 y Ley 21.236", "source": "Fuente: CMF Educa"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes rescatar la prima no usada **y contratar uno mas barato**", "source": "Fuente: Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber cuanto puedes **recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo, sin compromiso."}
+  ]
+}
