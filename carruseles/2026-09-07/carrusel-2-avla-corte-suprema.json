@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL, VENTA ATADA", "text": "AVLA y Creditu **perdieron en la Corte Suprema** por atar un seguro a un credito hipotecario"},
+    {"type": "text", "lines": ["Exigian el seguro como condicion", "**para aprobar el credito.**"], "sub": "La CMF los freno en 2024. Ellos reclamaron. La Corte Suprema les dijo que no."},
+    {"type": "stat", "number": "2", "unit": "anos", "text": "tardo el caso en llegar a la Corte Suprema desde que la CMF ordeno frenar la venta atada, en 2024", "source": "Fuente: Actualidad Juridica, Rol 38.225-2026"},
+    {"type": "proof", "tag": "LO QUE QUEDA CLARO", "text": "Ninguna institucion puede **condicionarte el credito** a mantener un seguro especifico", "source": "Fuente: Corte Suprema, Rol 38.225-2026"},
+    {"type": "cta", "text": "Te exigieron un seguro **para darte un credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar si corresponde."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NO ES LO MISMO", "text": "Un **agente de ventas** y un **corredor de seguros** no son lo mismo"},
+    {"type": "text", "lines": ["El agente vende en representacion", "de **una sola aseguradora.**"], "sub": "El corredor te asesora y puede comparar varias companias por ti."},
+    {"type": "stat", "number": "471", "unit": "NCG", "text": "es la Norma de Caracter General que exige que ambos esten inscritos en un registro publico de la CMF", "source": "Fuente: CMF, NCG N 471"},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Si quien te vende un seguro **no esta inscrito**, la venta puede ser motivo de sancion", "source": "Fuente: casos reales que hemos reportado en este sitio"},
+    {"type": "cta", "text": "Quieres que un **agente identificado** revise tu caso?", "button": "Escribeme por WhatsApp ->", "sub": "Soy agente de Grupo Insurex, inscrito y verificable."}
+  ]
+}

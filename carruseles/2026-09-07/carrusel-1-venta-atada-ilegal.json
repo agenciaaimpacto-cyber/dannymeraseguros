@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CONFIRMADO ESTA SEMANA", "text": "Ningun banco puede **condicionar** tu credito a mantener un seguro especifico"},
+    {"type": "text", "lines": ["Se llama venta atada,", "**y la justicia la declaro ilegal.**"], "sub": "El mismo principio protege tu seguro de desgravamen: es tuyo, no del banco."},
+    {"type": "stat", "number": "3", "unit": "instancias", "text": "confirmaron lo mismo este año: la CMF, la Corte de Santiago y ahora la Corte Suprema", "source": "Fuente: Actualidad Juridica, Rol 38.225-2026"},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes comparar tu seguro de desgravamen **y cambiarte al mas barato**", "source": "Fuente: Ley 20.448 y Ley 21.236"},
+    {"type": "cta", "text": "Quieres saber si **tu seguro es el mas barato?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo, sin compromiso."}
+  ]
+}
