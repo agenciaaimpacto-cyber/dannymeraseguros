@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "REFORMA AL MERCADO DE CAPITALES", "text": "El gobierno **no va a obligar** a los bancos a competir por tu seguro de desgravamen"},
+    {"type": "text", "lines": ["La licitacion obligatoria", "**quedo fuera** de la reforma."], "sub": "Nadie te va a ofrecer de oficio un seguro mas barato. Eso lo tienes que pedir tu."},
+    {"type": "stat", "number": "160", "unit": "millones de dolares", "text": "al ano mueve el seguro de desgravamen voluntario en creditos de consumo, segun la banca", "source": "Fuente: La Tercera Pulso"},
+    {"type": "proof", "tag": "TU DERECHO, NO UN FAVOR DEL ESTADO", "text": "La Ley 20.448 y la Ley 21.236 **ya te permiten** comparar y cambiarte a un seguro mas barato", "source": "Fuente: Ley 20.448 y Ley 21.236"},
+    {"type": "cta", "text": "Quieres saber cuanto puedes **recuperar hoy?**", "button": "Escribeme por WhatsApp ->", "sub": "Reviso tu caso sin costo, sin compromiso."}
+  ]
+}

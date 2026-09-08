@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO POCO CONOCIDO", "text": "El seguro de desgravamen de un credito de **consumo** es voluntario, no obligatorio"},
+    {"type": "text", "lines": ["Es distinto al de un credito hipotecario,", "**que si es obligatorio por ley.**"], "sub": "Aun asi, casi nadie te dice que puedes cambiarlo o compararlo."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "respaldan tu derecho a comparar y cambiarte: la Ley 20.448 y la Ley 21.236 de portabilidad financiera", "source": "Fuente: Ley 20.448 y Ley 21.236"},
+    {"type": "proof", "tag": "SI ES VOLUNTARIO", "text": "Nadie puede **obligarte** a mantenerlo con la misma aseguradora que eligio tu banco", "source": "Fuente: Ley 20.448"},
+    {"type": "cta", "text": "Sabes si tu seguro es **el mas barato?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo, sin costo."}
+  ]
+}
