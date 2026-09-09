@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Cancelar tu seguro de desgravamen **no es lo mismo** que portarlo"},
+    {"type": "text", "lines": ["Cancelarlo sin mas puede dejarte", "**sin la cobertura que tu credito exige.**"], "sub": "Portarlo es distinto: te cambias a un seguro mas barato, sin perder la cobertura que tu banco o casa comercial te pide."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "regulan la portabilidad para que mantengas la cobertura exigida mientras te cambias a un seguro mas conveniente", "source": "Fuente: Ley 20.448 y Ley 21.236"},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "Se rescata lo que queda de tu prima actual, se **contrata un seguro nuevo y mas barato**, y tu credito sigue protegido igual", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "Quieres saber si tu caso **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

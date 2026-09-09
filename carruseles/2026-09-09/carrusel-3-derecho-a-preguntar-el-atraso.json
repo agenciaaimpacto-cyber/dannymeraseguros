@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR FINANCIERO", "text": "Si tu aseguradora se demora, **tienes derecho a preguntar por que**"},
+    {"type": "text", "lines": ["Un siniestro se puede prorrogar", "solo por razones **justificadas.**"], "sub": "La aseguradora debe explicarte el motivo del atraso, no dejarte sin respuesta ni sin plazo."},
+    {"type": "proof", "tag": "SI NO TE RESPONDEN", "text": "Puedes reclamar directamente ante el **SERNAC** o la **CMF** si sientes que te estan dando largas", "source": "Fuente: SERNAC / CMF"},
+    {"type": "text", "lines": ["Reclamar no cuesta nada,", "y la ley esta **de tu lado.**"], "sub": "Lo mismo aplica si tu aseguradora se atrasa en devolver la prima no usada de tu seguro de desgravamen."},
+    {"type": "cta", "text": "Quieres que revisemos **tu caso?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo, sin compromiso."}
+  ]
+}

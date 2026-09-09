@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF - 9 SEPTIEMBRE 2026", "text": "La CMF actualizo la norma que obliga a las aseguradoras a **reportar cuando se atrasan**"},
+    {"type": "text", "lines": ["Es la Circular N 2.110,", "sobre siniestros **prorrogados.**"], "sub": "Un siniestro prorrogado es uno que la aseguradora se tomo mas tiempo del plazo normal para resolver y cerrar."},
+    {"type": "text", "lines": ["Antes, cada aseguradora", "reportaba estos casos **uno por uno.**"], "sub": "Desde febrero de 2027 podran hacerlo de forma masiva, a traves de la plataforma CMF Supervisa."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "Es la misma logica que ya vimos con la devolucion de primas: la CMF exige **informar cada atraso**, caso por caso", "source": "Fuente: CMF, modificacion Circular N 2.110"},
+    {"type": "cta", "text": "Sientes que tu tramite **se esta demorando de mas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
