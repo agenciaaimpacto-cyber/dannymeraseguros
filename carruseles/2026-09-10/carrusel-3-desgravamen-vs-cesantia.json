@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "El seguro de desgravamen y el seguro de **cesantia** no son lo mismo"},
+    {"type": "text", "lines": ["El desgravamen paga tu deuda", "si **falleces o quedas invalido.**"], "sub": "El de cesantia cubre tus cuotas por un tiempo si pierdes tu trabajo - son coberturas distintas, aunque a veces se venden juntas."},
+    {"type": "text", "lines": ["Puedes tener uno sin el otro,", "o **ninguno de los dos.**"], "sub": "Ninguno es obligatorio en un credito de consumo: revisa tu contrato para saber cuales realmente contrataste."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "Si no sabes cuales seguros tiene tu credito, **es dificil saber cuales puedes portar o cancelar**", "source": "Fuente: DFL N 251, Ley de Seguros"},
+    {"type": "cta", "text": "No tienes claro que seguros **tiene tu credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

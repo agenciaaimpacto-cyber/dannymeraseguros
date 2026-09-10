@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF - MULTA", "text": "La CMF multo a una aseguradora con **$324 millones** por no pagar lo que debia"},
+    {"type": "text", "lines": ["El caso es de Orsan Seguros", "de Credito y Garantia."], "sub": "Tenian una poliza que las obligaba a pagar de inmediato apenas se lo pidieran - y no lo hicieron."},
+    {"type": "text", "lines": ["Se llama seguro **a primer requerimiento**:", "no se pueden poner excusas para no pagar."], "sub": "La CMF determino que la aseguradora infringio el articulo 583 del Codigo de Comercio."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "El mismo principio aplica a tu seguro de desgravamen: **si te corresponde, la aseguradora tiene que pagarlo**", "source": "Fuente: CMF, sancion a Orsan Seguros de Credito y Garantia"},
+    {"type": "cta", "text": "Sientes que tu aseguradora **no te esta cumpliendo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

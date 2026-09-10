@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Portar tu seguro de desgravamen **no significa pedir un credito nuevo**"},
+    {"type": "text", "lines": ["Es un tramite que solo toca", "**el seguro, no la deuda.**"], "sub": "No renegocias el credito, no cambias de banco: solo cambias la aseguradora que te cubre por una mas barata."},
+    {"type": "text", "lines": ["Mientras se hace el cambio,", "**tu cobertura no se interrumpe.**"], "sub": "El seguro nuevo entra a regir antes de que termine el actual, para que el credito siempre este cubierto."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Tienes derecho a cambiarte de aseguradora **sin perder cobertura ni reiniciar tramites del credito**", "source": "Fuente: Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
