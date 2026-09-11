@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA", "text": "Portar tu seguro de desgravamen **no es un favor** que te hace el banco"},
+    {"type": "text", "lines": ["Es un derecho que te da", "**la ley, no un permiso.**"], "sub": "El banco no tiene que aprobar que te cambies de aseguradora: solo tiene que ejecutar el tramite."},
+    {"type": "text", "lines": ["No necesitas convencer", "**a nadie de nada.**"], "sub": "Si cumples los requisitos, el cambio se hace - no depende de que a tu banco le parezca buena idea."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad de tu seguro de desgravamen es **un derecho, no una gestion de buena voluntad**", "source": "Fuente: Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

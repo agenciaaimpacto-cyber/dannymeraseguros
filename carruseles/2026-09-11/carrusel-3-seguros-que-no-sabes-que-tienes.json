@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Tu cuenta o tarjeta puede tener seguros contratados que **ni sabes que tienes**"},
+    {"type": "text", "lines": ["Bancos y casas comerciales", "**agregan seguros por convenio.**"], "sub": "No siempre te avisan con claridad, y muchos vienen incluidos en el costo mensual de tu producto."},
+    {"type": "text", "lines": ["Desgravamen, cesantia, fraude,", "**son todos seguros distintos.**"], "sub": "Revisar tu contrato o tu cartola es la unica forma de saber cuales tienes realmente."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "Si no sabes que seguros tienes, **no sabes cuales puedes portar, mejorar o cancelar**", "source": "Fuente: DFL N 251, Ley de Seguros"},
+    {"type": "cta", "text": "No tienes claro que seguros **tiene tu credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

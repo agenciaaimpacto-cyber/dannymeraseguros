@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Un banco y una aseguradora fueron condenados a pagar **mas de $49 millones** por un fraude"},
+    {"type": "text", "lines": ["Un banco no freno 98 giros", "**fraudulentos de una cuenta.**"], "sub": "La empresa afectada tenia un seguro contra fraude, pero la aseguradora se nego a pagar."},
+    {"type": "text", "lines": ["La aseguradora dijo que el cliente", "**entrego sus claves a terceros.**"], "sub": "Pero no pudo probarlo - y la Corte Suprema confirmo que esa prueba le correspondia a ella, no al cliente."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "El mismo principio aplica a tu seguro de desgravamen: **si te niegan algo, tienen que probarlo**", "source": "Fuente: Diario Constitucional, fallo Corte Suprema"},
+    {"type": "cta", "text": "Sientes que tu aseguradora **no te esta cumpliendo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
