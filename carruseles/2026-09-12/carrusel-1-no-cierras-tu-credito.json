@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA", "text": "Portar tu seguro de desgravamen **no significa cerrar tu credito**"},
+    {"type": "text", "lines": ["El credito sigue igual,", "**solo cambia el seguro.**"], "sub": "Mismo banco, mismas cuotas, mismo plazo - lo unico que cambia es quien te asegura y cuanto pagas por eso."},
+    {"type": "text", "lines": ["No necesitas prepagar", "**ni renegociar nada.**"], "sub": "Portar tu seguro y prepagar un credito son dos tramites completamente distintos, aunque a veces se confundan."},
+    {"type": "proof", "tag": "LEY 20.448", "text": "Puedes cambiar tu seguro de desgravamen **sin tocar el resto de tu credito**", "source": "Fuente: Ley 20.448"},
+    {"type": "cta", "text": "Quieres revisar **tu caso?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

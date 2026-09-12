@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Ningun seguro asociado a un credito de consumo es **obligatorio por ley**"},
+    {"type": "text", "lines": ["El banco te lo puede ofrecer,", "**pero no exigir.**"], "sub": "Puedes aceptar el seguro, rechazarlo, o contratarlo con otra compania."},
+    {"type": "text", "lines": ["Si lo contratas, no tiene", "**que ser con el banco.**"], "sub": "La ley te permite elegir la aseguradora que prefieras, siempre que cumpla los requisitos minimos del credito."},
+    {"type": "proof", "tag": "CMF EDUCA", "text": "Tu banco no puede condicionar tu credito **a un seguro especifico**", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Te ofrecieron un seguro como **obligatorio?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

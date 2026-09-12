@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF actualizo quien puede **cobrar una renta vitalicia** de sobrevivencia"},
+    {"type": "text", "lines": ["Si condenan a alguien por danar", "**a quien genera la pension,**"], "sub": "pierde el derecho a cobrar como beneficiario - la norma ahora lo deja explicito."},
+    {"type": "text", "lines": ["El cambio rige desde", "**el 1 de septiembre.**"], "sub": "Modifica la Circular N 2.062, que regula el recalculo de pensiones en renta vitalicia."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "La misma CMF que fija esto **regula tambien tu seguro de desgravamen**", "source": "Fuente: Diario Estrategia / CMF, Circular N 2.062"},
+    {"type": "cta", "text": "Sabes que dice tu poliza **de desgravamen?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
