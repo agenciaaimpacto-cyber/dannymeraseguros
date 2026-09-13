@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Muchos seguros se venden **sin que el cliente lo note**"},
+    {"type": "text", "lines": ["Se llaman seguros embebidos:", "**vienen integrados a otra compra.**"], "sub": "En un checkout, en una tarjeta, o en un credito de consumo."},
+    {"type": "text", "lines": ["El seguro de tu credito", "**funciona igual.**"], "sub": "Se contrata junto con el prestamo, elegido por el banco, no por ti."},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Puedes pedir que te expliquen **que seguro tienes y cuanto cuesta**", "source": "Fuente: Ley Fintech N 21.521, sep 2026"},
+    {"type": "cta", "text": "Quieres que te expliquemos **el tuyo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

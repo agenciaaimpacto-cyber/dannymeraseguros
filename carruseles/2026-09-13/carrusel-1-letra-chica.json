@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Aceptar el seguro de tu credito **no deberia depender de la letra chica**"},
+    {"type": "text", "lines": ["Si nunca te explicaron bien", "**que seguro tienes,**"], "sub": "tienes derecho a pedir esa explicacion y a revisarlo tu mismo."},
+    {"type": "text", "lines": ["Compararlo y cambiarte", "**no depende de que el banco te lo ofrezca.**"], "sub": "Es un derecho que puedes ejercer tu, te lo hayan explicado o no."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Tienes derecho a **saber y comparar** el seguro que viene con tu credito", "source": "Fuente: Ley 20.448 / Ley 21.236"},
+    {"type": "cta", "text": "Quieres revisar **tu poliza actual?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

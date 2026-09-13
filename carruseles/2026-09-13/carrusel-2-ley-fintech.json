@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA - LEY FINTECH", "text": "La Ley Fintech tambien **cambia como te venden un seguro**"},
+    {"type": "text", "lines": ["Bancos y aseguradoras ahora deben", "**pedir tu consentimiento explicito**"], "sub": "para compartir tus datos financieros entre instituciones - Ley N 21.521."},
+    {"type": "text", "lines": ["Y no pueden ofrecerte un seguro", "**que no calce con lo que necesitas.**"], "sub": "Es una exigencia directa del articulo 16 de la ley."},
+    {"type": "proof", "tag": "POR QUE TE IMPORTA", "text": "El seguro de desgravamen llega igual: **integrado a tu credito, sin que lo elijas tu**", "source": "Fuente: TrendTIC, sep 2026"},
+    {"type": "cta", "text": "Sabes si tu seguro **calza con lo que necesitas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
