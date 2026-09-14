@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Un banco o aseguradora **debe cumplir lo que te ofrecio**"},
+    {"type": "text", "lines": ["No importa si despues", "**le conviene menos.**"], "sub": "El articulo 12 de la Ley 19.496 obliga a todo proveedor a respetar las condiciones ofrecidas."},
+    {"type": "text", "lines": ["Aplica a tasas, a seguros,", "**y a cualquier producto financiero.**"], "sub": "Si te ofrecieron algo y despues te lo cambiaron sin una razon real, puedes reclamar."},
+    {"type": "proof", "tag": "LEY 19.496, ART. 12", "text": "Todo proveedor debe **respetar las condiciones** bajo las que ofrecio un producto o servicio", "source": "Fuente: Ley 19.496 sobre Proteccion de los Derechos de los Consumidores"},
+    {"type": "cta", "text": "Sientes que tu seguro **cambio sin explicacion?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

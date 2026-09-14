@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA", "text": "El seguro de tu credito lo eligio tu banco - **no lo comparaste tu**"},
+    {"type": "text", "lines": ["No es que sea el mas barato,", "**es el que tenia el convenio.**"], "sub": "El banco firma un acuerdo con una aseguradora especifica, y ese es el seguro que te asignan por defecto."},
+    {"type": "text", "lines": ["Cambiarte no depende", "**de que el banco lo proponga.**"], "sub": "Es un tramite que puedes iniciar tu, sin esperar a que te lo ofrezcan."},
+    {"type": "proof", "tag": "LEY 20.448", "text": "Tienes derecho a **comparar y cambiarte** a un seguro de desgravamen mas barato", "source": "Fuente: Ley 20.448"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

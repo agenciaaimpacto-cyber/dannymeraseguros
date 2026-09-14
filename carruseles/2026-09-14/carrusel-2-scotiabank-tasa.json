@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Un banco **no puede subir tu tasa** despues de ofrecerte otra"},
+    {"type": "text", "lines": ["Le ofrecieron 1,45% anual,", "**y se la subieron a 2,58%** al firmar."], "sub": "Sin nueva evaluacion comercial, sin cambios en los examenes del seguro de desgravamen ni en la tasacion de la propiedad."},
+    {"type": "text", "lines": ["La Corte dijo que eso", "**es un cambio unilateral, no valido.**"], "sub": "Multo al banco con 100 UTM y lo obligo a pagar a los clientes la diferencia de tasa."},
+    {"type": "proof", "tag": "LEY 19.496, ART. 12", "text": "Un banco debe **respetar las condiciones** que te ofrecio, no cambiarlas por conveniencia", "source": "Fuente: Diario Constitucional, sobre fallo de la Corte Suprema"},
+    {"type": "cta", "text": "Quieres revisar **tu propio credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
