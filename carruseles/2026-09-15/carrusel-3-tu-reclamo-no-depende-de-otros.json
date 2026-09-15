@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Tu reclamo por un seguro **no depende de que otros reclamen igual**"},
+    {"type": "text", "lines": ["Una demanda colectiva necesita", "**miles de casos documentados.**"], "sub": "Por eso muchas veces no prospera, aunque el problema sea real."},
+    {"type": "text", "lines": ["Un reclamo individual es distinto:", "**solo necesita tu propia documentacion.**"], "sub": "Contrato, poliza, comunicaciones con la aseguradora o el banco."},
+    {"type": "proof", "tag": "TUS OPCIONES", "text": "Puedes reclamar directo ante el **SERNAC o la CMF**, sin esperar que nadie mas reclame contigo", "source": "Fuente: SERNAC y CMF, canales de reclamo del consumidor financiero"},
+    {"type": "cta", "text": "Quieres revisar **tu caso especifico?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "El SERNAC demando a ABCDIN por venderte seguros **que nunca pediste**"},
+    {"type": "text", "lines": ["2.491 reclamos desde 2017:", "polizas atadas a tarjetas de credito", "**que los clientes no contrataron.**"], "sub": "El SERNAC llevo el caso a tribunales como demanda colectiva."},
+    {"type": "text", "lines": ["La Corte Suprema rechazo la demanda", "**en fallo unanime, en enero.**"], "sub": "No porque no hubiera reclamos, sino porque faltaba el detalle especifico de cada consumidor afectado."},
+    {"type": "proof", "tag": "CORTE SUPREMA", "text": "Una demanda colectiva necesita **prueba individual**, no solo un numero grande de reclamos", "source": "Fuente: BioBioChile, enero 2026"},
+    {"type": "cta", "text": "Sientes que te vendieron algo **sin explicarte bien?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

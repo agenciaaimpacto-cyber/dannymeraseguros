@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA", "text": "Ningun banco puede **negarte** el cambio de tu seguro de desgravamen"},
+    {"type": "text", "lines": ["No es una gracia que te hacen.", "**Es un derecho que ya tienes.**"], "sub": "La ley te permite comparar y cambiarte a un seguro mas barato, sin pedir autorizacion a nadie."},
+    {"type": "text", "lines": ["Tu credito sigue igual.", "**Solo cambia el seguro que lo acompana.**"], "sub": "Las cuotas, el plazo y el monto del credito no se tocan."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "El derecho a **portar** tu seguro de desgravamen esta fijado por ley, no depende de que tu banco lo apruebe", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
