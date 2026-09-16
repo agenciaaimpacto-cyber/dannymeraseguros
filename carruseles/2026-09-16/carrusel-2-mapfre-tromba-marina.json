@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Le rechazaron su siniestro por **'uso comercial'** - la aseguradora no pudo probarlo"},
+    {"type": "text", "lines": ["Una tromba marina dano su vehiculo", "**en Talcahuano, en 2019.**"], "sub": "Mapfre se nego a pagar el seguro, alegando que el auto se usaba con fines comerciales."},
+    {"type": "stat", "number": "531", "unit": "articulo", "text": "del Codigo de Comercio establece que un siniestro se presume cubierto - es la aseguradora quien debe probar lo contrario", "source": "Fuente: CNN Chile, fallo Corte Suprema"},
+    {"type": "proof", "tag": "GANO EL ASEGURADO", "text": "La Corte Suprema anulo el rechazo y **repuso la indemnizacion** de $9.700.000", "source": "Fuente: CNN Chile"},
+    {"type": "cta", "text": "Te rechazaron algo que **si corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

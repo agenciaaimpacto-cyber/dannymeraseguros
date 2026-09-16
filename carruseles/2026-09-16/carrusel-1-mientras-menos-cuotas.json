@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE POCOS SABEN", "text": "Mientras **menos cuotas** de tu credito hayas pagado, **mayor** puede ser tu devolucion"},
+    {"type": "text", "lines": ["Se ha consumido menos prima", "**de tu seguro de desgravamen.**"], "sub": "Si recien empezaste a pagar tu credito, es justo cuando mas conviene revisar tu caso."},
+    {"type": "text", "lines": ["No hace falta esperar", "**a estar cerca de terminar el credito.**"], "sub": "Puedes revisar tu seguro de desgravamen desde la primera cuota pagada."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Puedes rescatar lo que queda de tu prima actual **y contratar un seguro mas barato**", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber cuanto **puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

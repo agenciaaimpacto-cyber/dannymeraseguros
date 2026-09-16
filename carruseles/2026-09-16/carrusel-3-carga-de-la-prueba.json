@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA", "text": "Si una aseguradora te dice **'no corresponde'**, no le basta con decirlo"},
+    {"type": "text", "lines": ["La ley presume que tu siniestro", "**esta cubierto por tu poliza.**"], "sub": "Cuando la aseguradora se niega a pagar, es ella quien tiene que demostrar por que no corresponde."},
+    {"type": "text", "lines": ["No tienes que probar", "**que tu caso califica.**"], "sub": "El peso de la prueba es de la compania, no tuyo - lo confirma el Codigo de Comercio."},
+    {"type": "proof", "tag": "TU DERECHO", "text": "Aplica igual para un siniestro de auto **que para la devolucion de tu seguro de desgravamen**", "source": "Fuente: articulo 531, Codigo de Comercio"},
+    {"type": "cta", "text": "Sientes que te negaron **algo que si te corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
