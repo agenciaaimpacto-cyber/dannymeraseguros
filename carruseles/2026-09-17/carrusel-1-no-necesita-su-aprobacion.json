@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ASI FUNCIONA LA LEY", "text": "Tu aseguradora actual **no tiene que estar de acuerdo** para que te cambies de seguro de desgravamen"},
+    {"type": "text", "lines": ["La decision de portarte", "**es tuya, no de ellos.**"], "sub": "Ni el banco ni la aseguradora actual pueden condicionar el cambio a que les parezca bien."},
+    {"type": "text", "lines": ["Lo unico que necesitan", "**es la documentacion correcta.**"], "sub": "Resumen del credito, poliza actual y tu carnet - con eso se calcula lo que te corresponde."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "El derecho a portar tu seguro de desgravamen **no depende de la buena voluntad de nadie**", "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

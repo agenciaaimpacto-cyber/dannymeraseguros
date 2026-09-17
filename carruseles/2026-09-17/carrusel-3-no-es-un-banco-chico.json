@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "UN PATRON QUE SE REPITE", "text": "Zurich Santander no es la primera aseguradora ligada a **un banco grande** que pierde en la Corte Suprema"},
+    {"type": "text", "lines": ["Scotiabank, BCI y ahora Banco Santander", "**han estado en casos parecidos.**"], "sub": "Bancos y aseguradoras grandes tambien fallan en cumplir lo que corresponde con el seguro de tu credito."},
+    {"type": "text", "lines": ["El tamano del banco", "**no garantiza que tu seguro este bien calculado.**"], "sub": "Cada caso se gano porque alguien reviso su situacion y reclamo lo que le correspondia."},
+    {"type": "proof", "tag": "LA LECCION", "text": "No importa que institucion tengas detras del seguro de tu credito - **tienes derecho a revisarlo**", "source": "Fuente: casos citados en este sitio, cada uno con fuente verificable"},
+    {"type": "cta", "text": "Quieres revisar **el seguro de tu credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Zurich Santander se **nego a pagar** un seguro de desgravamen - y la Corte la obligo"},
+    {"type": "text", "lines": ["El seguro estaba atado", "**a creditos con Banco Santander-Chile.**"], "sub": "La aseguradora se resistia a cumplir los contratos de seguro de desgravamen de esos creditos."},
+    {"type": "stat", "number": "349", "unit": "millones", "text": "($348.979.259) es lo que la Corte Suprema ordeno pagar, en fallo unanime de su Primera Sala", "source": "Fuente: Poder Judicial de Chile"},
+    {"type": "proof", "tag": "GANO EL CLIENTE", "text": "La Corte acogio la casacion y **repuso la obligacion de pago** que la aseguradora evitaba", "source": "Fuente: Poder Judicial de Chile"},
+    {"type": "cta", "text": "Tu aseguradora tambien **te esta poniendo trabas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
