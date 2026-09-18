@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "QUE HACER SI TE RECHAZAN UN SINIESTRO",
+      "text": "Un rechazo **no es el final del camino** - ni siquiera si pierdes en la primera instancia"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Primero, reclama directo",
+        "**con tu poliza y documentos en mano.**"
+      ],
+      "sub": "Muchos rechazos se revierten solo con volver a presentar el caso bien documentado."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Si no resuelve, puedes reclamar",
+        "**ante la CMF o el SERNAC.**"
+      ],
+      "sub": "Y si tampoco resuelve ahi, el caso puede llegar a tribunales - y cambiar en cada instancia."
+    },
+    {
+      "type": "proof",
+      "tag": "LA LECCION DE HOY",
+      "text": "Un caso puede perderse en primera instancia y en la Corte de Apelaciones, y **aun asi ganarse** en la Corte Suprema",
+      "source": "Fuente: caso citado en este sitio, con fuente verificable"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres revisar **el seguro de tu credito?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "Revisamos tu caso sin costo y sin compromiso."
+    }
+  ]
+}

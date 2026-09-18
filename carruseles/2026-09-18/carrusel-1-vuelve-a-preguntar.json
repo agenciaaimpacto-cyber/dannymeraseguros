@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "OJO CON ESTO",
+      "text": "Que antes te hayan dicho **que no calificabas**, no significa que sea la respuesta final"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tu credito no es estatico:",
+        "**las cuotas pagadas cambian mes a mes.**"
+      ],
+      "sub": "Si preguntaste hace tiempo y no calificabas, tu situacion hoy puede ser distinta."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Lo mismo si nunca",
+        "**has preguntado.**"
+      ],
+      "sub": "Revisar tu seguro de desgravamen no depende de una unica oportunidad - puedes hacerlo cuando quieras."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI FUNCIONA LA LEY",
+      "text": "El derecho a portar tu seguro de desgravamen **no se agota** porque preguntaste una vez",
+      "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"
+    },
+    {
+      "type": "cta",
+      "text": "Hace tiempo que **no revisas tu caso?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "Revisamos tu caso sin costo y sin compromiso."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "CORTE SUPREMA",
+      "text": "Le rechazaron su siniestro **dos veces** - y aun asi gano"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Primera instancia y la Corte de",
+        "**Apelaciones de Santiago fallaron en contra suya.**"
+      ],
+      "sub": "HDI Seguros S.A. no habia pagado el siniestro de su vehiculo asegurado."
+    },
+    {
+      "type": "stat",
+      "number": "44,8",
+      "unit": "millones",
+      "text": "($44.800.000) ordeno pagar la Corte Suprema, mas intereses desde la fecha del siniestro",
+      "source": "Fuente: Poder Judicial de Chile"
+    },
+    {
+      "type": "proof",
+      "tag": "GANO EL CLIENTE",
+      "text": "La Primera Sala anulo el fallo anterior por **error de derecho** y repuso la indemnizacion",
+      "source": "Fuente: Poder Judicial de Chile"
+    },
+    {
+      "type": "cta",
+      "text": "Te rechazaron un reclamo **y no sabes que hacer?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "Revisamos tu caso sin costo y sin compromiso."
+    }
+  ]
+}
