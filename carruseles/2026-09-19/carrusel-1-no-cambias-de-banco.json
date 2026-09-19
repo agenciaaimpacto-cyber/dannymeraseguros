@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "ERROR COMUN",
+      "text": "Portar tu seguro de desgravamen **no significa cambiarte de banco**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Tu credito se queda",
+        "**exactamente donde esta.**"
+      ],
+      "sub": "Mismo banco, misma casa comercial, mismas cuotas y mismo plazo."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Lo unico que cambia es",
+        "**quien te asegura,**"
+      ],
+      "sub": "por una aseguradora distinta, mas barata que la que vino por convenio."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI FUNCIONA LA LEY",
+      "text": "No necesitas autorizacion del banco ni de la casa comercial **para cambiar tu seguro**",
+      "source": "Fuente: Ley 20.448 y Ley 21.236 de Portabilidad Financiera"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres saber si **tu caso califica?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "Revisamos tu caso sin costo y sin compromiso."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "PATRON DE ESTA SEMANA",
+      "text": "En los ultimos dias, la Corte Suprema le dijo **que no** a tres aseguradoras distintas"
+    },
+    {
+      "type": "stat",
+      "number": "3",
+      "unit": "fallos",
+      "text": "en una semana, la Corte Suprema obligo a **Mapfre, Zurich Santander y HDI Seguros** a pagar lo que se negaban a pagar"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "En los tres casos,",
+        "**la aseguradora dijo que no primero.**"
+      ],
+      "sub": "Y en los tres casos, un tribunal termino obligandola a cumplir."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI FUNCIONA",
+      "text": "Un primer rechazo **no es la ultima palabra** si tienes tu documentacion en regla",
+      "source": "Fuente: Poder Judicial, despachos del 16, 17 y 18 de septiembre de 2026"
+    },
+    {
+      "type": "cta",
+      "text": "Te dijeron que no **sin mayor explicacion?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "Revisamos tu caso sin costo y sin compromiso."
+    }
+  ]
+}

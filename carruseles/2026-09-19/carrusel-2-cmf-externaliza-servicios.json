@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "NORMATIVA NUEVA",
+      "text": "La CMF ahora exige que las aseguradoras **respondan por sus proveedores externos**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Muchas aseguradoras delegan",
+        "**parte de su atencion**"
+      ],
+      "sub": "call centers, procesamiento de siniestros o gestion de pagos, en empresas externas."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La nueva norma exige",
+        "**niveles minimos de servicio**"
+      ],
+      "sub": "y controles claros, aunque el tramite lo maneje un tercero."
+    },
+    {
+      "type": "proof",
+      "tag": "NORMA CMF N° 573",
+      "text": "La aseguradora **sigue siendo responsable** aunque externalice el servicio",
+      "source": "Fuente: CMF, Norma de Caracter General N° 573 (12 ago 2026)"
+    },
+    {
+      "type": "cta",
+      "text": "Tu tramite de devolucion **esta demorado?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "Revisamos tu caso sin costo y sin compromiso."
+    }
+  ]
+}
