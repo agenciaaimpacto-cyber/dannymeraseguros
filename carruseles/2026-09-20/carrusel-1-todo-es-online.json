@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SIN VUELTAS", "text": "El tramite de tu seguro de desgravamen se hace **sin pisar una oficina**"},
+    {"type": "text", "lines": ["No hay sucursal", "**a la que tengas que ir.**"], "sub": "Revisamos tu caso, juntamos tus documentos y hacemos el cambio, todo por el mismo chat de WhatsApp."},
+    {"type": "text", "lines": ["Enviar tus documentos", "**no es firmar nada todavia.**"], "sub": "Resumen del credito, poliza actual y tu carnet sirven para calcular cuanto te corresponde, antes de decidir algo."},
+    {"type": "proof", "tag": "COMO TRABAJAMOS", "text": "Te contamos que corresponde **antes de pedirte cualquier documento**", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "Quieres que revisemos tu caso **sin compromiso?**", "button": "Escribeme por WhatsApp ->", "sub": "Todo por chat, sin ir a ninguna oficina."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ANTES DE FIRMAR", "text": "Puedes revisar si tu aseguradora o corredor **tiene sanciones**"},
+    {"type": "text", "lines": ["La CMF publica un registro", "**de sanciones por mercado.**"], "sub": "Multas, censuras y suspensiones a companias, agentes y corredores de seguros, todo disponible para consultar."},
+    {"type": "text", "lines": ["No hace falta ser experto", "**para consultarlo.**"], "sub": "Basta con el nombre de la aseguradora o del corredor que te esta atendiendo."},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Antes de entregar tu resumen de credito, tu poliza o tu carnet, **conviene saber a quien se los entregas**", "source": "Fuente: CMF, registro de sanciones al mercado de seguros"},
+    {"type": "cta", "text": "Quieres revisar tu caso **con alguien identificable?**", "button": "Escribeme por WhatsApp ->", "sub": "Agente Comercial de Grupo Insurex (Mueve Seguro)."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SANCION CMF", "text": "La CMF censuro a Chubb Seguros y a Banchile Corredores **por vender un seguro mal armado**"},
+    {"type": "text", "lines": ["Vendian un seguro de fraude", "**que no cumplia la ley.**"], "sub": "La Ley 20.009 dice que el fraude con tarjetas o transferencias lo cubre el banco, no el cliente."},
+    {"type": "stat", "number": "2", "unit": "empresas", "text": "sancionadas el mismo dia, por el mismo producto mal armado", "source": "Fuente: CMF, sancion del 4 de junio de 2026"},
+    {"type": "proof", "tag": "QUE ES UNA CENSURA", "text": "No es una multa en dinero, pero **queda anotada en el registro publico** de la CMF", "source": "Fuente: CMF, sancion de censura a Chubb Seguros y Banchile Corredores"},
+    {"type": "cta", "text": "Quieres saber si tu seguro de desgravamen **te conviene?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
