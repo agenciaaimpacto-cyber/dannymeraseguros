@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si una aseguradora te dice que no, **tienes donde reclamar**"},
+    {"type": "text", "lines": ["El SERNAC recibe reclamos", "**sobre cualquier seguro.**"], "sub": "Incluyendo el de desgravamen, si sientes que no te explicaron bien las condiciones."},
+    {"type": "text", "lines": ["La CMF fiscaliza", "**a aseguradoras y corredores.**"], "sub": "Puedes revisar si la empresa que te atiende tiene sanciones antes de avanzar con cualquier tramite."},
+    {"type": "proof", "tag": "LO QUE HEMOS VISTO", "text": "En despachos anteriores, tribunales y reguladores **le han dado la razon al cliente** mas de una vez", "source": "Fuente: despachos de este sitio, normativa CMF y fallos del Poder Judicial"},
+    {"type": "cta", "text": "Quieres que revisemos tu caso **antes de decidir algo?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo, sin compromiso."}
+  ]
+}

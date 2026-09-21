@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "FALLO CORTE SUPREMA", "text": "La Corte Suprema califico de **discriminatorio** negar un seguro por la condicion de salud del cliente"},
+    {"type": "text", "lines": ["Un cliente con VIH pidio", "**un seguro de desgravamen.**"], "sub": "Era para un credito hipotecario ya preaprobado. La aseguradora no le ofrecio ninguna alternativa."},
+    {"type": "proof", "tag": "LO QUE DIJO LA CORTE", "text": "Negarle el seguro **violaba su derecho a la igualdad ante la ley**", "source": "Fuente: Diario Constitucional, fallo de la Tercera Sala de la Corte Suprema"},
+    {"type": "text", "lines": ["Es un caso hipotecario,", "**que no gestionamos en portabilidad.**"], "sub": "Pero el principio es el mismo para cualquier seguro de desgravamen: nadie puede negarte una alternativa sin explicacion."},
+    {"type": "cta", "text": "Quieres una alternativa **clara y explicada?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

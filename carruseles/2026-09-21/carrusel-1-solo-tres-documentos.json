@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SOLO TRES DOCUMENTOS", "text": "Para revisar tu seguro de desgravamen, **solo necesitamos tres documentos**"},
+    {"type": "text", "lines": ["Resumen del credito", "y **poliza del seguro actual.**"], "sub": "Sirven para ver cuantas cuotas llevas pagadas y cuanto vale tu poliza, para buscar una mejor alternativa."},
+    {"type": "text", "lines": ["Tu carnet de identidad", "**es solo para verificar que eres tu.**"], "sub": "Nada mas que eso: confirmar que los documentos corresponden a la persona que los envia."},
+    {"type": "proof", "tag": "POR QUE LO PEDIMOS", "text": "No pedimos nada que no podamos **explicarte para que sirve**", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "Tienes esos tres documentos **a mano?**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico cada paso antes de pedirte nada."}
+  ]
+}
