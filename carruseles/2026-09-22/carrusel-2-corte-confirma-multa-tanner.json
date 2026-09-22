@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL, CORTE DE APELACIONES", "text": "Una corredora tuvo que pagar **10.000 UF de multa** por no devolver primas a tiempo"},
+    {"type": "text", "lines": ["Afecto a mas de", "**21.000 clientes.**"], "sub": "Entre 2020 y 2024, no devolvio a tiempo mas de UF 119.552 en primas no consumidas."},
+    {"type": "text", "lines": ["La Corte confirmo la multa", "**en su totalidad.**"], "sub": "Rechazo por completo el reclamo de la corredora y valido la sancion de la CMF."},
+    {"type": "proof", "tag": "LO QUE ESTO CONFIRMA", "text": "La prima no consumida **es tuya**, y te la deben devolver reajustada", "source": "Fuente: Diario Constitucional, Corte de Apelaciones de Santiago, mayo 2026"},
+    {"type": "cta", "text": "No quieres depender de que **te la devuelvan solos?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

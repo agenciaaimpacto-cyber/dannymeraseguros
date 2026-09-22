@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE DICE LA NORMA", "text": "La CMF fija un plazo maximo para que te devuelvan la prima **no consumida**"},
+    {"type": "text", "lines": ["Segun la Circular", "**CMF N° 2.114,**"], "sub": "la aseguradora debe poner la prima a tu disposicion dentro de un plazo maximo desde que toma conocimiento del termino del seguro."},
+    {"type": "text", "lines": ["Y tiene que devolverla", "**reajustada en UF,**"], "sub": "al valor de la UF en la fecha en que efectivamente te pagan, no al valor original."},
+    {"type": "proof", "tag": "CASO REAL", "text": "Una corredora no cumplio ese plazo con **mas de 21.000 clientes**, y la Corte confirmo la multa", "source": "Fuente: Diario Constitucional, Corte de Apelaciones de Santiago, mayo 2026"},
+    {"type": "cta", "text": "Quieres saber si a ti **te la devolvieron bien?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

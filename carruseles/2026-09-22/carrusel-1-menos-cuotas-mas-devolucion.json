@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE NO TE CUENTAN", "text": "Mientras **menos cuotas** de tu credito llevas pagadas, mas grande puede ser tu devolucion"},
+    {"type": "text", "lines": ["Recien empezaste a pagar?", "**Ese es el mejor momento.**"], "sub": "Se ha consumido menos prima del seguro actual, asi que queda mas por devolver."},
+    {"type": "text", "lines": ["Si ya llevas la mitad o mas", "**tambien puedes revisar tu caso.**"], "sub": "La devolucion baja, pero el derecho a portarte a un seguro mas barato sigue siendo tuyo igual."},
+    {"type": "proof", "tag": "COMO FUNCIONA", "text": "La devolucion depende de **cuanta prima no se ha consumido todavia**", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "Hace poco que **empezaste a pagar tu credito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
