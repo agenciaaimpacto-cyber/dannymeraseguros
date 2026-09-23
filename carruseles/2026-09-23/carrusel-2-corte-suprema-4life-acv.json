@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL, CORTE SUPREMA", "text": "Una aseguradora se nego a pagar, y la Corte Suprema la obligo a pagar **$253 millones**"},
+    {"type": "text", "lines": ["Ella sufrio un ACV", "**y quedo con 73% de incapacidad.**"], "sub": "Quiso hacer efectivo el seguro asociado a su credito hipotecario, y la aseguradora se nego a cubrirla."},
+    {"type": "text", "lines": ["La Corte Suprema", "**dejo la condena firme.**"], "sub": "6.054 UF por dano emergente, mas dano moral, mas una multa de 300 UTM por infringir la Ley del Consumidor."},
+    {"type": "proof", "tag": "LO QUE ESTO CONFIRMA", "text": "Que una aseguradora se niegue a pagar **no es la ultima palabra**", "source": "Fuente: BioBioChile, Corte Suprema, septiembre 2026"},
+    {"type": "cta", "text": "Tienes un seguro atado a tu credito y **no sabes si te conviene?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

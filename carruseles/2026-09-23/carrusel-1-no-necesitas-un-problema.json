@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA QUE QUEDE CLARO", "text": "No necesitas que **algo salga mal** para portarte de seguro de desgravamen"},
+    {"type": "text", "lines": ["No es un reclamo,", "**es un derecho que ya tienes.**"], "sub": "No hace falta un rechazo de siniestro ni un problema con tu aseguradora actual para ejercerlo."},
+    {"type": "text", "lines": ["Lo puedes hacer", "**apenas te des cuenta.**"], "sub": "Mientras tu credito este vigente, puedes revisar si te conviene cambiarte a un seguro mas barato."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "El seguro que trae tu credito **no lo elegiste tu**, vino por convenio del banco", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar **si te conviene cambiarte?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

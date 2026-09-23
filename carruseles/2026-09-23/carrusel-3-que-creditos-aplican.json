@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "El caso de hoy fue un seguro **hipotecario**, y ese es justo el que no gestionamos"},
+    {"type": "text", "lines": ["Portabilidad de seguro de desgravamen", "**si aplica para:**"], "sub": "Creditos de consumo, automotrices y comerciales."},
+    {"type": "text", "lines": ["No gestionamos portabilidad con", "**creditos Hipotecarios, Cajas de Compensacion ni Forum.**"], "sub": "Es una restriccion del tipo de credito, no depende de tu caso particular."},
+    {"type": "proof", "tag": "PARA NO PERDER TIEMPO", "text": "Si tu credito **si califica**, mientras menos cuotas llevas pagadas, mas grande puede ser tu devolucion", "source": "Fuente: proceso de portabilidad de seguro de desgravamen"},
+    {"type": "cta", "text": "No sabes si **tu credito califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Te confirmamos en minutos, sin costo y sin compromiso."}
+  ]
+}
