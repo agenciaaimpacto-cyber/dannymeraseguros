@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Antes de firmar cualquier seguro, puedes **pedir ver el registro** de quien te esta atendiendo"},
+    {"type": "text", "lines": ["El Registro de Agentes y Corredores", "**lo administra la CMF, y es publico.**"], "sub": "Cualquier persona que te ofrezca un seguro de desgravamen deberia estar inscrita ahi."},
+    {"type": "text", "lines": ["Varias aseguradoras ya fueron multadas", "**por vender con agentes no inscritos.**"], "sub": "La responsabilidad es de la compania, pero tu tambien puedes verificarlo antes de entregar tus documentos."},
+    {"type": "proof", "tag": "REGISTRO PUBLICO CMF", "text": "Verificar a quien le entregas tu carnet y tu poliza **te toma un minuto**", "source": "Fuente: CMF, Registro de Agentes de Venta de Seguros"},
+    {"type": "cta", "text": "Quieres que revisemos **tu caso con las mismas garantias?**", "button": "Escribeme por WhatsApp ->", "sub": "Trabajamos con Grupo Insurex, agencia inscrita y verificable."}
+  ]
+}

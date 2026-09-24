@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NORMATIVA CMF", "text": "La CMF elimino un tramite de **mas de 20 anos** para aseguradoras - pero ojo con lo que si se mantiene"},
+    {"type": "text", "lines": ["Desde el 23 de junio,", "**ya no tienen que enviarle a la CMF** la lista de representantes legales."], "sub": "Era un requisito de una circular del 2003, sin valor real para la fiscalizacion actual."},
+    {"type": "text", "lines": ["La obligacion de fondo", "**sigue exactamente igual.**"], "sub": "Toda aseguradora debe mantener un representante en Chile, con poderes vigentes, disponible si la CMF lo pide en 3 dias habiles."},
+    {"type": "proof", "tag": "NCG N° 570 (CMF)", "text": "Menos papeleo interno **no significa menos supervision**", "source": "Fuente: Prieto Abogados, junio 2026"},
+    {"type": "cta", "text": "**Tu seguro de desgravamen** sigue con las mismas protecciones de siempre - las revisamos juntos?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

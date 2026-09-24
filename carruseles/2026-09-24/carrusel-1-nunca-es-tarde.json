@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA QUE QUEDE CLARO", "text": "Aunque **ya lleves anos** pagando tu credito, tu seguro de desgravamen se puede revisar hoy"},
+    {"type": "text", "lines": ["No importa cuanto tiempo", "**llevas pagando.**"], "sub": "Mientras tu credito de consumo siga vigente, tienes derecho a comparar y cambiarte a un seguro mas barato."},
+    {"type": "text", "lines": ["Lo unico que cambia", "**es el monto de tu devolucion.**"], "sub": "Mientras menos cuotas te falten, hay menos prima sin usar por recuperar - pero el derecho sigue estando ahi."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "El derecho a portar tu seguro de desgravamen **no tiene fecha de vencimiento**", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "**Nunca revisaste** tu seguro de desgravamen?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
