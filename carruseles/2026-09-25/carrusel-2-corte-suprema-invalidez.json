@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "FALLO CORTE SUPREMA", "text": "Un banco le dijo que su seguro **no cubria** la invalidez - la Corte Suprema dijo que si"},
+    {"type": "text", "lines": ["Una clienta con credito hipotecario", "**tenia 70% de invalidez fisica.**"], "sub": "Artrosis severa en ambas caderas y rodillas. Pidio activar el seguro de desgravamen asociado a su credito."},
+    {"type": "text", "lines": ["El banco dijo que la poliza", "**solo cubria el fallecimiento.**"], "sub": "La Corte Suprema confirmo que eso no era cierto y dejo firme la condena contra el banco y la aseguradora."},
+    {"type": "stat", "number": "40", "unit": "millones", "text": "en multa e indemnizacion **ordeno pagar la Corte Suprema**", "source": "Fuente: Poder Judicial, fallo confirmado"},
+    {"type": "cta", "text": "Sabes realmente **que cubre** tu seguro de desgravamen?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisarlo, sin costo."}
+  ]
+}

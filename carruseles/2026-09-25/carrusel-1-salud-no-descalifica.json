@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PARA QUE QUEDE CLARO", "text": "Tener un problema de salud **no te quita** el derecho a portar tu seguro de desgravamen"},
+    {"type": "text", "lines": ["Portar tu seguro de desgravamen", "**es distinto a cobrar un siniestro.**"], "sub": "No se trata de reclamar una cobertura por invalidez o enfermedad: es cambiarte a una poliza mas barata, y tu situacion de salud actual no te descarta de entrada."},
+    {"type": "text", "lines": ["La aseguradora nueva", "**evalua tu caso, no te descarta de plano.**"], "sub": "Cada compania tiene sus propios criterios de evaluacion, pero eso es distinto a que te nieguen el derecho a comparar y cambiarte."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "El derecho a portar tu seguro de desgravamen **no depende de tu estado de salud actual**", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Tienes un problema de salud y **no sabes si calificas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

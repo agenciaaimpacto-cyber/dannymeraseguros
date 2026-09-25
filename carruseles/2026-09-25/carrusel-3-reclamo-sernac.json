@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si tu aseguradora te dice **que no cubre algo**, esa no es la ultima palabra"},
+    {"type": "text", "lines": ["Puedes reclamar directamente", "**en el SERNAC financiero.**"], "sub": "Es gratuito y no necesitas un abogado para iniciar el reclamo."},
+    {"type": "text", "lines": ["Si el reclamo no se resuelve", "**puedes llevarlo a tribunales.**"], "sub": "Varios casos donde el banco o la aseguradora dijeron que no, terminaron con la Corte Suprema fallando a favor del cliente."},
+    {"type": "proof", "tag": "LEY N 19.496", "text": "Rechazar una cobertura sin fundamento real **es una infraccion a la ley del consumidor**", "source": "Fuente: SERNAC / Ley de Proteccion al Consumidor"},
+    {"type": "cta", "text": "Antes de aceptar un 'no' de tu aseguradora, **conversemos tu caso.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu situacion sin costo y sin compromiso."}
+  ]
+}
