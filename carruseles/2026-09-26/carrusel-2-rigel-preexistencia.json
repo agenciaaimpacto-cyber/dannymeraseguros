@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "FALLO CORTE SUPREMA", "text": "Le dijeron que su enfermedad **ya existia antes** del seguro - la aseguradora no pudo probarlo"},
+    {"type": "text", "lines": ["Un cliente saco un credito hipotecario", "**con seguro de desgravamen en 2012.**"], "sub": "En 2017 fue diagnosticado con artrosis de cadera y quedo con invalidez."},
+    {"type": "text", "lines": ["La aseguradora se nego a pagar", "**alegando enfermedades preexistentes.**"], "sub": "La Corte Suprema determino que es la aseguradora quien debe probar la preexistencia, no el cliente."},
+    {"type": "stat", "number": "5", "unit": "millones", "text": "en dano moral, ademas de la deuda completa, **debio pagar la aseguradora**", "source": "Fuente: Diario Constitucional, fallo Corte Suprema Rol 59.461-2024"},
+    {"type": "cta", "text": "Te han **rechazado algo** sin mostrarte pruebas?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisar tu caso, sin costo."}
+  ]
+}

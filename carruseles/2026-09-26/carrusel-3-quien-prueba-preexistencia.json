@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si tu aseguradora te dice que **no cubre** por una enfermedad previa, tiene que probarlo"},
+    {"type": "text", "lines": ["No basta con que la aseguradora diga", "**esto ya lo tenias antes.**"], "sub": "Tiene que demostrar, con evidencia real, que la condicion existia antes de que firmaras la poliza."},
+    {"type": "text", "lines": ["Si no puede probarlo,", "**la negativa no es valida.**"], "sub": "Los tribunales chilenos han fallado repetidamente en esta linea, como en el caso que vimos hoy."},
+    {"type": "proof", "tag": "CARGA DE LA PRUEBA", "text": "Ante una negativa de tu aseguradora, **el primer paso es pedir que te muestren la prueba**", "source": "Fuente: fallos reiterados de la Corte Suprema en materia de seguros"},
+    {"type": "cta", "text": "Te dijeron que no **sin mostrarte pruebas?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos tu caso, sin costo."}
+  ]
+}

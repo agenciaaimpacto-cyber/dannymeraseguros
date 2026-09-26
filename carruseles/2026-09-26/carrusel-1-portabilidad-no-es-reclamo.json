@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON LA DIFERENCIA", "text": "Portar tu seguro de desgravamen **no es lo mismo** que reclamarle un siniestro a tu aseguradora"},
+    {"type": "text", "lines": ["Reclamar un siniestro depende de que", "**la aseguradora acepte tu caso.**"], "sub": "Ahi si pueden pedirte mas pruebas, o incluso llegar a tribunales si no estan de acuerdo con tu solicitud."},
+    {"type": "text", "lines": ["Portar tu seguro es distinto:", "**es un tramite administrativo, no una negociacion.**"], "sub": "No le estas pidiendo que te pague nada por un evento pasado - solo que autorice el cambio a una poliza mas barata."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Cambiarte de aseguradora **no depende de que acepten un reclamo** - es un derecho que ya tienes hoy", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes ahorrar** cambiandote?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
