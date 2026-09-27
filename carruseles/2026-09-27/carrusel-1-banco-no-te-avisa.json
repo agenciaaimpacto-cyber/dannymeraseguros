@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Tu banco **nunca** te va a llamar para ofrecerte cambiar tu seguro de desgravamen"},
+    {"type": "text", "lines": ["El seguro que tienes hoy", "**lo eligio el banco**, no tu"], "sub": "Viene por convenio con una aseguradora especifica, no necesariamente la mas barata."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "te dan el derecho a **portarte** a un seguro mas barato: Ley 20.448 y Ley 21.236"},
+    {"type": "proof", "tag": "TU DECIDES, NO EL BANCO", "text": "Portar tu seguro **no depende** de que te avisen o te lo ofrezcan primero", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

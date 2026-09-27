@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL ASEGURADO", "text": "Si una aseguradora **no responde o te rechaza**, esa no es tu unica opcion"},
+    {"type": "text", "lines": ["Reclamo directo, Defensoria", "**del Asegurado, CMF o SERNAC.**"], "sub": "Cuatro instancias distintas y gratuitas antes de llegar a tribunales."},
+    {"type": "stat", "number": "20", "unit": "dias", "text": "habiles es el plazo maximo que tiene la aseguradora para **responderte por escrito**"},
+    {"type": "proof", "tag": "DEFENSORIA DEL ASEGURADO", "text": "Es una instancia **gratuita y autonoma** que puede revisar tu caso si el rechazo no te convence", "source": "Fuente: Diario Constitucional, 23 sep 2026"},
+    {"type": "cta", "text": "Te rechazaron algo que **te corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisar tu caso sin costo."}
+  ]
+}

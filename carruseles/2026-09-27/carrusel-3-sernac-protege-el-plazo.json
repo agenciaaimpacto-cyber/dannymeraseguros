@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE POCOS SABEN", "text": "Reclamar en el **SERNAC** hace algo mas que dejar constancia"},
+    {"type": "text", "lines": ["Tienes 2 anos para demandar", "**a una aseguradora que no cumple.**"], "sub": "Ese plazo corre desde que ocurre el problema, no desde que tu decides actuar."},
+    {"type": "text", "lines": ["Presentar el reclamo en el SERNAC", "**suspende ese plazo de 2 anos.**"], "sub": "Mientras se resuelve tu reclamo, el plazo para demandar queda congelado."},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Si esperas sin reclamar en ninguna parte, **el plazo sigue corriendo** en tu contra", "source": "Fuente: Diario Constitucional, 23 sep 2026"},
+    {"type": "cta", "text": "Llevas tiempo esperando una respuesta que **no llega?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
