@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO QUE NO TE CUENTAN", "text": "Nadie te obliga a **quedarte con la primera cotizacion** que te dan por tu seguro"},
+    {"type": "text", "lines": ["Puedes pedir", "**mas de una alternativa**"], "sub": "Comparar antes de decidir es parte del derecho a portabilidad, no un tramite aparte."},
+    {"type": "text", "lines": ["Comparar no te compromete", "**a cambiarte de inmediato**"], "sub": "Puedes pedir el calculo de tu devolucion y decidir con calma, sin presion."},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Una cotizacion **no es un compromiso** - es informacion para decidir mejor", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres una cotizacion **sin compromiso?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

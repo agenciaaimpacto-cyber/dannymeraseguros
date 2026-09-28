@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "El seguro que viene con tu auto se puede comparar. El de tu credito de consumo **tambien**"},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**tambien se puede comparar**"], "sub": "Llega empaquetado con tu credito, elegido por el banco - no por ti."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "respaldan tu derecho a **cambiarte** de seguro de desgravamen, sin pedirle permiso a nadie"},
+    {"type": "proof", "tag": "TU DECIDES", "text": "Comparar tu seguro de desgravamen **no cambia tu credito ni tu banco**", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

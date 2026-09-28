@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ESTUDIO DE MERCADO", "text": "Un estudio encontro que al menos **20 automotoras y financieras** venden el seguro ya empaquetado con la compra"},
+    {"type": "text", "lines": ["12 automotoras y", "**8 financieras automotrices**"], "sub": "Ofrecen el seguro integrado en el precio del auto o en el credito, segun ComparaOnline."},
+    {"type": "text", "lines": ["Muchos compradores lo aceptan", "**sin saber que pueden cotizar aparte**"], "sub": "El seguro llega presentado como parte del paquete, no como una decision propia."},
+    {"type": "proof", "tag": "EL MISMO PATRON", "text": "Es el mismo mecanismo detras del seguro de desgravamen de tu credito: **lo elige la financiera, no tu**", "source": "Fuente: G5noticias, 22 sep 2026"},
+    {"type": "cta", "text": "Nunca revisaste si tu seguro de desgravamen **te conviene?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo sin costo."}
+  ]
+}
