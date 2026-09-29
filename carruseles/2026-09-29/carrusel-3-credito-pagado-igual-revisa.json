@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE NO TE CUENTAN", "text": "Aunque ya **terminaste de pagar** tu credito, tu seguro puede seguir apareciendo con obligaciones pendientes"},
+    {"type": "text", "lines": ["Un seguro terminado", "**no siempre esta cerrado del todo.**"], "sub": "Si quedo una prima sin devolver, esa obligacion puede seguir vigente aunque el seguro ya no este activo."},
+    {"type": "text", "lines": ["La plataforma oficial de la CMF", "**tambien muestra esos casos.**"], "sub": "Ahi aparecen los seguros ya terminados que todavia tienen algo pendiente y no ha prescrito."},
+    {"type": "proof", "tag": "POR QUE IMPORTA", "text": "Terminar de pagar el credito **no significa que ya no quede nada por revisar**", "source": "Fuente: CMF, Sistema de Consultas de Seguros"},
+    {"type": "cta", "text": "Ya pagaste tu credito y **nunca revisaste tu seguro?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

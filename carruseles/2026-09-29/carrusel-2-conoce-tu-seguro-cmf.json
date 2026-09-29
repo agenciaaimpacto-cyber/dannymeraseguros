@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "HERRAMIENTA OFICIAL", "text": "La CMF te deja revisar **todos tus seguros vigentes** con tu RUT y tu ClaveUnica"},
+    {"type": "text", "lines": ["Se llama Sistema de Consultas", "**de Seguros (SICS).**"], "sub": "Funciona en conocetuseguro.cl o desde el portal de la Comision para el Mercado Financiero, sin costo."},
+    {"type": "text", "lines": ["Te muestra la compania,", "**el numero de poliza y su vigencia.**"], "sub": "Cada aseguradora del pais responde en el momento si tienes una poliza activa a tu nombre."},
+    {"type": "proof", "tag": "DATO UTIL", "text": "Tambien muestra seguros **ya terminados**, si todavia tienen alguna obligacion sin prescribir", "source": "Fuente: CMF, Sistema de Consultas de Seguros"},
+    {"type": "cta", "text": "Ya revisaste y **quieres saber si te corresponde una devolucion?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

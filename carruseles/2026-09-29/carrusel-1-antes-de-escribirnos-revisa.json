@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "ANTES DE ESCRIBIRNOS", "text": "No sabes **que aseguradora** tiene tu seguro de desgravamen? Hay una forma gratis de averiguarlo"},
+    {"type": "text", "lines": ["La CMF tiene una plataforma", "**para revisar tus seguros vigentes.**"], "sub": "Con tu RUT y tu ClaveUnica del Registro Civil, te dice que compania te administra el seguro atado a tu credito."},
+    {"type": "text", "lines": ["Confirmar ese dato primero", "**hace mas rapido todo lo demas.**"], "sub": "Con la aseguradora y el numero de poliza claros, juntar tu resumen de credito y tu carnet es mucho mas simple."},
+    {"type": "proof", "tag": "TU DECIDES, NO EL BANCO", "text": "Saber que seguro tienes **no te compromete a nada** - es solo informacion tuya", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Ya revisaste tu seguro y **quieres saber cuanto te corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
