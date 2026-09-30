@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Tu seguro de desgravamen **no es un beneficio** que viene incluido - es un seguro que puedes cambiar"},
+    {"type": "text", "lines": ["Llega atado a tu credito", "**por convenio del banco.**"], "sub": "No lo elegiste tu, y no necesariamente es el mas barato ni el mas conveniente para ti."},
+    {"type": "text", "lines": ["Mientras menos cuotas", "**hayas pagado, mas puedes recuperar.**"], "sub": "Se ha consumido menos prima del seguro contratado - por eso conviene revisarlo apenas empiezas a pagar."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Tienes derecho a **comparar y portar** tu seguro de desgravamen a una compania mas barata", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

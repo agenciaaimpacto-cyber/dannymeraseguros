@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Un corredor de seguros **tiene que asesorarte** - no solo venderte"},
+    {"type": "text", "lines": ["Por ley, debe proponerte", "**la cobertura mas conveniente**"], "sub": "Segun tus necesidades e intereses reales - no la que le paga mejor comision a el."},
+    {"type": "text", "lines": ["Y explicarte las condiciones", "**de forma clara, no disimulada.**"], "sub": "La CMF ya ha sancionado a corredoras por entregar esa informacion de forma confusa a proposito."},
+    {"type": "proof", "tag": "DEBER DE ASESORIA E INFORMACION", "text": "Toda la informacion sobre tu seguro **deberia quedar por escrito**, no solo dicha por telefono", "source": "Fuente: CMF - normativa de corredores de seguros"},
+    {"type": "cta", "text": "Quieres una asesoria **clara, por escrito?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

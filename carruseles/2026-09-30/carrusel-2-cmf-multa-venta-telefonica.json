@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "La CMF multo con **3.000 UF** a una corredora por vender seguros por telefono sin decir que eran seguros"},
+    {"type": "text", "lines": ["CAT Corredores de Seguros,", "**del grupo Cencosud Scotiabank.**"], "sub": "En al menos 76 llamadas, presento el seguro como un 'beneficio' de la tarjeta, sin explicar que era una venta de seguro."},
+    {"type": "text", "lines": ["La ley exige que te asesoren", "**segun lo que a ti te conviene.**"], "sub": "No que te vendan algo disimulado dentro de otra conversacion."},
+    {"type": "proof", "tag": "RESOLUCION N 5098", "text": "La informacion se dio de forma **desordenada, incompleta y confusa**, segun la CMF", "source": "Fuente: CMF - Prensa y Presentaciones"},
+    {"type": "cta", "text": "Te vendieron un seguro asi y **nunca lo revisaste?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
