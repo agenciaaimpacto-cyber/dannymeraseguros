@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si fallece el titular de un credito, **quien paga lo que falta?**"},
+    {"type": "text", "lines": ["Si tenia seguro de desgravamen,", "**la aseguradora paga el saldo.**"], "sub": "La familia no hereda esa deuda - para eso existe el seguro."},
+    {"type": "text", "lines": ["Si no tenia seguro,", "**la deuda se cobra a la sucesion.**"], "sub": "Antes de repartir la herencia, los acreedores pueden cobrar sobre el patrimonio que dejo el fallecido."},
+    {"type": "proof", "tag": "CMF EDUCA", "text": "El seguro de desgravamen existe **para que tu familia no herede tu credito**", "source": "Fuente: CMF Educa"},
+    {"type": "cta", "text": "Sabes si tu seguro actual **cubre esto bien?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "Una diputada presento un proyecto para frenar los cobros de deudas **despues de que alguien muere**"},
+    {"type": "text", "lines": ["Se llama", "**Ley Descansa en Paz.**"], "sub": "La presento la diputada Macarena Santelices y busca modificar la Ley de Proteccion al Consumidor."},
+    {"type": "text", "lines": ["Busca frenar intereses y recargos", "**que la familia nunca debio pagar.**"], "sub": "Aplica a servicios basicos, telecomunicaciones, TAG, TV paga y suscripciones, mientras se tramita el fallecimiento."},
+    {"type": "proof", "tag": "PROYECTO DE LEY, AGOSTO 2026", "text": "Los cobros generados tras la muerte **no deberian exigirse** a la sucesion, segun el proyecto", "source": "Fuente: BioBioChile"},
+    {"type": "cta", "text": "Tu seguro de desgravamen **ya resuelve esto para tu credito**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

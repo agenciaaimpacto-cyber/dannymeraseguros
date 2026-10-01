@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Si fallece el titular del credito, el seguro de desgravamen paga la deuda - pero tiene que ser **el seguro correcto**"},
+    {"type": "text", "lines": ["Si el seguro que tienes", "**es caro o esta mal elegido,**"], "sub": "igual cumple su funcion al fallecer el titular, pero mientras tanto pagaste de mas durante todo el credito."},
+    {"type": "text", "lines": ["Puedes cambiarte a uno", "**mas barato, sin perder la cobertura.**"], "sub": "El banco eligio el seguro original por convenio - tu tienes derecho a portarlo a uno mejor."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Tienes derecho a **comparar y portar** tu seguro de desgravamen a una compania mas barata", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
