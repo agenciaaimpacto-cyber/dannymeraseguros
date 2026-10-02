@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "No tienes que quedarte con la aseguradora **que el banco eligio por ti**"},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**vino atado a tu credito por convenio.**"], "sub": "El banco eligio esa aseguradora, no tu - y no siempre es la que mejor responde."},
+    {"type": "text", "lines": ["Puedes portarlo a una compania", "**mas barata y que tambien responda bien.**"], "sub": "La ley te da ese derecho, sin perder la cobertura mientras tanto."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Tienes derecho a **comparar y portar** tu seguro de desgravamen a otra compania", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

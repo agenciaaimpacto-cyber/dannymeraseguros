@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si tu aseguradora se niega a pagar algo que corresponde, **no es solo un tema de contrato**"},
+    {"type": "text", "lines": ["Puede ser, ademas,", "**una infraccion a la ley del consumidor.**"], "sub": "Negarte informacion clara o un pago que corresponde tiene respaldo legal para reclamar."},
+    {"type": "text", "lines": ["Lo mismo aplica si una aseguradora", "**se demora en devolverte tu prima.**"], "sub": "La devolucion de lo no usado de tu seguro de desgravamen tambien es un derecho, no un favor."},
+    {"type": "proof", "tag": "LEY 19.496", "text": "Tienes derecho a **reclamar ante el SERNAC** cuando una aseguradora no cumple", "source": "Fuente: Ley de Proteccion al Consumidor"},
+    {"type": "cta", "text": "No sabes si tu seguro actual **te esta cumpliendo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

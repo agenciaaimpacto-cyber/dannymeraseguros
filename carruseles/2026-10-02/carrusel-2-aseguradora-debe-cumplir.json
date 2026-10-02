@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "La Corte Suprema confirmo que una aseguradora **no podia negarse a pagar**"},
+    {"type": "text", "lines": ["Suramericana se nego a cubrir", "**locales comerciales danados en 2019.**"], "sub": "Alegaba que el dano no estaba cubierto por la poliza."},
+    {"type": "stat", "number": "5.759,8", "unit": "UF", "text": "es lo que la Corte Suprema **obligo a pagar** por los danos, mas una multa de 100 UTM"},
+    {"type": "proof", "tag": "ROL 192.813-2023", "text": "La Corte califico la negativa **como infraccion a la ley del consumidor**, no solo un incumplimiento de contrato", "source": "Fuente: Poder Judicial"},
+    {"type": "cta", "text": "Tu aseguradora **tampoco puede negarte lo que corresponde**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
