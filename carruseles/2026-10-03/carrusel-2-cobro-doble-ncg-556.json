@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "La CMF ahora obliga a evitar que te **cobren dos veces** por el mismo seguro atado a tu credito"},
+    {"type": "text", "lines": ["La nueva norma aplica a seguros", "**de incendio en condominios con credito hipotecario.**"], "sub": "Si el condominio ya tiene una poliza colectiva, no te pueden cobrar otra igual por separado."},
+    {"type": "text", "lines": ["El principio de fondo es el mismo", "**que ya existe para el seguro de desgravamen.**"], "sub": "No tienes que aceptar sin revisar un seguro solo porque viene atado a tu credito."},
+    {"type": "proof", "tag": "NCG 556 Y NCG 557", "text": "La CMF exige **evitar cobros duplicados** por seguros atados a un credito", "source": "Fuente: CMF, normativa vigente desde el 3 de febrero de 2026"},
+    {"type": "cta", "text": "Tu seguro de desgravamen, **estas pagando de mas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

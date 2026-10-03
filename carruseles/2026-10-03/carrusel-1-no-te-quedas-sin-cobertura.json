@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Mientras portas tu seguro de desgravamen, **no te quedas sin cobertura ni un dia**"},
+    {"type": "text", "lines": ["Tu seguro actual sigue vigente", "**hasta que el nuevo queda activo.**"], "sub": "El cambio se hace de forma ordenada, no de un dia para otro sin aviso."},
+    {"type": "text", "lines": ["Primero se activa el seguro nuevo,", "**despues se cierra el anterior.**"], "sub": "Asi lo exige la ley de portabilidad financiera."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "La portabilidad **no te deja desprotegido** en ningun momento del proceso", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar tu seguro **sin perder cobertura?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

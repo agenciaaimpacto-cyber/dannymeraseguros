@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "No todo seguro atado a tu credito **se puede cambiar igual**"},
+    {"type": "text", "lines": ["El seguro de desgravamen de un credito", "**de consumo o automotriz se puede portar.**"], "sub": "Lo respaldan la Ley 20.448 y la Ley 21.236 de portabilidad financiera."},
+    {"type": "text", "lines": ["Hipotecarios, Cajas de Compensacion y Forum", "**no entran en este servicio.**"], "sub": "Mejor saberlo antes de escribir, para no perder tiempo revisando un caso que no aplica."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Revisar si tu credito **aplica** toma menos de un minuto", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Cuentame que tipo de credito tienes **y lo revisamos juntos**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo y sin compromiso."}
+  ]
+}
