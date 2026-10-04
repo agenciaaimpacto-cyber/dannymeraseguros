@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Portar tu seguro de desgravamen **no tiene una fecha limite** dentro de tu credito"},
+    {"type": "text", "lines": ["No existe un plazo", "**para dejar de poder hacerlo.**"], "sub": "Mientras tu credito de consumo o automotriz siga vigente, puedes pedir el cambio cuando quieras."},
+    {"type": "text", "lines": ["Esperar no te quita el derecho,", "**solo cambia cuanto puedes recuperar.**"], "sub": "Mientras mas cuotas pagadas, menos prima sin usar queda - pero el derecho a portarte sigue intacto."},
+    {"type": "stat", "number": "2", "unit": "leyes", "text": "respaldan tu derecho a **portarte** de seguro de desgravamen cuando tu decidas: Ley 20.448 y Ley 21.236"},
+    {"type": "cta", "text": "Quieres revisar tu caso **hoy mismo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

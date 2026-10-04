@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "Si una aseguradora te niega algo con un **tecnicismo administrativo**, eso se puede reclamar"},
+    {"type": "text", "lines": ["No toda negativa", "**esta bien justificada.**"], "sub": "Los tribunales chilenos han corregido varias veces a aseguradoras que se amparan en detalles de su propio arancel para no pagar."},
+    {"type": "text", "lines": ["Lo mismo aplica si te complican", "**la devolucion de tu seguro de desgravamen.**"], "sub": "La CMF fija plazos claros para esa devolucion - no depende de la buena voluntad de la compania."},
+    {"type": "proof", "tag": "CIRCULAR CMF N° 2.114", "text": "Existen plazos y normas que **respaldan tu reclamo**, no solo la palabra de la aseguradora", "source": "Fuente: CMF, normativa de devolucion de primas"},
+    {"type": "cta", "text": "Te estan complicando tu devolucion? **Hablemos.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

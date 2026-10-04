@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "Una isapre nego cubrir el cambio de un marcapasos. La Corte Suprema dijo que **no tenia derecho a hacerlo**"},
+    {"type": "text", "lines": ["El paciente ya tenia dos recambios", "**cubiertos sin problema antes.**"], "sub": "Al tercero, la isapre excluyo el generador y el pabellon alegando un tecnicismo de su arancel."},
+    {"type": "text", "lines": ["Eso lo habria dejado pagando", "**mas de 11 millones de su bolsillo.**"], "sub": "La Corte revoco el rechazo: la prestacion si estaba cubierta por el contrato de salud."},
+    {"type": "proof", "tag": "FALLO CORTE SUPREMA, JULIO 2026", "text": "Un tecnicismo administrativo **no es razon valida** para negarte algo que tu contrato cubre", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Tu aseguradora te puso trabas? **Hay como reclamarlo.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
