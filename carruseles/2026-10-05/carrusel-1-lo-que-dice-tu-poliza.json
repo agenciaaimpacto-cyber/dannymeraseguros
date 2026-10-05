@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Lo que certifica tu poliza **vale mas** que lo que te explican por telefono"},
+    {"type": "text", "lines": ["Un contrato o certificado firmado", "**no se puede desconocer despues.**"], "sub": "Ni la aseguradora, ni el banco que la eligio por ti, pueden cambiar despues lo que ya quedo por escrito."},
+    {"type": "text", "lines": ["Por eso pedimos tu poliza actual", "**antes de calcular tu devolucion.**"], "sub": "Ese documento es la base real para saber cuanto te corresponde, no una estimacion al voleo."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "Tu derecho a portarte de seguro de desgravamen **esta en la ley**, no en lo que te cuenten por telefono", "source": "Fuente: Ley 20.448 y Ley 21.236"},
+    {"type": "cta", "text": "Quieres saber cuanto te corresponde **segun tu propia poliza?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

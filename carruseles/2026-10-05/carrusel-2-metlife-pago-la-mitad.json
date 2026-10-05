@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "MetLife pago solo la mitad de un seguro de vida. La Corte Suprema dijo que **debia pagar el 100%**"},
+    {"type": "text", "lines": ["La propia aseguradora certifico", "**que el era el unico beneficiario.**"], "sub": "Pero al momento de pagar, alego que faltaba un endoso firmado y entrego solo la mitad del capital."},
+    {"type": "text", "lines": ["No puedes desconocer despues", "**lo que tu mismo certificaste por escrito.**"], "sub": "La Corte de Apelaciones de Valparaiso y la Corte Suprema fallaron a favor del beneficiario, por unanimidad."},
+    {"type": "proof", "tag": "FALLO CORTE SUPREMA, ROL 33.695-2026", "text": "Confirmado: debia pagar las **500 UF restantes**, mas intereses", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Te estan pagando menos de lo que corresponde? **Hay como reclamarlo.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

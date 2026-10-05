@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LO QUE DICE SERNAC", "text": "Si terminas tu credito antes de tiempo, la prima del seguro **no usada es tuya**"},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**se paga completo al firmar el credito.**"], "sub": "Cubre todas las cuotas que faltan, aunque el credito termine antes por un prepago."},
+    {"type": "text", "lines": ["Si terminas de pagar antes,", "**queda una parte de la prima sin usar.**"], "sub": "Esa parte no se queda en la aseguradora ni en el banco, te corresponde a ti."},
+    {"type": "proof", "tag": "SERNAC", "text": "Cuando hay prima no consumida, su **devolucion proporcional corresponde**, no es un favor de la aseguradora", "source": "Fuente: SERNAC"},
+    {"type": "cta", "text": "Prepagaste tu credito y nunca revisaste tu seguro? **Puede que te deban algo.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
