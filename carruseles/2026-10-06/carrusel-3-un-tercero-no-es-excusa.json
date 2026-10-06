@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO DEL CONSUMIDOR", "text": "Que un tercero se demore **no es excusa** para que no te paguen lo que corresponde"},
+    {"type": "text", "lines": ["Un banco, un corredor o una auditora", "**pueden fallarle a la aseguradora.**"], "sub": "Pero frente a ti, sigue siendo la aseguradora la responsable de cumplir lo que te debe."},
+    {"type": "text", "lines": ["Eso aplica para un informe financiero,", "**y aplica igual para tu devolucion.**"], "sub": "Si tu aseguradora se demora porque el banco no le aviso a tiempo, el problema sigue siendo de ella, no tuyo."},
+    {"type": "proof", "tag": "SERNAC", "text": "Si una aseguradora no te responde o se demora sin razon, **puedes reclamar formalmente**", "source": "Fuente: SERNAC"},
+    {"type": "cta", "text": "Te estan echando la culpa a un tercero por una demora que no es tuya? **Hablemos.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

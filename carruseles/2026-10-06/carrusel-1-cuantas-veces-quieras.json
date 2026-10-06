@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE POCOS SABEN", "text": "La ley **no te limita** a portar tu seguro de desgravamen una sola vez"},
+    {"type": "text", "lines": ["La Ley 21.236 de Portabilidad", "**no fija un numero maximo de cambios.**"], "sub": "Puedes comparar y cambiarte de aseguradora cada vez que encuentres algo mas conveniente."},
+    {"type": "text", "lines": ["Si ya portaste tu seguro antes", "**puedes volver a revisarlo hoy.**"], "sub": "No existe una regla que diga que solo se puede hacer una vez durante el credito."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad de tu seguro de desgravamen es un derecho **que se puede ejercer mas de una vez**", "source": "Fuente: Ley 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Ya revisaste tu seguro antes, pero no de nuevo? **Puede valer la pena mirarlo otra vez.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

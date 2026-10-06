@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DE HOY", "text": "Una aseguradora no cumplio un plazo que le exige la CMF. La Corte **confirmo la multa**"},
+    {"type": "text", "lines": ["Orsan entrego sus estados financieros", "**pero sin el informe de auditoria.**"], "sub": "La norma exige ambas cosas dentro de un plazo fijo. La compania alego problemas con su auditora externa."},
+    {"type": "text", "lines": ["La Corte dijo que un problema", "**con un tercero no la libera de responder.**"], "sub": "La aseguradora es la responsable final de cumplir el plazo, sin importar quien le falle en el camino."},
+    {"type": "proof", "tag": "CIRCULAR CMF N° 2.022", "text": "La Corte de Apelaciones de Santiago confirmo la multa de **200 UF** a la aseguradora", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Si la CMF exige plazos hasta para los papeles internos de una aseguradora, **tambien los exige para devolverte tu plata.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
