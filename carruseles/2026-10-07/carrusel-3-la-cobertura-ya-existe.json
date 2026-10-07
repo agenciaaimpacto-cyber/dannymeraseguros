@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE POCOS SABEN", "text": "Si fallece el titular de un credito, **el seguro de desgravamen paga la deuda**, no la familia"},
+    {"type": "text", "lines": ["Eso ya es ley hoy,", "**no depende de que se apruebe nada nuevo.**"], "sub": "El seguro de desgravamen esta pensado exactamente para eso: que la deuda no recaiga en los herederos."},
+    {"type": "text", "lines": ["El problema real no es esa cobertura,", "**es el tramite administrativo despues.**"], "sub": "Por eso hoy existe un proyecto de ley para que el banco gestione ese tramite directo con la aseguradora."},
+    {"type": "proof", "tag": "ALERTA SANITARIA ONCOLOGICA - ABRIL 2026", "text": "El aumento de mortalidad por cancer en Chile, segun estudios del Cecan, **impulso este proyecto de ley**", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Quieres saber **que compania administra tu seguro hoy?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

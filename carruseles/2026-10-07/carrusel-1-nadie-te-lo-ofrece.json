@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "El banco **no te va a ofrecer** cambiarte a un seguro de desgravamen mas barato"},
+    {"type": "text", "lines": ["El seguro vino atado a tu credito", "**por convenio entre el banco y la aseguradora.**"], "sub": "A nadie en ese convenio le conviene que tu te cambies de compania."},
+    {"type": "text", "lines": ["Por eso el derecho a portarte", "**esta en la ley, no en el mostrador del banco.**"], "sub": "Si no lo pides tu mismo, nadie te lo va a mencionar."},
+    {"type": "proof", "tag": "LEY 20.448 Y LEY 21.236", "text": "El derecho a portar tu seguro de desgravamen **es tuyo - pedirlo depende de ti**", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

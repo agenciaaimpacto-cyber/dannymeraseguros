@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PROYECTO DE LEY", "text": "Un proyecto de ley quiere que **el banco, y no tu familia,** haga el tramite del seguro al fallecer el titular"},
+    {"type": "text", "lines": ["Los senadores Cicardini y Saavedra", "**lo presentaron tras la alerta por cancer en Chile.**"], "sub": "Busca que el banco gestione el seguro de desgravamen directo con la aseguradora, sin pasarle el tramite a los herederos."},
+    {"type": "text", "lines": ["Mientras el proyecto se tramita,", "**la deuda del credito sigue las reglas de hoy.**"], "sub": "El seguro de desgravamen ya existe para pagar esa deuda al fallecer el titular - pero hay que saber en que compania esta."},
+    {"type": "proof", "tag": "PROYECTO DE LEY - CONGRESO", "text": "El proyecto **todavia no es ley**. El derecho a portar tu seguro, hoy, si lo es", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Quieres revisar **en que compania esta tu seguro?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}
