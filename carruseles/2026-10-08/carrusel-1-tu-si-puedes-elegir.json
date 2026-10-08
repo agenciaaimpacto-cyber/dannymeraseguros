@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO NUEVO DE LA CMF", "text": "El **91%** del seguro de vida en Chile no lo elige nadie"},
+    {"type": "text", "lines": ["Es previsional:", "**viene atado al sistema de pensiones.**"], "sub": "Rentas vitalicias y el seguro de invalidez y sobrevivencia, automaticos dentro de tu AFP."},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**esta en el otro 9% - el que si puedes elegir.**"], "sub": "Viene atado a tu credito, pero la ley te permite cambiarlo a uno mas barato."},
+    {"type": "proof", "tag": "INFORME CMF - MERCADO ASEGURADOR 1S 2026", "text": "Solo el **9,4%** del seguro de vida en Chile se compra de forma individual", "source": "Fuente: CMF, informe financiero del mercado asegurador"},
+    {"type": "cta", "text": "Quieres saber si **puedes elegir el tuyo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

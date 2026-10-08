@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "INFORME CMF - OCTUBRE 2026", "text": "Las aseguradoras **vendieron mas** seguros de vida este año, pero **ganaron menos plata**"},
+    {"type": "text", "lines": ["Las ventas de seguros de vida subieron", "**10,9% real en el primer semestre 2026.**"], "sub": "Llegaron a MMUS$6.730, segun el informe financiero de la CMF."},
+    {"type": "text", "lines": ["Pero las utilidades de toda la industria", "**cayeron 11,6% real en el mismo periodo.**"], "sub": "Vender mas no siempre significa ganar mas - a veces significa competir con mejores condiciones para el cliente."},
+    {"type": "proof", "tag": "CMF - INFORME MERCADO ASEGURADOR", "text": "Las utilidades de la industria bajaron a **MMUS$556,1** pese al alza en ventas", "source": "Fuente: CMF, informe financiero del mercado asegurador, 5 de octubre 2026"},
+    {"type": "cta", "text": "Quieres saber **cuanto puedes recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo y sin compromiso."}
+  ]
+}

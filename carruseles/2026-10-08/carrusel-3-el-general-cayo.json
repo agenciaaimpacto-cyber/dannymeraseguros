@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "INFORME CMF - OCTUBRE 2026", "text": "El seguro general -auto, hogar, incendio- fue el **unico que cayo en ventas** este semestre"},
+    {"type": "text", "lines": ["Mientras el seguro de vida subio 10,9%,", "**el general cayo 5,2% real.**"], "sub": "Las companias estan compitiendo mas fuerte por ese tipo de poliza."},
+    {"type": "text", "lines": ["Si hace tiempo no cotizas tu seguro", "**de auto, salud o vida, este es el momento.**"], "sub": "Un mercado mas competitivo casi siempre significa mejores condiciones para quien compara."},
+    {"type": "proof", "tag": "CMF - INFORME MERCADO ASEGURADOR", "text": "El seguro general cayo a **MMUS$2.663**, -5,2% real en el primer semestre 2026", "source": "Fuente: CMF, informe financiero del mercado asegurador, 5 de octubre 2026"},
+    {"type": "cta", "text": "Quieres cotizar **tu seguro de auto, salud o vida?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a comparar sin costo y sin compromiso."}
+  ]
+}
