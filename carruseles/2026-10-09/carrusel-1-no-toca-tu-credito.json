@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO", "text": "Cambiarte de seguro de desgravamen **no toca tu credito** - solo cambia quien te cobra el seguro"},
+    {"type": "text", "lines": ["Tu banco sigue siendo tu banco.", "Tus cuotas **siguen iguales.**"], "sub": "Lo unico que cambia es la aseguradora que cubre tu credito si algo pasa."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad es un derecho del cliente - **toda clausula en contrario se entiende por no escrita**", "source": "Fuente: Ley 21.236 de Portabilidad Financiera"},
+    {"type": "text", "lines": ["Tu credito no se renegocia.", "Tu deuda no cambia."], "sub": "Solo se reemplaza el seguro por uno **mas barato.**"},
+    {"type": "cta", "text": "Quieres saber si tu seguro de desgravamen **se puede cambiar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

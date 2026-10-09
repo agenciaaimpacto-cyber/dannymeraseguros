@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TIP", "text": "Asi puedes revisar en 1 minuto si quien te vende un seguro **esta inscrito en la CMF**"},
+    {"type": "text", "lines": ["Entra al Registro de Agentes", "de Venta de Seguros de la CMF."], "sub": "Es publico y gratuito, en cmfchile.cl"},
+    {"type": "text", "lines": ["Busca el nombre completo", "o el RUT de la persona."], "sub": "Si no aparece, no esta habilitada para vender seguros."},
+    {"type": "proof", "tag": "DATO", "text": "En 2026 la CMF ya sanciono a Continental, Consorcio, MetLife, Renta Nacional y Suramericana **por el mismo motivo**", "source": "Fuente: comunicados CMF 2026"},
+    {"type": "cta", "text": "Si quieres, revisamos juntos **quien te esta atendiendo**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}

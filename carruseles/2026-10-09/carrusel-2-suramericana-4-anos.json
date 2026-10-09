@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "Suramericana vendio seguros durante **casi 4 anos** con agentes que no estaban inscritos"},
+    {"type": "stat", "number": "18", "unit": "", "text": "agentes de venta **no inscritos** colocaron polizas de Seguros de Vida Suramericana entre 2022 y 2026"},
+    {"type": "text", "lines": ["La CMF la multo con UF 50", "(Resolucion N 10.681)."], "sub": "Tambien uso un corredor con la inscripcion ya cancelada."},
+    {"type": "proof", "tag": "DFL 251, ARTS. 57 Y 58", "text": "La aseguradora es la responsable de verificar que quien vende sus polizas **este inscrito**", "source": "Fuente: CMF, Resolucion N 10.681 del 6 de octubre de 2026"},
+    {"type": "cta", "text": "Antes de entregar tus documentos, **verifica quien te atiende**", "button": "Escribeme por WhatsApp ->", "sub": "Trabajamos con Grupo Insurex, agencia inscrita y verificable."}
+  ]
+}
