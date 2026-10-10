@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Una aseguradora dijo que su clienta **le oculto una dolencia** - y no pudo probarlo"},
+    {"type": "text", "lines": ["La compañia alegaba que ella ya tenia", "**un problema lumbar** antes de contratar."], "sub": "Por eso se nego a pagar la indemnizacion y pidio anular el contrato."},
+    {"type": "text", "lines": ["La Corte Suprema rechazo el reclamo", "**de la aseguradora, por falta de fundamento.**"], "sub": "No logro acreditar que la clienta conociera esa condicion ni que hubiera mentido en su declaracion de salud."},
+    {"type": "proof", "tag": "FALLO - 13 DE SEPTIEMBRE 2026", "text": "Si una aseguradora dice que **ocultaste algo**, es ella quien tiene que probarlo", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Te negaron algo **sin mostrarte pruebas?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos tu caso, sin costo."}
+  ]
+}

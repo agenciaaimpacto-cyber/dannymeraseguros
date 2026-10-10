@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OBJECION COMUN", "text": "Un seguro de desgravamen **mas barato** no significa menos cobertura"},
+    {"type": "text", "lines": ["La cobertura minima la fija tu credito,", "**no el precio que pagas por ella.**"], "sub": "El nuevo seguro tiene que cubrir el saldo pendiente de tu deuda, igual que el actual."},
+    {"type": "text", "lines": ["Lo que bajas no es la proteccion,", "**es lo que se queda la aseguradora de margen.**"], "sub": "Por eso se puede pagar menos sin dejar tu credito desprotegido ni un dia."},
+    {"type": "proof", "tag": "COMO FUNCIONA EL SEGURO DE DESGRAVAMEN", "text": "El capital asegurado se fija segun **el saldo insoluto de tu credito**, no segun lo que pagas de prima", "source": "Fuente: condiciones generales de polizas de seguro de desgravamen en Chile"},
+    {"type": "cta", "text": "Quieres comparar tu seguro actual con uno **mas barato?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

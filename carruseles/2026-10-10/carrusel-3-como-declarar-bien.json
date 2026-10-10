@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "TIP", "text": "Al contratar un seguro nuevo, hay una forma correcta de llenar **la declaracion de salud**"},
+    {"type": "text", "lines": ["Responde cada pregunta con la verdad,", "**aunque creas que te puede subir el precio.**"], "sub": "Omitir algo a proposito es lo unico que le permite a una aseguradora negarte la cobertura despues."},
+    {"type": "text", "lines": ["Guarda una copia de lo que declaraste", "**y de los examenes que te pidieron.**"], "sub": "Si alguna vez hay una disputa, esa copia es tu respaldo."},
+    {"type": "proof", "tag": "CASO REAL - SEPTIEMBRE 2026", "text": "Una aseguradora intento anular un contrato alegando que la clienta oculto una dolencia - y **no pudo probarlo**", "source": "Fuente: Diario Constitucional, 13 de septiembre de 2026"},
+    {"type": "cta", "text": "Quieres ayuda para **revisar tu declaracion de salud?**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo ni compromiso."}
+  ]
+}
