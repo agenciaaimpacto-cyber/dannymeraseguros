@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Si tu aseguradora actual te pone trabas para no dejarte ir, **tiene que probarlas**"},
+    {"type": "text", "lines": ["No le basta con decir", "**que tu caso es distinto.**"], "sub": "Alegar una objecion y probarla ante un tribunal son dos cosas muy distintas."},
+    {"type": "text", "lines": ["Lo mismo aplica al revés:", "**si te cambias, la nueva tampoco puede negarte algo sin pruebas.**"], "sub": "La carga de demostrar una objecion es siempre de la aseguradora, nunca tuya."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a una compania mas barata", "source": "Fuente: CMF Educa / Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar **si tu caso aplica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

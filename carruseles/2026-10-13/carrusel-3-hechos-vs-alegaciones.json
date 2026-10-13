@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Alegar algo **no es lo mismo** que probarlo"},
+    {"type": "text", "lines": ["En un conflicto con una aseguradora,", "**quien afirma algo tiene que demostrarlo.**"], "sub": "Asi funciona ante los tribunales, y asi deberia funcionar en cualquier conversacion."},
+    {"type": "text", "lines": ["Si te dicen que tu caso", "**no califica**, pide que te lo expliquen con tu propia poliza."], "sub": "Numero de poliza, compania y condiciones - no una respuesta generica por telefono."},
+    {"type": "proof", "tag": "RECUERDA", "text": "Tu resumen de credito y tu poliza actual son **los documentos que prueban tu caso**", "source": "Fuente: condiciones generales de polizas de seguro en Chile"},
+    {"type": "cta", "text": "Revisamos tus documentos **sin costo**", "button": "Escribeme por WhatsApp ->", "sub": "Resumen de credito, poliza y carnet - te explicamos para que sirve cada uno."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Una aseguradora quiso desconocer el valor de un auto siniestrado - y **no lo logro**"},
+    {"type": "text", "lines": ["BCI Seguros Generales recurrio", "**hasta la Corte Suprema.**"], "sub": "Buscaba revertir el fallo que la obligaba a pagar el valor comercial del vehiculo."},
+    {"type": "text", "lines": ["La Corte rechazo el recurso:", "**los hechos ya estaban probados.**"], "sub": "No basta con discrepar de la conclusion si no se demuestra un error en como se valoro la prueba."},
+    {"type": "stat", "number": "483,88", "unit": "UF", "text": "es lo que la aseguradora **debe pagar**, segun quedo firme en el fallo"},
+    {"type": "cta", "text": "Te estan complicando un pago **que ya deberian hacer?**", "button": "Escribeme por WhatsApp ->", "sub": "Conversemos tu caso, sin costo."}
+  ]
+}
