@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Portar tu seguro de desgravamen **no significa hacer el tramite tu solo**"},
+    {"type": "text", "lines": ["Hay papeleo con tu banco,", "con tu aseguradora actual **y con la nueva.**"], "sub": "Alguien tiene que coordinar los tres lados para que la devolucion llegue."},
+    {"type": "text", "lines": ["Nosotros armamos la solicitud", "**con tus documentos y hacemos el seguimiento.**"], "sub": "Tu entregas los papeles una vez, nosotros gestionamos el resto."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "La portabilidad financiera es un **derecho** tuyo, no un favor que te hace el banco", "source": "Fuente: Ley N° 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres que revisemos **tu caso?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

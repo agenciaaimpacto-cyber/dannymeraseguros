@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si tu aseguradora se demora **mas de lo normal** en resolver tu siniestro, no tienes que solo esperar"},
+    {"type": "text", "lines": ["El promedio nacional es 51,6 dias.", "**Si tu caso se pasa de eso sin explicacion, puedes reclamar.**"], "sub": "Primero ante la propia aseguradora, por escrito."},
+    {"type": "text", "lines": ["Si no responde o no te convence,", "**puedes recurrir a la CMF o al SERNAC.**"], "sub": "Ambas vias son gratuitas."},
+    {"type": "proof", "tag": "CMF", "text": "Las aseguradoras deben reportar sus tiempos de reparacion **cada semestre**, y ese dato es publico", "source": "Fuente: CMF, Circular N° 2.236"},
+    {"type": "cta", "text": "Tienes un **seguro que no te responde?**", "button": "Escribeme por WhatsApp ->", "sub": "Te orientamos sin costo, aunque no sea desgravamen."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "stat", "number": "51,6", "unit": "dias", "text": "demora en promedio reparar un auto asegurado en Chile, segun datos de la CMF"},
+    {"type": "text", "lines": ["De esos dias,", "**casi 30 pasan antes de que el auto entre al taller.**"], "sub": "Es la coordinacion entre aseguradora, liquidador, grua y taller - no la reparacion misma."},
+    {"type": "text", "lines": ["En las compañias mas lentas", "**la espera llega a los 54,8 dias.**"], "sub": "Y en los siniestros mas graves, supera los 70 dias."},
+    {"type": "proof", "tag": "CIRCULAR CMF N° 2.236", "text": "Desde 2023 existe un **comparador publico** para revisar que tan rapido responde cada aseguradora", "source": "Fuente: CMF, datos reportados por Mediabanco (02/10/2026)"},
+    {"type": "cta", "text": "Tambien cotizamos tu **seguro automotriz**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a comparar antes de contratar."}
+  ]
+}
