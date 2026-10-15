@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATOS CMF", "text": "La industria aseguradora vendio **mas** en 2026, pero gano **menos**"},
+    {"type": "text", "lines": ["Las utilidades del sector", "**cayeron 11,6% real** en el primer semestre."], "sub": "Mientras las ventas de seguros de vida subieron 10,9%."},
+    {"type": "text", "lines": ["Eso no significa que tu poliza", "**este cara o barata** - hay que revisarla puntual."], "sub": "El tamaño del mercado no te dice nada sobre tu contrato especifico."},
+    {"type": "proof", "tag": "CMF", "text": "Las utilidades totales llegaron a **MMUS$556,1**, una baja real de 11,6% vs 2025", "source": "Fuente: CMF, Informe Financiero del Mercado Asegurador (05/10/2026)"},
+    {"type": "cta", "text": "Revisamos tu seguro de desgravamen **sin costo**", "button": "Escribeme por WhatsApp ->", "sub": "Resumen de credito, poliza actual y carnet."}
+  ]
+}

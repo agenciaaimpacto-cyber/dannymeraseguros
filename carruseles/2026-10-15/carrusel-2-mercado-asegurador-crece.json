@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "stat", "number": "9.393", "unit": "millones de dolares", "text": "vendio la industria aseguradora en Chile en el primer semestre de 2026, segun la CMF"},
+    {"type": "text", "lines": ["Los seguros de vida crecieron", "**10,9% real**, impulsados por rentas vitalicias."], "sub": "Los seguros generales (autos, hogar) cayeron 5,2% real."},
+    {"type": "text", "lines": ["Un mercado que vende mas", "**no es lo mismo que una aseguradora barata para ti.**"], "sub": "Son fuerzas distintas - y solo tu puedes comparar tu caso."},
+    {"type": "proof", "tag": "CMF", "text": "El informe se publica **cada semestre** y es de acceso publico", "source": "Fuente: CMF, Informe Financiero del Mercado Asegurador (05/10/2026)"},
+    {"type": "cta", "text": "Quieres saber si tu seguro **tiene una alternativa mas barata?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
