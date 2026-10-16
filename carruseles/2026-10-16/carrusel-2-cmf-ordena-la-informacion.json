@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NORMATIVA CMF", "text": "La CMF le pide a tu aseguradora **ordenar toda la informacion** que te afecta"},
+    {"type": "text", "lines": ["El 23 de septiembre de 2026,", "**abrio una consulta publica de 6 semanas.**"], "sub": "Para juntar en un solo manual 35 archivos y 11 formularios hoy dispersos."},
+    {"type": "text", "lines": ["Esos mismos reportes son los que despues", "**permiten comparar primas, tiempos de respuesta y multas por aseguradora.**"], "sub": "Mas orden en lo que reportan, mas facil comparar antes de decidir."},
+    {"type": "proof", "tag": "CMF", "text": "Tambien pidio a las aseguradoras reportar su **liquidez proyectada cada trimestre**", "source": "Fuente: CMF, consulta publica MSI Seguros, 23 de septiembre de 2026"},
+    {"type": "cta", "text": "Quieres saber si tu seguro **se puede cambiar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

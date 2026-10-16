@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Portar tu seguro de desgravamen **no toca tu puntaje crediticio**"},
+    {"type": "text", "lines": ["Cambiar de aseguradora", "**no es una renegociacion ni una consulta nueva.**"], "sub": "No aparece en tu Boletin Comercial ni afecta tu historial."},
+    {"type": "text", "lines": ["Lo unico que cambia", "**es quien te cobra el seguro y quien te paga si pasa algo.**"], "sub": "Tu credito sigue exactamente igual: mismo monto, mismas cuotas, mismo banco."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "La portabilidad financiera es un **derecho**, no una operacion de credito nueva", "source": "Fuente: Ley N° 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar **tu caso?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

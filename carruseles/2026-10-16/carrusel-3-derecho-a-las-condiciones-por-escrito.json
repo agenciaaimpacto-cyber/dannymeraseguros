@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Tienes derecho a que te entreguen **por escrito** las condiciones de tu seguro"},
+    {"type": "text", "lines": ["No basta con que te lo expliquen", "**por telefono o de palabra.**"], "sub": "Lo que vale es lo que dice la poliza, no lo que te contaron al venderla."},
+    {"type": "text", "lines": ["Puedes pedir las condiciones generales", "**de cualquier seguro a tu nombre, en cualquier momento.**"], "sub": "No tienes que esperar a tener un problema para revisarlas."},
+    {"type": "proof", "tag": "CMF EDUCA", "text": "Las condiciones generales de cada seguro estan **registradas y publicas** en el sitio de la CMF", "source": "Fuente: CMF Educa, Comision para el Mercado Financiero"},
+    {"type": "cta", "text": "No sabes **que dice tu poliza?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisarla sin costo."}
+  ]
+}
