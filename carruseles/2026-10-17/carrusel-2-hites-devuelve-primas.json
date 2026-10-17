@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SERNAC", "text": "Tarjeta Hites tiene que devolver el **100%** de seguros que nadie sabia que tenia"},
+    {"type": "text", "lines": ["El SERNAC logro un acuerdo", "**con Tarjeta Hites y Briner Corredora de Seguros.**"], "sub": "Procedimiento Voluntario Colectivo, publicado en mayo de 2026."},
+    {"type": "text", "lines": ["Aplica a quien reclamo por un seguro", "**que no sabia que habia contratado, entre 2015 y 2019.**"], "sub": "Si no te devolvieron nada, te pagan el 100%. Si te devolvieron poco, te pagan la diferencia."},
+    {"type": "proof", "tag": "AVISO OFICIAL", "text": "Suman tambien **0,15 UTM** de compensacion por haber tenido que reclamar", "source": "Fuente: Tarjeta Hites, aviso oficial del acuerdo, mayo de 2026"},
+    {"type": "cta", "text": "Y tu seguro de desgravamen, **ya lo revisaste?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

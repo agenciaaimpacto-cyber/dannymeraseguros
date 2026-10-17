@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si en tu cartola ves un seguro **que no reconoces**, no lo dejes pasar"},
+    {"type": "text", "lines": ["Pide por escrito a la aseguradora o al banco", "**desde cuando esta activo y quien lo autorizo.**"], "sub": "No basta con que te digan que 'siempre estuvo ahi'."},
+    {"type": "text", "lines": ["Si nunca lo contrataste tu", "**tienes derecho a pedir que lo terminen y te devuelvan la prima no usada.**"], "sub": "Asi lo logro el SERNAC este año con Tarjeta Hites, para seguros contratados sin que el cliente lo supiera."},
+    {"type": "proof", "tag": "CIRCULAR CMF N° 2.114", "text": "Cuando corresponde devolver una prima no devengada, la aseguradora debe hacerlo **sin descuentos** y reajustada en UF", "source": "Fuente: Circular CMF N° 2.114"},
+    {"type": "cta", "text": "Tienes dudas sobre **un seguro tuyo?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

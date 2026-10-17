@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Portar tu seguro de desgravamen **no es una cosa o la otra**"},
+    {"type": "text", "lines": ["No es elegir entre", "**que te devuelvan plata o que pagues menos despues.**"], "sub": "Las dos cosas pasan al mismo tiempo, en el mismo tramite."},
+    {"type": "text", "lines": ["Primero se reclama lo que quedaba", "**sin usar de tu prima actual.**"], "sub": "Esa es la devolucion. Despues se contrata el seguro nuevo, mas barato."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a una compania mas barata", "source": "Fuente: Ley N° 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber cuanto puedes **recuperar tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
