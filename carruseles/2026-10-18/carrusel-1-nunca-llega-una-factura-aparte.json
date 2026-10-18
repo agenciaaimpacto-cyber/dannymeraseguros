@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "El seguro de desgravamen de tu credito **nunca te llega como una factura aparte**"},
+    {"type": "text", "lines": ["Va incluido", "**dentro de la cuota de tu credito.**"], "sub": "Por eso muchos creen que no pagan nada extra por el seguro - pero el costo esta ahi, cada mes."},
+    {"type": "text", "lines": ["El resumen de tu credito", "**muestra ese costo por separado.**"], "sub": "Ahi aparece cuanto es prima de seguro y cuanto es el credito mismo."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Tienes derecho a **comparar** ese costo con el de otra aseguradora", "source": "Fuente: Ley N° 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar cuanto estas pagando **de mas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

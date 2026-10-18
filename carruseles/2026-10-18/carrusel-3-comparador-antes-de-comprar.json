@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF tiene un comparador gratuito de **tiempos de reparacion por aseguradora**"},
+    {"type": "text", "lines": ["Funciona desde 2023,", "**con datos que reportan las propias aseguradoras.**"], "sub": "Lo puedes revisar antes de contratar un seguro automotriz - no solo despues de un choque."},
+    {"type": "text", "lines": ["Compara por compania,", "**por marca, modelo y region.**"], "sub": "La diferencia entre la aseguradora mas rapida y la mas lenta llega a casi 9 dias."},
+    {"type": "stat", "number": "4", "unit": "filtros", "text": "puedes comparar por compania, marca, modelo y region **antes de decidir**", "source": "Fuente: CMF"},
+    {"type": "cta", "text": "Tambien cotizamos seguros automotrices, **de salud y de vida.**", "button": "Escribeme por WhatsApp ->", "sub": "Cotiza sin costo."}
+  ]
+}

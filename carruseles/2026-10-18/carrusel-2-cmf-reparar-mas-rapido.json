@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF revela cuales aseguradoras automotrices **reparan mas rapido** (y cuales mas lento)"},
+    {"type": "text", "lines": ["Reale y BNP fueron las mas rapidas,", "**cerca de 46 dias en promedio.**"], "sub": "Entre que denuncias el siniestro y te entregan el auto reparado, primer semestre de 2026."},
+    {"type": "text", "lines": ["FID y Zurich Chile fueron las mas lentas,", "**casi 9 dias mas que las mas rapidas.**"], "sub": "Consorcio Nacional y Porvenir quedaron en un punto medio, cerca de 48 y 50 dias."},
+    {"type": "stat", "number": "51,6", "unit": "dias", "text": "es el **promedio general** del mercado - pero varia mucho segun la aseguradora", "source": "Fuente: CMF, informe primer semestre 2026"},
+    {"type": "cta", "text": "Lo mismo aplica para elegir tu seguro de desgravamen: **precio y servicio, no solo precio.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
