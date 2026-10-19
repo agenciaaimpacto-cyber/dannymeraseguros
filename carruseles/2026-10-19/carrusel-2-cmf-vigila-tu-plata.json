@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF exige que las aseguradoras guarden **en un fondo separado** la plata que reaseguran afuera"},
+    {"type": "text", "lines": ["Norma publicada el", "**5 de octubre de 2026,**"], "sub": "tras dos consultas publicas entre abril y agosto - regula el reaseguro de rentas vitalicias con entidades extranjeras."},
+    {"type": "text", "lines": ["Esa plata debe quedar", "**identificada y fiscalizada,**"], "sub": "administrada por una entidad que tambien supervisa la CMF, no por quien quiera."},
+    {"type": "stat", "number": "30", "unit": "%", "text": "es el **tope maximo** que la aseguradora puede deducir de sus reservas por esta via", "source": "Fuente: CMF, Norma de Caracter General N 577"},
+    {"type": "cta", "text": "La misma CMF que exige esto **supervisa tu derecho a portar el desgravamen.**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

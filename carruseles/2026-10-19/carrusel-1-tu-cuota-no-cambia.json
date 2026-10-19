@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Portar tu seguro de desgravamen **no toca el valor de tu cuota**"},
+    {"type": "text", "lines": ["El credito sigue igual:", "**mismo plazo, misma tasa, mismo banco.**"], "sub": "Lo unico que cambia es la aseguradora que cubre el seguro - y lo que esa cobertura te cuesta cada mes."},
+    {"type": "text", "lines": ["Lo que baja", "**es el costo del seguro.**"], "sub": "Ese ahorro se nota en la prima, no en una cuota nueva ni en un credito renegociado."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Portar el seguro **no modifica tu credito**", "source": "Fuente: Ley N° 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber **cuanto podrias ahorrar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

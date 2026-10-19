@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS", "text": "Si te ofrecen un seguro junto con un credito, **tiene que ir en un documento aparte**"},
+    {"type": "text", "lines": ["No puede venir", "**mezclado en el mismo contrato.**"], "sub": "El seguro asociado debe constar en un anexo propio, con su propia firma - distinta a la del credito."},
+    {"type": "text", "lines": ["Si no firmaste ese anexo", "**por separado, revisa bien.**"], "sub": "Es una de las formas en que un seguro termina atado a tu credito sin que lo hayas elegido con claridad."},
+    {"type": "proof", "tag": "SERNAC", "text": "Cada producto asociado **exige su propia firma**", "source": "Fuente: SERNAC, derechos del consumidor financiero"},
+    {"type": "cta", "text": "No sabes si el seguro que tienes **lo elegiste tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
