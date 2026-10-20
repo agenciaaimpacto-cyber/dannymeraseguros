@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY 21.314", "text": "Tienes **30 dias** para rechazar, sin que te cobren nada, un seguro que te vendieron junto a tu credito"},
+    {"type": "text", "lines": ["Si no ratificas por escrito", "**ese seguro no te obliga ni se te puede cobrar.**"], "sub": "Puede ser personalmente, por correo electronico o un medio equivalente - sin que el banco actue en tu nombre."},
+    {"type": "text", "lines": ["Pasados los 30 dias sin ratificar,", "**la prima simplemente no corre.**"], "sub": "El riesgo y el cobro del seguro dependen de que tu lo confirmes, no de que el banco lo de por aceptado."},
+    {"type": "proof", "tag": "ARTICULO 538 BIS", "text": "El Codigo de Comercio exige tu **ratificacion por escrito** para que un seguro atado a un credito te pueda cobrar", "source": "Fuente: Ley N° 21.314, Ley Chile (BCN)"},
+    {"type": "cta", "text": "Y tu seguro de desgravamen, **sabes si lo elegiste tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

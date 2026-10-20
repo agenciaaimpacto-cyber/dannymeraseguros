@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La ley dejo en manos de la CMF decidir **que seguros exactamente** necesitan tu ratificacion"},
+    {"type": "text", "lines": ["El articulo 538 bis no lista los seguros uno por uno,", "**le encargo esa tarea a la CMF.**"], "sub": "La Comision para el Mercado Financiero respondio con la Norma de Caracter General N° 460, en agosto de 2021."},
+    {"type": "text", "lines": ["Esa norma cubre, entre otros,", "**seguros de credito atados a creditos hipotecarios y seguros agricolas.**"], "sub": "Si tu seguro queda en esa lista, el plazo de 30 dias para ratificar por escrito aplica igual."},
+    {"type": "proof", "tag": "NCG N 460", "text": "La CMF puede **modificar** esta norma y agregar nuevos tipos de seguros con el tiempo", "source": "Fuente: CMF, Norma de Caracter General N° 460"},
+    {"type": "cta", "text": "No sabes si tu seguro **esta en esa lista?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

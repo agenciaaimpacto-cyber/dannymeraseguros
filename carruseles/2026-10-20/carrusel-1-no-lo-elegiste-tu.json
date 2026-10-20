@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "El seguro de desgravamen que tienes hoy **no lo elegiste tu, te lo pusieron junto al credito**"},
+    {"type": "text", "lines": ["Eso no es un error", "**ni algo irregular.**"], "sub": "El banco o la casa comercial tiene un convenio con una aseguradora especifica, y ese seguro viene incluido cuando te aprueban el credito."},
+    {"type": "text", "lines": ["Pero que venga incluido", "**no significa que tengas que quedarte con el.**"], "sub": "La ley te da el derecho a cambiarte a una aseguradora mas barata, sin tocar tu credito."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a la aseguradora que tu elijas", "source": "Fuente: Ley N° 21.236 de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu seguro actual **te esta costando de mas?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
