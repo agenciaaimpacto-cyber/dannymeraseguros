@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE DE APELACIONES", "text": "Una corredora de seguros tuvo que pagar **10.000 UF** por no devolver primas a tiempo"},
+    {"type": "text", "lines": ["La Corte de Apelaciones de Santiago", "**confirmo la multa que la CMF ya le habia aplicado.**"], "sub": "Entre el 2020 y el 2024, la corredora no puso a disposicion mas de UF 119.552 en primas no usadas."},
+    {"type": "text", "lines": ["Afecto a mas de", "**21 mil clientes y 26 mil seguros.**"], "sub": "La mayoria, ligados a creditos automotrices que ya se habian prepagado."},
+    {"type": "proof", "tag": "FALLO CORTE DE APELACIONES", "text": "El tribunal rechazo el reclamo de la corredora y confirmo que la multa estaba **bien fundamentada**", "source": "Fuente: Diario Constitucional, 22 de mayo de 2026"},
+    {"type": "cta", "text": "Si prepagaste un credito, **revisa si te devolvieron tu seguro**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

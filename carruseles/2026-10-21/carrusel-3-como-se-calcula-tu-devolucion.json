@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PRIMA NO DEVENGADA", "text": "Si terminas tu seguro antes de tiempo, **no te devuelven cualquier monto** - hay una formula"},
+    {"type": "text", "lines": ["Se llama", "**prima no devengada.**"], "sub": "Es la parte de lo que pagaste que corresponde al tiempo de cobertura que no alcanzaste a usar."},
+    {"type": "text", "lines": ["Y se reajusta", "**segun el valor de la UF.**"], "sub": "No te devuelven el mismo numero de pesos que pagaste - se calcula con el valor de la UF a la fecha del pago efectivo."},
+    {"type": "stat", "number": "10", "unit": "dias habiles", "text": "es el plazo maximo que la norma le da a la aseguradora para ponerte esa plata a disposicion"},
+    {"type": "cta", "text": "No sabes cuanto podria corresponderte **a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

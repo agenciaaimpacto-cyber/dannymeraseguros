@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DEVOLUCION DE PRIMA", "text": "La aseguradora **no decide cuando** te devuelve la plata que no alcanzaste a usar"},
+    {"type": "text", "lines": ["Hay un plazo", "**fijado por norma, no por la aseguradora.**"], "sub": "Cuando un seguro termina antes de tiempo, la prima que pagaste y no usaste tiene que quedar a tu disposicion dentro de un plazo maximo."},
+    {"type": "text", "lines": ["Y ese plazo", "**no es una sugerencia.**"], "sub": "Cuando una aseguradora o corredora no cumple, la CMF puede sancionarla - y los tribunales confirman esas sanciones."},
+    {"type": "proof", "tag": "CIRCULAR CMF N 2.114", "text": "La prima no consumida debe quedar a tu disposicion en un plazo maximo de **10 dias habiles**", "source": "Fuente: Circular CMF N° 2.114"},
+    {"type": "cta", "text": "Quieres saber si te estan devolviendo **lo que corresponde?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
