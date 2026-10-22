@@ -156,13 +156,30 @@ def render_text(slide):
 def render_stat(slide):
     img, d = new_canvas()
     brand_label(d)
-    fnum = load_black(220)
+    num_size, unit_size, gap, offset = 220, 100, 10, 100
+    available = W - 2 * PAD
+    fnum = load_black(num_size)
+    numw = d.textlength(slide["number"], font=fnum)
+    funit, unitw = None, 0
+    if slide.get("unit"):
+        funit = load_black(unit_size)
+        unitw = d.textlength(slide["unit"], font=funit)
+    total_w = numw + (gap + unitw if slide.get("unit") else 0)
+    if total_w > available:
+        scale = available / total_w
+        num_size = max(60, int(num_size * scale))
+        unit_size = max(30, int(unit_size * scale))
+        gap = int(gap * scale)
+        offset = int(offset * scale)
+        fnum = load_black(num_size)
+        numw = d.textlength(slide["number"], font=fnum)
+        if slide.get("unit"):
+            funit = load_black(unit_size)
+            unitw = d.textlength(slide["unit"], font=funit)
     y = 480
     d.text((PAD, y), slide["number"], font=fnum, fill=GOLD)
     if slide.get("unit"):
-        numw = d.textlength(slide["number"], font=fnum)
-        funit = load_black(100)
-        d.text((PAD + numw + 10, y + 100), slide["unit"], font=funit, fill=GOLD)
+        d.text((PAD + numw + gap, y + offset), slide["unit"], font=funit, fill=GOLD)
     y += 280
     fs = load_variable(40, weight=700)
     wrap_and_draw(d, (PAD, y), slide["text"], fs, W - 2 * PAD, 52, WHITE)

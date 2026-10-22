@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "Una aseguradora lleva **4 anos** bajo administracion intervenida por el regulador"},
+    {"type": "text", "lines": ["No logra cumplir", "**el respaldo financiero que exige la ley.**"], "sub": "Desde diciembre de 2022, la CMF le quito la administracion y puso a un tercero a cargo de la compania."},
+    {"type": "stat", "number": "3.611", "unit": "millones", "text": "de pesos era el deficit de inversiones que la aseguradora reportaba al cierre de mayo de 2026"},
+    {"type": "proof", "tag": "DFL 251", "text": "La ley exige a cada aseguradora mantener un **patrimonio minimo** para respaldar sus polizas", "source": "Fuente: Diario Estrategia / CMF, 30 de junio de 2026"},
+    {"type": "cta", "text": "Quieres saber si tu seguro esta con una compania **solida?**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo sin costo."}
+  ]
+}

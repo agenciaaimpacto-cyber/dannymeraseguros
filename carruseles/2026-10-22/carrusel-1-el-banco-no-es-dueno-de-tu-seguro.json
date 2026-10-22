@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESGRAVAMEN", "text": "El banco que te dio el credito **no es dueno** de tu seguro de desgravamen"},
+    {"type": "text", "lines": ["El banco solo", "**exige que tengas el seguro.**"], "sub": "No tiene que ser con la aseguradora que el banco elige por convenio."},
+    {"type": "text", "lines": ["La ley te permite", "**cambiarte a una compania mas barata.**"], "sub": "Sin dejar de cumplir la exigencia del credito, y sin tocar el valor de tu cuota."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a la compania que tu elijas", "source": "Fuente: Ley de Portabilidad Financiera N° 21.236"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

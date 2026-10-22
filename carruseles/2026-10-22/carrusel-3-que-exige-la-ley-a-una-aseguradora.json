@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE", "text": "La ley no deja que una aseguradora opere **sin respaldo financiero**"},
+    {"type": "text", "lines": ["Cada compania debe mantener", "**un patrimonio minimo de riesgo.**"], "sub": "Para garantizar que pueda cumplir con lo que promete en cada poliza."},
+    {"type": "text", "lines": ["Si no lo cumple,", "**la CMF puede intervenir.**"], "sub": "Puede suspender a su directorio y designar un administrador externo."},
+    {"type": "proof", "tag": "ARTICULO 7, DFL 251", "text": "Las aseguradoras deben mantener un **patrimonio minimo** para operar en Chile", "source": "Fuente: DFL 251, Ley de Seguros"},
+    {"type": "cta", "text": "Quieres revisar con que compania **te conviene quedarte?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
