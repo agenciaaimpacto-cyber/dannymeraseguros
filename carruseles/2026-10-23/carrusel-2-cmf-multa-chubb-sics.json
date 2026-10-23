@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF multo a una aseguradora por no dejarte revisar **que seguros tienes**"},
+    {"type": "text", "lines": ["Existe un sistema gratuito", "**para ver tus seguros vigentes.**"], "sub": "Se llama SICS (Sistema de Consulta de Seguros) y funciona con tu RUT y Clave Unica."},
+    {"type": "text", "lines": ["Si una aseguradora no responde", "**la ley la sanciona.**"], "sub": "Chubb Seguros dejo el sistema sin funcionar 19 dias corridos."},
+    {"type": "stat", "number": "300", "unit": "UF", "text": "fue la multa total que la CMF aplico a las dos aseguradoras de Chubb por este incumplimiento"},
+    {"type": "cta", "text": "No tienes a mano tu poliza de desgravamen? **Te ayudamos a encontrarla**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

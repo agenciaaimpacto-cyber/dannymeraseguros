@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESGRAVAMEN", "text": "No sabes con que aseguradora esta tu seguro de desgravamen? **Igual te puedes cambiar**"},
+    {"type": "text", "lines": ["Para portarlo no necesitas", "**memorizar nada de la poliza.**"], "sub": "Basta con los datos basicos del credito, nosotros revisamos el resto con la aseguradora actual."},
+    {"type": "text", "lines": ["Y si no tienes la poliza", "**en papel ni en pdf?**"], "sub": "Existe un registro gratuito del regulador para saber con que compania esta tu seguro."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad del seguro de desgravamen es un **derecho**, no un favor del banco", "source": "Fuente: Ley de Portabilidad Financiera N 21.236"},
+    {"type": "cta", "text": "Quieres que revisemos tu caso **gratis?**", "button": "Escribeme por WhatsApp ->", "sub": "Te decimos si tu credito califica, sin compromiso."}
+  ]
+}

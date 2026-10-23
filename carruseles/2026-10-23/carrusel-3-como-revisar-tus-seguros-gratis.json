@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Puedes revisar **gratis** todos los seguros que tienes a tu nombre"},
+    {"type": "text", "lines": ["Entras con tu RUT", "**y tu Clave Unica.**"], "sub": "El sistema se llama SICS y lo administra la CMF, el regulador de seguros en Chile."},
+    {"type": "text", "lines": ["Sirve para ver tus seguros,", "**o los de un familiar fallecido.**"], "sub": "Util si no encuentras la poliza en papel de un credito antiguo."},
+    {"type": "proof", "tag": "NCG N 470", "text": "Las aseguradoras deben mantener el sistema disponible **de forma digital y automatica**", "source": "Fuente: CMF, Norma de Caracter General N 470"},
+    {"type": "cta", "text": "Si encontraste tu poliza de desgravamen, **revisemos si puedes cambiarte**", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo, sin compromiso."}
+  ]
+}
