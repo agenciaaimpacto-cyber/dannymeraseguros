@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Que la aseguradora **tenga la plata reservada** no es un detalle contable, es tu garantia"},
+    {"type": "text", "lines": ["Si pides la devolucion de tu", "**prima no consumida,**"], "sub": "la aseguradora no puede decir que todavia no tiene la plata lista para pagarte."},
+    {"type": "text", "lines": ["El regulador fiscaliza cuanto", "**reserva cada aseguradora.**"], "sub": "Es la misma logica detras de toda devolucion de seguro en Chile."},
+    {"type": "stat", "number": "100", "unit": "%", "text": "del monto reclamado debe quedar **reservado desde el primer dia**, segun la propuesta de la CMF en consulta este octubre"},
+    {"type": "cta", "text": "Tienes un seguro de desgravamen y **no sabes si te corresponde devolucion?**", "button": "Escribeme por WhatsApp ->", "sub": "Te lo revisamos gratis, sin compromiso."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESGRAVAMEN", "text": "Tu aseguradora **no puede poner excusas** para atrasarte la devolucion"},
+    {"type": "text", "lines": ["Si terminas tu seguro antes", "**te deben lo que no se uso.**"], "sub": "Mientras menos cuotas hayas pagado, mayor es la prima no consumida."},
+    {"type": "text", "lines": ["La ley no deja el plazo", "**a criterio de la aseguradora.**"], "sub": "Existe un maximo de dias habiles para poner la plata a tu disposicion."},
+    {"type": "proof", "tag": "CIRCULAR CMF N 2.114", "text": "La prima no consumida debe quedar a tu disposicion dentro de un **plazo maximo fijado por la CMF**", "source": "Fuente: Circular CMF N 2.114"},
+    {"type": "cta", "text": "Quieres saber cuanto te pueden **devolver a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

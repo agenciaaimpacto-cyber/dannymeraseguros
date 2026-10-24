@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF le pone limite a las excusas que usa una aseguradora **para no pagarte rapido**"},
+    {"type": "text", "lines": ["En los seguros de garantia", "**la aseguradora debe reservar la plata ya.**"], "sub": "Apenas se presenta un reclamo, no cuando decide pagar."},
+    {"type": "text", "lines": ["No puede usar excepciones", "**para atrasar el pago.**"], "sub": "Asi lo exige el Codigo de Comercio en este tipo de polizas."},
+    {"type": "proof", "tag": "ART. 583 COD. COMERCIO", "text": "La oposicion de excepciones **no puede** condicionar ni diferir el pago de la indemnizacion", "source": "Fuente: CMF, consulta publica del 9 de octubre de 2026"},
+    {"type": "cta", "text": "Tu aseguradora se demora en **devolverte lo que no usaste?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu seguro de desgravamen sin costo."}
+  ]
+}
