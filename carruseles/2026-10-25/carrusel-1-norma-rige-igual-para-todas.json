@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESGRAVAMEN", "text": "La devolucion de tu seguro **no depende de un favor** de la aseguradora"},
+    {"type": "text", "lines": ["No es algo que te hacen", "**si quieren o si les cae bien.**"], "sub": "Es una obligacion que aplica igual para todas las aseguradoras."},
+    {"type": "text", "lines": ["Por eso la puedes exigir", "**sin miedo a que te digan que no corresponde.**"], "sub": "El plazo y el calculo ya estan fijados de antemano, no dependen de quien te atienda."},
+    {"type": "proof", "tag": "CIRCULAR CMF N 2.114", "text": "Es una norma de caracter general: **rige igual para todas las aseguradoras**, no solo para la tuya", "source": "Fuente: Circular CMF N 2.114"},
+    {"type": "cta", "text": "Quieres saber cuanto te pueden **devolver a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

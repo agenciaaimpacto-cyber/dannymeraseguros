@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "La Corte Suprema le dijo a la CMF: **eso no se exige a una sola empresa**"},
+    {"type": "text", "lines": ["La CMF le ordeno a una aseguradora", "**reservar el 100% de un reclamo.**"], "sub": "Solo a ella, mediante un oficio individual."},
+    {"type": "text", "lines": ["La Corte anulo esa orden,", "**no por el monto, por la forma.**"], "sub": "Dijo que esa exigencia necesita una norma para toda la industria, no un oficio a una sola compania."},
+    {"type": "proof", "tag": "FALLO 14 SEP 2026", "text": "Una exigencia asi **solo se puede fijar con una norma general**, no con un oficio a una sola aseguradora", "source": "Fuente: Diario Financiero, sobre fallo de la Corte Suprema"},
+    {"type": "cta", "text": "Tu seguro de desgravamen ya se rige por una norma general. Sabes **cuanto te pueden devolver?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

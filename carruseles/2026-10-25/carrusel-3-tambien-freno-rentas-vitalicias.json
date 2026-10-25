@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "No es la unica vez que la Corte frena a la CMF: **tambien paso con las rentas vitalicias**"},
+    {"type": "text", "lines": ["Cuatro aseguradoras reclamaron", "**un oficio de la CMF sobre anticipos.**"], "sub": "El litigio empezo en 2021."},
+    {"type": "text", "lines": ["La Corte declaro **ilegal** ese oficio", "la semana pasada."], "sub": "Determino que no tenia el sustento normativo que la CMF decia tener."},
+    {"type": "proof", "tag": "FALLO 16 OCT 2026", "text": "El oficio que exigia el anticipo de rentas vitalicias **quedo sin efecto** por falta de sustento normativo", "source": "Fuente: Diario Constitucional / CNN Chile"},
+    {"type": "cta", "text": "Conocer tus derechos frente a una aseguradora tambien es saber **donde estan los limites de la CMF.**", "button": "Escribeme por WhatsApp ->", "sub": "Si tienes un credito con seguro de desgravamen, te ayudo a revisarlo sin costo."}
+  ]
+}
