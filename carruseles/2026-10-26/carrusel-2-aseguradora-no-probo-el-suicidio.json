@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE DE APELACIONES", "text": "Una aseguradora dijo que no pagaba **porque fue un suicidio** - y no lo pudo probar"},
+    {"type": "text", "lines": ["La compañia se nego a pagar", "**un seguro de vida de dos polizas.**"], "sub": "Invoco una clausula que excluye el suicidio durante los primeros dos años."},
+    {"type": "text", "lines": ["El certificado de defuncion", "**mantenia la causa \"en estudio\".**"], "sub": "La autopsia no califico la muerte como suicidio. La aseguradora no logro probar lo que alegaba."},
+    {"type": "stat", "number": "3.637", "unit": "UF", "text": "tuvo que pagar la aseguradora, confirmado por la Corte de Apelaciones de Santiago"},
+    {"type": "cta", "text": "Si tu aseguradora te dice que no sin probarlo, **puedes reclamar**", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tu caso sin costo."}
+  ]
+}

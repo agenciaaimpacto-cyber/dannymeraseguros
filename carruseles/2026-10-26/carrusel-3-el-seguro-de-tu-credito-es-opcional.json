@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El seguro que te ofrecen junto a un credito **es opcional**, no obligatorio"},
+    {"type": "text", "lines": ["Puedes decidir si lo tomas", "**y donde lo contratas.**"], "sub": "La ley te permite elegir la compania, no solo aceptar la que te ofrece el banco."},
+    {"type": "text", "lines": ["Lo mismo aplica si ya tienes", "**un credito funcionando hace rato.**"], "sub": "No necesitas estar recien contratando el credito para revisar tu seguro de desgravamen."},
+    {"type": "proof", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Aceptar el credito **no te obliga** a quedarte con el seguro que viene incluido", "source": "Fuente: Chocale, 22 de octubre de 2026"},
+    {"type": "cta", "text": "Quieres revisar si tu seguro **se puede cambiar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

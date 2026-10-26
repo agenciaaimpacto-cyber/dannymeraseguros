@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESGRAVAMEN", "text": "Si tu aseguradora inventa una excusa para no devolverte tu plata, **la prueba es de ella, no tuya**"},
+    {"type": "text", "lines": ["No basta con que te digan", "**\"no corresponde\" por telefono.**"], "sub": "Si una aseguradora quiere negarte algo, tiene que respaldarlo con hechos concretos, no solo con una frase."},
+    {"type": "text", "lines": ["Eso aplica igual para la devolucion", "**de tu seguro de desgravamen.**"], "sub": "El plazo y el calculo de la devolucion ya estan fijados por norma, no a criterio de quien te atienda."},
+    {"type": "proof", "tag": "CIRCULAR CMF N 2.114", "text": "La devolucion de la prima no usada **es una obligacion**, no un favor que depende de que la aseguradora este de acuerdo", "source": "Fuente: Circular CMF N 2.114"},
+    {"type": "cta", "text": "Quieres saber cuanto te pueden **devolver a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
