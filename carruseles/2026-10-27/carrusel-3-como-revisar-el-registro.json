@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Puedes revisar gratis si quien te vende un seguro **esta autorizado**"},
+    {"type": "text", "lines": ["La CMF lleva un registro publico", "**de agentes de ventas de seguros.**"], "sub": "Cualquier persona puede consultarlo, no hace falta ser cliente de esa aseguradora."},
+    {"type": "text", "lines": ["No es un tramite extra:", "**es un derecho que ya existe.**"], "sub": "Lo mismo aplica si estas evaluando portar tu seguro de desgravamen a una compania mas barata."},
+    {"type": "proof", "tag": "NCG N 471", "text": "Las aseguradoras estan obligadas a **verificar el registro** de quien vende sus polizas", "source": "Fuente: Norma de Caracter General N 471, CMF"},
+    {"type": "cta", "text": "Quieres que revisemos **tu caso?**", "button": "Escribeme por WhatsApp ->", "sub": "Te decimos si tu credito califica, sin compromiso."}
+  ]
+}

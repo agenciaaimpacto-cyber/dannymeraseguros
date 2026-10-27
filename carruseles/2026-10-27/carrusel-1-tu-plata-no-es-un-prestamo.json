@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DESGRAVAMEN", "text": "La devolucion de tu seguro **no es un prestamo que te hacen**"},
+    {"type": "text", "lines": ["Es la parte de la prima", "**que ya pagaste y no se uso.**"], "sub": "Si terminas tu seguro antes de que se acabe el plazo contratado, ese resto te corresponde a ti."},
+    {"type": "text", "lines": ["Por eso no hay nada", "**que devolver despues.**"], "sub": "No es un credito ni un adelanto: es plata tuya que estaba guardada en la prima contratada."},
+    {"type": "proof", "tag": "CIRCULAR CMF N 2.114", "text": "La prima no consumida de un seguro de desgravamen **le pertenece al asegurado**, no a la aseguradora", "source": "Fuente: Circular CMF N 2.114"},
+    {"type": "cta", "text": "Quieres saber cuanto te pueden **devolver a ti?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

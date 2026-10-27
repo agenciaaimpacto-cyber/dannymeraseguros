@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "La CMF multo a dos aseguradoras por vender seguros de vida con **agentes no inscritos**"},
+    {"type": "text", "lines": ["Consorcio y MetLife vendieron polizas", "**sin que el vendedor estuviera registrado.**"], "sub": "Entre junio de 2022 y junio de 2025, usaron agentes que no figuraban en el Registro de Agentes de Ventas de Seguros de la CMF."},
+    {"type": "text", "lines": ["A cada una le aplicaron", "**UF 100 de multa.**"], "sub": "Consorcio ademas uso corredores cuya inscripcion ya habia sido cancelada."},
+    {"type": "proof", "tag": "RESOLUCIONES N 2224 Y N 2234", "text": "Vender un seguro con un agente **no inscrito** infringe el DFL N 251, la Ley de Seguros", "source": "Fuente: CMF, comunicado del 6 de marzo de 2026"},
+    {"type": "cta", "text": "Quieres revisar **tu seguro de desgravamen?**", "button": "Escribeme por WhatsApp ->", "sub": "Trabajo como agente inscrito de Grupo Insurex."}
+  ]
+}
