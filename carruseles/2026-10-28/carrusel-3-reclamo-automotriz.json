@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SERNAC", "text": "El motivo numero 1 de reclamos contra seguros automotrices en Chile es **negarse a pagar el siniestro**"},
+    {"type": "text", "lines": ["El ultimo ranking del SERNAC conto", "**2.172 reclamos** contra aseguradoras de autos."], "sub": "La negativa a pagar el siniestro fue, por lejos, la razon mas repetida."},
+    {"type": "text", "lines": ["Solo un poco mas de la mitad", "**se resolvio a favor del cliente.**"], "sub": "Un 50,5% de los reclamos fue acogido por las propias empresas; el resto no."},
+    {"type": "proof", "tag": "RANKING SERNAC", "text": "Que una aseguradora **rechace tu siniestro** no significa que el reclamo este cerrado", "source": "Fuente: SERNAC, ranking de seguros automotrices"},
+    {"type": "cta", "text": "Tienes un seguro que **no te esta respondiendo?**", "button": "Escribeme por WhatsApp ->", "sub": "Te oriento sin costo sobre que puedes hacer."}
+  ]
+}

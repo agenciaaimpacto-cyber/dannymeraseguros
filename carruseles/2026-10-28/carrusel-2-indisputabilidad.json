@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Una aseguradora **no pudo negarse a pagar** un seguro de salud, aunque la clienta omitio una cirugia antigua"},
+    {"type": "text", "lines": ["La aseguradora decia que ella", "**no declaro una cirugia de 2007.**"], "sub": "La clienta contrato el seguro en 2014 y tuvo un shock septico que la aseguradora se nego a cubrir."},
+    {"type": "text", "lines": ["La Corte dijo que ya habian pasado", "**mas de dos anos desde que se contrato.**"], "sub": "Pasado ese plazo, la aseguradora ya no puede impugnar la poliza por una omision, salvo que pruebe dolo."},
+    {"type": "proof", "tag": "ROL N 37.454-2024", "text": "El dolo **no se presume**: la aseguradora debe probar una conducta activa de engano, no solo el silencio", "source": "Fuente: Diario Constitucional, fallo del 13 de octubre de 2025"},
+    {"type": "cta", "text": "Tienes dudas sobre **tu propio seguro?**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico como funciona, sin compromiso."}
+  ]
+}

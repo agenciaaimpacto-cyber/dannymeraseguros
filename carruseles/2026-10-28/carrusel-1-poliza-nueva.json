@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO CLAVE", "text": "Portar tu seguro de desgravamen te deja con una **poliza nueva**, no con la misma de siempre"},
+    {"type": "text", "lines": ["No es un traspaso del contrato viejo", "**con otro nombre encima.**"], "sub": "La aseguradora nueva evalua tu caso y emite una poliza propia, con sus propias condiciones."},
+    {"type": "text", "lines": ["Eso significa que puedes", "**partir de cero con mejores condiciones.**"], "sub": "Sin cargar lo que paso con la aseguradora anterior: solo cuenta lo que declares hoy."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad **crea un contrato nuevo** entre el cliente y la aseguradora que recibe el seguro", "source": "Fuente: Reglamento Ley 21.236, Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar **con que condiciones partirias tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
