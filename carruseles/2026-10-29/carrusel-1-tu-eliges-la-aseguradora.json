@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El seguro de desgravamen de tu credito es obligatorio. **La aseguradora que lo cubre, no.**"},
+    {"type": "text", "lines": ["Nadie te puede dejar", "**sin seguro de desgravamen.**"], "sub": "Es el seguro que la ley exige junto a tu credito, para proteger la deuda si te pasa algo."},
+    {"type": "text", "lines": ["Pero la ley nunca dijo", "**que tiene que ser esa aseguradora.**"], "sub": "El banco o la casa comercial elige una por convenio - tu puedes elegir otra."},
+    {"type": "proof", "tag": "LEY 20.448", "text": "El seguro de desgravamen es obligatorio para tu credito, **pero la aseguradora es tu decision**", "source": "Fuente: Ley N 20.448, articulo 8"},
+    {"type": "cta", "text": "Quieres saber **con que aseguradora podrias quedarte tu?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

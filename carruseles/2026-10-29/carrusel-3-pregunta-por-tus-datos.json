@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHO DEL CONSUMIDOR", "text": "No solo puedes preguntar el precio de un seguro. **Tambien puedes preguntar que pasa con tus datos.**"},
+    {"type": "text", "lines": ["Entregar tu carnet, tu poliza", "**o el resumen de tu credito**"], "sub": "no significa que esa informacion quede disponible para cualquier uso."},
+    {"type": "text", "lines": ["Puedes preguntar", "**para que se usa cada documento,**"], "sub": "quien lo va a ver, y por cuanto tiempo se guarda."},
+    {"type": "proof", "tag": "LEY 21.719", "text": "La nueva ley exige que cada uso de tus datos **tenga una justificacion**, no solo tu autorizacion", "source": "Fuente: Mediabanco, sobre seminario AACH-UDP del 22 oct 2026"},
+    {"type": "cta", "text": "Si vas a mandar tus documentos para revisar tu seguro de desgravamen, **hazlo sabiendo para que se usan.**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico cada documento antes de pedirtelo."}
+  ]
+}

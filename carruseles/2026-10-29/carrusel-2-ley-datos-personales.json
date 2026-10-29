@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY 21.719", "text": "Las aseguradoras tambien van a tener que explicar **que hacen con tus datos**"},
+    {"type": "text", "lines": ["La nueva Ley de Proteccion de Datos", "**entra en vigencia el 1 de diciembre.**"], "sub": "Afecta a toda la industria aseguradora, no solo a quien te vende el seguro."},
+    {"type": "text", "lines": ["Un seminario de la Asociacion", "**de Aseguradores lo discutio esta semana.**"], "sub": "Con el subsecretario de Economia y el presidente del gremio como expositores."},
+    {"type": "proof", "tag": "22 OCT 2026", "text": "La ley obliga a justificar **para que se usan tus datos**, no solo a pedirlos", "source": "Fuente: Mediabanco, sobre seminario AACH y UDP"},
+    {"type": "cta", "text": "Antes de mandar tu carnet o tu poliza, **preguntalo tu tambien.**", "button": "Escribeme por WhatsApp ->", "sub": "Te explico para que se usa cada documento antes de pedirtelo."}
+  ]
+}
