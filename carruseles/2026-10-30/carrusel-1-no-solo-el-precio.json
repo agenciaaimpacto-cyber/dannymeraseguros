@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Portar tu seguro de desgravamen **no es solo cambiar el precio.**"},
+    {"type": "text", "lines": ["Es cambiar quien te respalda", "**si algo te pasa a ti.**"], "sub": "El seguro existe para pagar tu credito si quedas sin poder seguir pagandolo - no es solo un costo mensual."},
+    {"type": "text", "lines": ["Por eso importa saber", "**con quien te quedas.**"], "sub": "No todas las aseguradoras responden igual cuando llega el momento de usar la cobertura."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Tienes derecho a **elegir** la aseguradora de tu seguro de desgravamen, no solo el precio que pagas", "source": "Fuente: Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres revisar **con que aseguradora te puedes quedar?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL", "text": "Una aseguradora se nego a pagar el seguro de desgravamen de una clienta. **La Corte Suprema la obligo.**"},
+    {"type": "text", "lines": ["La mujer sufrio un ACV", "**y no pudo seguir pagando su credito.**"], "sub": "Para eso existe el seguro de desgravamen: para pagar la deuda si al titular le pasa algo asi."},
+    {"type": "text", "lines": ["La aseguradora se nego a cubrirlo.", "**Un tribunal la obligo a pagar.**"], "sub": "4Life Seguros de Vida llevo el caso hasta la Corte Suprema - y perdio."},
+    {"type": "stat", "number": "6.054", "unit": "UF", "text": "fue la indemnizacion que el tribunal ordeno pagar, **mas una multa por infringir la ley del consumidor**"},
+    {"type": "cta", "text": "Quieres saber **que cubre realmente tu seguro actual?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

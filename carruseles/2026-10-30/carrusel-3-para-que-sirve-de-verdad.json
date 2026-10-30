@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Negar una cobertura que si corresponde **tambien es una infraccion a la ley.**"},
+    {"type": "text", "lines": ["No basta con tener un seguro.", "**Importa si la aseguradora responde.**"], "sub": "Un seguro que nunca paga cuando corresponde no te esta protegiendo de nada."},
+    {"type": "text", "lines": ["Si una aseguradora se niega", "**sin motivo valido, se puede reclamar.**"], "sub": "Via tribunales de policia local, SERNAC o la propia CMF - no es la ultima palabra de la aseguradora."},
+    {"type": "stat", "number": "300", "unit": "UTM", "text": "fue la multa que un tribunal aplico a una aseguradora, **ademas de obligarla a pagar la cobertura**"},
+    {"type": "cta", "text": "Quieres revisar **si tu aseguradora actual tiene buen historial?**", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
