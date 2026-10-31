@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Para tu seguro de auto hay un boton para salir. **Para el de desgravamen de tu credito, no.**"},
+    {"type": "text", "lines": ["No es que no puedas cambiarte", "**es que el camino es otro.**"], "sub": "El seguro de desgravamen de un credito de consumo no se termina y punto - se porta a uno mejor."},
+    {"type": "text", "lines": ["Portar significa que sigues cubierto", "**desde el primer dia.**"], "sub": "El seguro nuevo entra a funcionar el mismo dia en que sale el antiguo, sin dejar tu credito sin respaldo."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "Tienes derecho a cambiarte de aseguradora de desgravamen y **recuperar la prima que no usaste**", "source": "Fuente: Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Quieres saber si tu credito **califica**?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

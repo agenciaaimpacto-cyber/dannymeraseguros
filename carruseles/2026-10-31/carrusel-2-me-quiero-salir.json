@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "stat", "number": "4.598", "text": "personas pidieron **terminar** su seguro general apenas supieron que podian, segun el SERNAC"},
+    {"type": "text", "lines": ["La herramienta se llama", "**Me Quiero Salir.**"], "sub": "Funciona con RUT y ClaveUnica en el Portal del Consumidor del SERNAC, sin llamadas ni papeleo."},
+    {"type": "text", "lines": ["BCI, BNP Paribas y HDI Seguros", "fueron las **mas pedidas** para terminar"], "sub": "Son datos del propio SERNAC sobre el uso real de la plataforma."},
+    {"type": "proof", "tag": "OJO", "text": "Esta herramienta **no aplica** al seguro de desgravamen de un credito de consumo", "source": "Fuente: SERNAC, Portal del Consumidor"},
+    {"type": "cta", "text": "Para el desgravamen, el camino es **portarte**, no terminarlo.", "button": "Escribeme por WhatsApp ->", "sub": "Te explico como funciona, sin costo."}
+  ]
+}

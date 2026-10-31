@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CMF", "text": "**Sabes exactamente** que seguros tienes contratados a tu nombre?"},
+    {"type": "text", "lines": ["La mayoria no lo sabe con certeza", "**ni siquiera cuantos tiene.**"], "sub": "El seguro de desgravamen de tu credito es uno de ellos, y casi nadie lo elige activamente."},
+    {"type": "text", "lines": ["La CMF tiene una plataforma", "**gratuita** para revisarlo."], "sub": "Se consulta con tu RUT y ClaveUnica, y muestra todos los seguros vigentes a tu nombre."},
+    {"type": "proof", "tag": "DATO", "text": "Revisar que aseguradora respalda tu credito **toma menos de un minuto**", "source": "Fuente: CMF, Sistema de Consulta de Seguros"},
+    {"type": "cta", "text": "Ya revisaste el tuyo?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a leerlo y a comparar si te conviene, sin costo."}
+  ]
+}
