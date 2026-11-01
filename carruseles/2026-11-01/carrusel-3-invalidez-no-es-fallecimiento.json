@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO", "text": "No todas las polizas de desgravamen **cubren lo mismo**"},
+    {"type": "text", "lines": ["Algunas solo cubren", "**el fallecimiento del titular.**"], "sub": "Otras tambien cubren invalidez total o parcial, segun lo que diga la poliza especifica que firmaste."},
+    {"type": "text", "lines": ["La diferencia la decide", "**la letra chica, no el nombre del seguro.**"], "sub": "Dos seguros de desgravamen pueden llamarse igual y cubrir cosas distintas."},
+    {"type": "proof", "tag": "DATO", "text": "Un caso reciente en los tribunales **se origino justo por esa diferencia**: invalidez versus fallecimiento", "source": "Fuente: Diario Constitucional, Rol N 20.316-2024"},
+    {"type": "cta", "text": "Sabes que tipo de cobertura tiene el tuyo?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tu poliza, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Le dijeron que su seguro **no cubria** quedar invalida. La Corte Suprema dijo que si."},
+    {"type": "text", "lines": ["La clienta quedo con un", "**70% de invalidez** en 2013."], "sub": "El Banco de Chile y Banchile se negaron a activar el seguro de desgravamen de su credito, diciendo que la poliza solo cubria el fallecimiento."},
+    {"type": "text", "lines": ["La Corte de Apelaciones les dio la razon,", "**pero la Corte Suprema la revirtio.**"], "sub": "La Segunda Sala concluyo que ese fallo no pondero bien los antecedentes, y restablecio la condena original."},
+    {"type": "proof", "tag": "FALLO", "text": "Multa de **100 UTM** mas indemnizacion de **$35.473.468** por dano emergente y **$5.000.000** por dano moral", "source": "Fuente: Diario Constitucional, Rol N 20.316-2024"},
+    {"type": "cta", "text": "Sabes exactamente que cubre tu seguro?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo, sin costo."}
+  ]
+}
