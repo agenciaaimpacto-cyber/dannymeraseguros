@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "PORTABILIDAD", "text": "Mientras **menos cuotas** de tu credito hayas pagado, **mas grande** puede ser tu devolucion"},
+    {"type": "text", "lines": ["La prima del seguro de desgravamen", "**se paga para todo el credito** desde el principio."], "sub": "Si recien empezaste a pagar, se ha consumido muy poco de esa prima."},
+    {"type": "text", "lines": ["Eso significa que todavia", "**queda bastante por devolver.**"], "sub": "Cambiarte ahora, en vez de esperar, es lo que mas te conviene si recien tomaste el credito."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen y recuperar la prima no usada", "source": "Fuente: Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Hace poco tomaste un credito?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos cuanto te pueden devolver, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Le negaron el seguro diciendo que **tenia una enfermedad previa.** La Corte Suprema le pidio pruebas a la aseguradora, no a el"},
+    {"type": "text", "lines": ["El credito hipotecario era", "**con BancoEstado, desde 2012.**"], "sub": "Rigel Seguros de Vida se nego a cubrirlo, alegando que el cliente omitio antecedentes de salud al contratar."},
+    {"type": "text", "lines": ["La Corte de Apelaciones le creyo a la aseguradora,", "**pero la Corte Suprema la corrigio.**"], "sub": "Dijo que exigirle al cliente probar que no estaba enfermo invertia la carga de la prueba: quien alega algo, tiene que probarlo."},
+    {"type": "proof", "tag": "FALLO", "text": "La aseguradora **nunca logro probar** la preexistencia con la que habia negado la cobertura", "source": "Fuente: Diario Constitucional, Rol N 59.461-2024"},
+    {"type": "cta", "text": "Te dijeron que no sin explicarte por que?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

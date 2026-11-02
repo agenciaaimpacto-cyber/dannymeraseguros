@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "stat", "number": "1698", "text": "es el articulo del **Codigo Civil** que dice quien debe probar algo cuando hay una disputa de seguros"},
+    {"type": "text", "lines": ["La regla es simple:", "**quien alega un hecho, tiene que probarlo.**"], "sub": "Si una aseguradora dice que no corresponde pagar por una enfermedad previa, esa enfermedad previa la tiene que acreditar ella."},
+    {"type": "text", "lines": ["No te corresponde a ti", "**demostrar que estabas sano.**"], "sub": "Un \"no corresponde\" sin respaldo no es una respuesta valida, aunque venga de una aseguradora grande."},
+    {"type": "proof", "tag": "DERECHO DEL CONSUMIDOR", "text": "Puedes pedir, por escrito, **la prueba concreta** en la que se basa un rechazo de cobertura", "source": "Fuente: Codigo Civil, Art. 1698"},
+    {"type": "cta", "text": "Te rechazaron algo sin explicacion clara?", "button": "Escribeme por WhatsApp ->", "sub": "Lo revisamos juntos, sin costo."}
+  ]
+}
