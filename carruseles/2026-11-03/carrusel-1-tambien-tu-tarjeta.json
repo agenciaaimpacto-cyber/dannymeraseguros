@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El seguro que viene con tu **tarjeta de credito** tambien se puede revisar"},
+    {"type": "text", "lines": ["No es solo el credito del banco:", "**las casas comerciales tambien** atan seguros a sus tarjetas."], "sub": "Llegan igual que el de desgravamen: elegidos de antemano, sin que tu los compares."},
+    {"type": "text", "lines": ["Es el mismo mecanismo,", "**y el mismo derecho.**"], "sub": "Si tienes un credito de consumo o automotriz con un seguro atado, lo puedes comparar y cambiar."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "El derecho a **comparar y portar** tu seguro no depende de quien te lo vendio", "source": "Fuente: Ley N 20.448 y Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Tienes un seguro atado a un credito o tarjeta?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos cuanto te pueden devolver, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "stat", "number": "3", "text": "aseguradoras distintas rechazaron **al mismo cliente**, por la misma razon, sin coordinarse entre ellas"},
+    {"type": "text", "lines": ["Eso no significa que el rechazo", "**estuviera bien fundado.**"], "sub": "Significa que ninguna se tomo el tiempo de evaluar su caso real - solo aplicaron una regla general."},
+    {"type": "text", "lines": ["Un \"no\" de una aseguradora", "**no es la ultima palabra.**"], "sub": "Puedes pedir la base concreta del rechazo, reclamar, o buscar una alternativa distinta."},
+    {"type": "proof", "tag": "DERECHO DEL CONSUMIDOR", "text": "Puedes exigir que un rechazo venga con una **explicacion real**, no una regla generica", "source": "Fuente: Diario Constitucional, fallo Corte Suprema 2023"},
+    {"type": "cta", "text": "Te quedaste con el primer no que te dieron?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CORTE SUPREMA", "text": "Era trasplantado de rinon. **Tres aseguradoras distintas** le dijeron que no, por lo mismo"},
+    {"type": "text", "lines": ["Necesitaba el seguro de desgravamen", "**para que le aprobaran su credito.**"], "sub": "Rigel, Banchile y Zurich Santander evaluaron su salud por separado - y las tres lo rechazaron."},
+    {"type": "text", "lines": ["Ninguna le explico", "**la base medica concreta** del rechazo."], "sub": "La Corte Suprema dijo que ese tipo de negativa, en bloque y sin examen real, es arbitraria y discriminatoria."},
+    {"type": "proof", "tag": "FALLO 2023", "text": "La Corte ordeno a dos de las tres **evaluar una alternativa real** de seguro", "source": "Fuente: Diario Constitucional, 28 de marzo de 2023"},
+    {"type": "cta", "text": "Te dijeron que no sin explicarte por que?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
