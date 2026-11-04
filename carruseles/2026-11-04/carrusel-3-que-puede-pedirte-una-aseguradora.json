@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Que te puede pedir una aseguradora **antes de venderte** un seguro de salud o de vida?"},
+    {"type": "text", "lines": ["Te puede pedir que", "**declares tu salud actual.**"], "sub": "Es la base para calcular el riesgo y el precio de tu poliza."},
+    {"type": "text", "lines": ["Pero hay limites:", "**no todo lo puede exigir.**"], "sub": "Una enfermedad superada hace mas de 5 anos, por ejemplo, ya no es declarable por ley."},
+    {"type": "proof", "tag": "LEY N 21.656", "text": "Si una aseguradora **te rechaza o te sube el precio** por algo que la ley le prohibe preguntar, puedes reclamar", "source": "Fuente: SERNAC, Ley Nacional del Cancer, articulo 8 bis"},
+    {"type": "cta", "text": "No sabes si tu poliza te esta cobrando de mas?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

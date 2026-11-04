@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "No tienes que esperar a que **se acabe tu credito** para cambiar tu seguro de desgravamen"},
+    {"type": "text", "lines": ["Puedes portarlo", "**en cualquier momento** del credito."], "sub": "No es un tramite que se hace solo al principio o solo al final."},
+    {"type": "text", "lines": ["Si renegocias o prepagas,", "**la prima no usada sigue siendo tuya.**"], "sub": "La aseguradora debe calcularla igual, aunque cambien las condiciones del credito."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "El derecho a portar tu seguro de desgravamen **no tiene fecha de vencimiento** dentro de tu credito", "source": "Fuente: Ley N 20.448 y Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Llevas meses pagando tu credito y nunca revisaste tu seguro?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

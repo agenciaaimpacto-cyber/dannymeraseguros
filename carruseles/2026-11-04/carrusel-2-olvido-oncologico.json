@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SERNAC, OCTUBRE 2026", "text": "El SERNAC ofició a **33 aseguradoras de vida** para revisar si respetan tu derecho al olvido oncologico"},
+    {"type": "text", "lines": ["Si tuviste cancer y pasaron", "**5 anos sin recaida,**"], "sub": "ya no tienes que declararlo para contratar un seguro de salud, de vida, u otro producto financiero."},
+    {"type": "stat", "number": "33", "unit": "aseguradoras", "text": "fueron oficiadas para que muestren **como evaluan** tu riesgo al venderte una poliza"},
+    {"type": "proof", "tag": "LEY N 21.656", "text": "La aseguradora **no puede exigirte** esa informacion ni usarla para rechazarte o subirte el precio", "source": "Fuente: SERNAC, Diario Estrategia, octubre 2026"},
+    {"type": "cta", "text": "Te pidieron declarar una enfermedad que ya no corresponde?", "button": "Escribeme por WhatsApp ->", "sub": "Te explico que puedes exigir, sin costo."}
+  ]
+}
