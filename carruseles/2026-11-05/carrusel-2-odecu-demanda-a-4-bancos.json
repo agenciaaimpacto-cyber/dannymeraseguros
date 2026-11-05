@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE SABIA?", "text": "ODECU demando a **4 bancos** por un seguro que, dice la demanda, ya no servia para nada"},
+    {"type": "text", "lines": ["Banco de Chile, Santander,", "BICE y Security, **apuntados.**"], "sub": "Por seguir cobrando un seguro antifraude mes a mes."},
+    {"type": "stat", "number": "0.154", "unit": "UF al mes", "text": "cobraba el **mas caro** de los 4 por este seguro"},
+    {"type": "proof", "tag": "LEY N 21.234", "text": "Desde 2020, el banco **ya debe responder** por fraudes no autorizados en tu cuenta", "source": "Fuente: La Tercera, demanda de ODECU (31 ene 2025)"},
+    {"type": "cta", "text": "Sabes que seguros te cobra tu banco cada mes?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tambien el de tu credito."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "QUE HACER", "text": "Si crees que **pagas un seguro que no sirve**, esto puedes hacer"},
+    {"type": "text", "lines": ["Primero: pide tu cartola", "y **busca el cargo exacto.**"], "sub": "Casi siempre aparece con otro nombre, no como seguro."},
+    {"type": "text", "lines": ["Segundo: pide por escrito", "**que cubre ese seguro hoy.**"], "sub": "Si no te lo explican claro, es una senal."},
+    {"type": "proof", "tag": "DATO", "text": "Cerca de la **mitad** de los clientes de 4 bancos pagaria este seguro", "source": "Fuente: El Mostrador, sobre la demanda de ODECU"},
+    {"type": "cta", "text": "Quieres que revisemos los seguros de tu credito?", "button": "Escribeme por WhatsApp ->", "sub": "Empezamos por el de desgravamen."}
+  ]
+}

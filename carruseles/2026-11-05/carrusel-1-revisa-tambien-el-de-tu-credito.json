@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Hay bancos a los que les reclaman por **seguros que sigues pagando sin necesitarlos**"},
+    {"type": "text", "lines": ["Lo mismo puede estar pasando", "**con el seguro de tu credito.**"], "sub": "El de desgravamen tambien se puede revisar, no solo los de tu cuenta."},
+    {"type": "text", "lines": ["Si nunca lo compararon contigo,", "**no sabes si es el mas barato.**"], "sub": "Viene por convenio entre el banco y una aseguradora especifica."},
+    {"type": "proof", "tag": "LEY N 20.448", "text": "Tienes derecho a **cambiarte** a un seguro de desgravamen mas economico", "source": "Fuente: Ley N 20.448 y Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Nunca revisaste el seguro de tu credito?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
