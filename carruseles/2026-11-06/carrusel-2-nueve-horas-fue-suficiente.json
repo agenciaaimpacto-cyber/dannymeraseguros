@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL", "text": "Le robaron el auto. **Denuncio a las 9 horas.** La aseguradora dijo que era tarde."},
+    {"type": "text", "lines": ["BCI Seguros se nego a pagar", "**alegando que no fue 'inmediato'.**"], "sub": "El contrato exigia aviso inmediato del robo."},
+    {"type": "text", "lines": ["La Corte Suprema dijo que si:", "**9 horas SI es inmediato.**"], "sub": "Se baso en el plazo de 24 horas que da el Codigo Procesal Penal para denunciar un delito."},
+    {"type": "stat", "number": "14", "unit": "millones", "text": "es lo que la Corte Suprema **ordeno pagarle** al asegurado"},
+    {"type": "cta", "text": "Te negaron un pago por un plazo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

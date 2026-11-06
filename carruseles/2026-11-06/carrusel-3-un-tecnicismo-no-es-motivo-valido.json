@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL ASEGURADO", "text": "Si te niegan un pago, **pregunta exactamente que clausula** invocan"},
+    {"type": "text", "lines": ["Algunas aseguradoras usan", "**un plazo o un tramite** para no pagar."], "sub": "Como en el caso de hoy: decir que una denuncia 'no fue inmediata'."},
+    {"type": "text", "lines": ["Pero esa palabra la interpreta", "**el tribunal, no la aseguradora.**"], "sub": "Un plazo razonable no es lo mismo que un plazo inventado por la compania."},
+    {"type": "proof", "tag": "DERECHO DEL CONSUMIDOR", "text": "Puedes **reclamar** una negativa de pago ante el SERNAC o la CMF", "source": "Fuente: SERNAC / Comision para el Mercado Financiero (CMF)"},
+    {"type": "cta", "text": "Te rechazaron una devolucion o un pago?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

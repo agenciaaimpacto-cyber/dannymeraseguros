@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El banco te presta la plata. **La aseguradora es otra empresa distinta.**"},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**lo elige el banco por ti.**"], "sub": "Es un convenio entre el banco y una compania especifica, no tu eleccion."},
+    {"type": "text", "lines": ["Esa compania puede no ser", "**la mas barata para ti.**"], "sub": "Hay otras que cobran menos por la misma cobertura."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Puedes **cambiar** de aseguradora y quedarte con una mas economica", "source": "Fuente: Ley N 20.448 y Ley N 21.236, Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Sabes que aseguradora tiene tu credito?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
