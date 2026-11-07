@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "QUE HACER", "text": "Si tu banco nunca te mostro ese anexo, **esto puedes hacer**"},
+    {"type": "text", "lines": ["Primero: pide tu resumen", "**de credito actualizado.**"], "sub": "Ahi aparecen las cuotas pagadas, el monto total y el seguro asociado."},
+    {"type": "text", "lines": ["Segundo: pide la poliza", "**del seguro que tienes hoy.**"], "sub": "Con el numero de poliza y la compania, se puede calcular cuanto vale."},
+    {"type": "proof", "tag": "DATO", "text": "Mientras **menos cuotas** llevas pagadas, mayor es la prima no usada que puedes recuperar", "source": "Fuente: mecanica de calculo de prima no consumida en seguro de desgravamen"},
+    {"type": "cta", "text": "Quieres saber cuanto podrias recuperar tu?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

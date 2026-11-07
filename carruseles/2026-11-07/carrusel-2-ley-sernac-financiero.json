@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SE SABIA?", "text": "Hay una ley desde **2011** que obliga a separar, por escrito, el seguro de tu credito del resto"},
+    {"type": "text", "lines": ["Se llama Ley SERNAC Financiero,", "**y sigue vigente hoy.**"], "sub": "Entro en vigencia en marzo de 2012 y le dio al SERNAC poder sobre creditos, tarjetas y sus seguros."},
+    {"type": "text", "lines": ["Exige un anexo que distinga,", "**producto por producto,**"], "sub": "que es obligatorio por ley y que es solo un producto que te asociaron al credito."},
+    {"type": "proof", "tag": "LEY N 20.555", "text": "El anexo debe **separar cada producto** del credito, uno por uno", "source": "Fuente: BCN, articulos 17 A al 17 L de la Ley N 19.496"},
+    {"type": "cta", "text": "Revisaste el anexo de tu credito alguna vez?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tambien el seguro de desgravamen."}
+  ]
+}

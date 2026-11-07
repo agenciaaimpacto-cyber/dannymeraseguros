@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Tu banco tiene que mostrarte, **por escrito**, que parte del credito es el seguro"},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**no es un requisito legal** del credito."], "sub": "Ninguna ley obliga a un credito de consumo a llevarlo atado."},
+    {"type": "text", "lines": ["Si nunca viste ese papel,", "**pidelo antes de aceptar nada.**"], "sub": "Ahi aparece el seguro separado del resto, como lo que es: un producto aparte."},
+    {"type": "proof", "tag": "LEY N 20.555", "text": "Tienes derecho a un **anexo por escrito** que distinga que es obligatorio y que no", "source": "Fuente: Ley N 20.555, SERNAC Financiero, BCN"},
+    {"type": "cta", "text": "Nunca te mostraron ese anexo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
