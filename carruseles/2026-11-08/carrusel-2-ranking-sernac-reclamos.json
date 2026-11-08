@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El SERNAC mide, cada semestre, **que aseguradoras se niegan mas** a pagar"},
+    {"type": "text", "lines": ["En el ultimo reporte,", "**2.172 reclamos** contra seguros de auto."], "sub": "Un 2,5% mas que en el mismo periodo anterior, segun el SERNAC."},
+    {"type": "stat", "number": "834", "unit": "reclamos", "text": "recibio, ella sola, **la aseguradora con mas quejas** del ranking"},
+    {"type": "proof", "tag": "SERNAC, AGO 2026", "text": "La **negativa a pagar el siniestro** fue, otra vez, el motivo mas repetido de reclamo", "source": "Fuente: SERNAC, ranking de seguros automotrices 2026"},
+    {"type": "cta", "text": "Sabes el historial de reclamos de tu aseguradora?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar tu caso sin costo."}
+  ]
+}

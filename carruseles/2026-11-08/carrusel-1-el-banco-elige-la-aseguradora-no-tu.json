@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "La aseguradora de tu seguro de desgravamen **no la elegiste tu**"},
+    {"type": "text", "lines": ["La elige el banco o la casa comercial,", "**por convenio con esa aseguradora.**"], "sub": "No necesariamente es la mas barata ni la mejor para ti."},
+    {"type": "text", "lines": ["Tu puedes cambiarte", "**a la aseguradora que tu elijas.**"], "sub": "Portas el seguro y recuperas la prima no usada del actual."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "La Ley de Portabilidad Financiera te da el derecho a **elegir tu propia aseguradora**", "source": "Fuente: Ley N 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber si tu seguro tiene mejor alternativa?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

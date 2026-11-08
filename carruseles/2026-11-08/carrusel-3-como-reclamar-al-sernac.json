@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS", "text": "Si tu aseguradora se niega a pagar sin razon valida, **puedes reclamar al SERNAC**"},
+    {"type": "text", "lines": ["El SERNAC recibe reclamos", "**contra cualquier aseguradora.**"], "sub": "No solo seguros de auto: aplica a vida, salud, desgravamen y mas."},
+    {"type": "text", "lines": ["Ese reclamo queda registrado", "**y puede terminar en un ranking publico.**"], "sub": "Asi se supo que la negativa a pagar fue el motivo mas repetido en seguros de auto."},
+    {"type": "proof", "tag": "DATO", "text": "Reclamar **no tiene costo** y queda como antecedente oficial contra la aseguradora", "source": "Fuente: sernac.cl, plataforma de reclamos"},
+    {"type": "cta", "text": "Tu aseguradora se nego a pagar algo alguna vez?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisar si tiene sentido cambiarte."}
+  ]
+}
