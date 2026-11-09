@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO QUE NO SABIAS", "text": "El SOAP de tu auto **cambio por ley este año** - y nadie te avisa que el tuyo tambien puede cambiar"},
+    {"type": "text", "lines": ["El seguro de desgravamen de tu credito", "**tampoco es fijo para siempre.**"], "sub": "Lo elegio el banco o la casa comercial cuando pediste el credito, no tu."},
+    {"type": "text", "lines": ["Puedes cambiarte a una aseguradora", "**mas barata y recuperar lo que no usaste.**"], "sub": "Se llama portabilidad de seguros, y es un derecho, no un favor."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen cuando quieras", "source": "Fuente: Ley N 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber cuanto puedes recuperar tu?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

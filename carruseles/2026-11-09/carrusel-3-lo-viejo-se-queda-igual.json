@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "No todos los SOAP de Chile tienen **la misma cobertura hoy**"},
+    {"type": "text", "lines": ["Si tu SOAP se contrato antes del", "**7 de febrero de 2026, sigue con el monto viejo.**"], "sub": "Las aseguradoras incluso suspendieron la venta unos dias mientras ajustaban las polizas nuevas."},
+    {"type": "text", "lines": ["Solo los contratados despues de esa fecha", "**tienen el tope nuevo de UF 600.**"], "sub": "Dos personas con el mismo seguro, cubiertas distinto, segun la fecha."},
+    {"type": "proof", "tag": "DATO", "text": "Lo mismo pasa con tu seguro de desgravamen: **las condiciones se revisan**, no se asumen", "source": "Fuente: DF, CMF Chile"},
+    {"type": "cta", "text": "Quieres saber en que condiciones quedo el tuyo?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

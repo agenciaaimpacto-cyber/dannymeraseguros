@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "LEY JACINTA", "text": "El SOAP que debe tener tu auto **duplico su cobertura** este año"},
+    {"type": "text", "lines": ["La Ley N 21.797 subio el monto", "**de UF 300 a UF 600** por muerte o invalidez total."], "sub": "Publicada el 7 de febrero de 2026, modifico la Ley N 18.490 del SOAP."},
+    {"type": "stat", "number": "600", "unit": "UF", "text": "cubre ahora el SOAP por **gastos medicos y rehabilitacion**, el doble que antes"},
+    {"type": "proof", "tag": "CMF, FEB 2026", "text": "La CMF incorporo los nuevos montos al **Deposito de Polizas** el 9 de febrero", "source": "Fuente: DF, CMF Chile"},
+    {"type": "cta", "text": "Sabes si tu seguro de desgravamen esta actualizado?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo sin costo."}
+  ]
+}
