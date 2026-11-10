@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "OJO CON ESTO", "text": "Te dicen que el seguro de tu credito **no lo eligen ellos** - por eso no responden"},
+    {"type": "text", "lines": ["Un tribunal acaba de fallar que eso", "**no es excusa suficiente.**"], "sub": "Vender un seguro junto a otro producto si genera responsabilidad."},
+    {"type": "text", "lines": ["Lo mismo aplica a tu seguro de desgravamen:", "**el banco te lo vendio, no te lo regalo.**"], "sub": "Y si no te conviene, puedes cambiarlo."},
+    {"type": "proof", "tag": "LEY N 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a uno mas barato", "source": "Fuente: Ley N 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber cuanto puedes recuperar tu?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

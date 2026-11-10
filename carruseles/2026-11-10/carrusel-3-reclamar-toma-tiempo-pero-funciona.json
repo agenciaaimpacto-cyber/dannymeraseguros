@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO", "text": "Esta demanda **tardo 4 anos** en llegar a un fallo firme"},
+    {"type": "text", "lines": ["El SERNAC demando a Enel en 2022", "**por venderle seguros sin responder por ellos.**"], "sub": "Este ano la Corte de Santiago confirmo la multa."},
+    {"type": "text", "lines": ["Reclamar toma tiempo,", "**pero los tribunales si fallan a favor del consumidor.**"], "sub": "Lo mismo vale para un reclamo sobre tu seguro de desgravamen."},
+    {"type": "proof", "tag": "LEY N 19.496", "text": "La ley del consumidor **protege** a quien compra un seguro atado a otro producto", "source": "Fuente: Poder Judicial"},
+    {"type": "cta", "text": "No esperes 4 anos para revisar tu seguro de desgravamen", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo, hoy mismo."}
+  ]
+}

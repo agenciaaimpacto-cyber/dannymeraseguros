@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "CASO REAL", "text": "La Corte confirmo: **vender un seguro junto a otro servicio** si te hace responsable"},
+    {"type": "text", "lines": ["Enel vendia seguros y asistencias", "**junto con la luz de tu casa.**"], "sub": "Dijo que solo intermediaba y no respondia por ellos."},
+    {"type": "stat", "number": "900", "unit": "UTM", "text": "de multa confirmo la Corte de Santiago - cerca de **$64 millones**"},
+    {"type": "proof", "tag": "ROL 15.485-2025", "text": "La Corte rechazo el argumento de que **solo era intermediaria**", "source": "Fuente: Poder Judicial, CNN Chile"},
+    {"type": "cta", "text": "Y tu seguro de desgravamen, quien responde por el?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo sin costo."}
+  ]
+}
