@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La CMF le dio, por primera vez, **una dirección propia** a la regulación de seguros"},
+    {"type": "text", "lines": ["El cambio entró en vigencia el", "**8 de mayo de 2026.**"], "sub": "Antes, seguros se regulaba junto con bancos y el resto del mercado financiero."},
+    {"type": "stat", "number": "2011", "unit": "", "text": "es el año en que entró al Congreso el proyecto que **moderniza el mercado de seguros** - y sigue sin avanzar"},
+    {"type": "proof", "tag": "CMF, MAYO 2026", "text": "Se crea la **Dirección de Regulación Prudencial de Seguros**, dependiente de la Dirección General de Regulación", "source": "Fuente: CMF, comunicado oficial"},
+    {"type": "cta", "text": "Sabes en qué condiciones quedó tu seguro de desgravamen?", "button": "Escríbeme por WhatsApp ->", "sub": "Te ayudo a revisar tu caso sin costo."}
+  ]
+}

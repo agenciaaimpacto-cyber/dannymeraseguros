@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DATO NUEVO", "text": "La CMF recién creó un área **solo para regular seguros** - el sector lleva años en segundo plano"},
+    {"type": "text", "lines": ["Mientras la regulación se pone al día,", "**tu seguro de desgravamen sigue esperando** que alguien lo revise."], "sub": "Nadie te avisa que puedes cambiarlo, haya o no normativa nueva."},
+    {"type": "text", "lines": ["Lo eligió el banco cuando pediste el crédito,", "**no tú.**"], "sub": "Y puedes cambiarte a uno más barato cuando quieras."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a una compañía más barata", "source": "Fuente: Ley N° 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber cuánto puedes recuperar tú?", "button": "Escríbeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

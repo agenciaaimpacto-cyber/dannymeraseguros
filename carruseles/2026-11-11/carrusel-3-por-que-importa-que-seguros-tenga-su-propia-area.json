@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "POR QUE IMPORTA", "text": "La propia industria aseguradora **pidió** que seguros tuviera su propia área en la CMF"},
+    {"type": "text", "lines": ["Hasta ahora, las reglas sobre solvencia", "**se pensaban igual para bancos y aseguradoras.**"], "sub": "Pero una aseguradora administra reservas y riesgos muy distintos a los de un banco."},
+    {"type": "text", "lines": ["Una aseguradora mejor supervisada", "**es una que responde mejor** cuando tienes un siniestro o pides tu devolución."], "sub": "No es solo un tema de burocracia interna del regulador."},
+    {"type": "proof", "tag": "CMF, MAYO 2026", "text": "La nueva dirección busca una supervisión **proporcional** al riesgo real de cada aseguradora", "source": "Fuente: CMF, comunicado oficial"},
+    {"type": "cta", "text": "Quieres saber si tu seguro de desgravamen te conviene?", "button": "Escríbeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
