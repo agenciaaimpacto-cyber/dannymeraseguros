@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "POR QUE IMPORTA", "text": "Antes de que una regla de seguros se aplique, la CMF la deja **publicada para que cualquiera la revise**"},
+    {"type": "text", "lines": ["Se llama", "**consulta publica.**"], "sub": "Dura semanas y cualquier persona o empresa puede comentarla."},
+    {"type": "text", "lines": ["No es solo para abogados o aseguradoras,", "**tambien puedes revisarla tu.**"], "sub": "Esta en la seccion 'Normativa en Consulta' del sitio de la CMF."},
+    {"type": "proof", "tag": "CMF", "text": "Las normas que regulan tu seguro de desgravamen tambien pasaron por este mismo proceso **publico**", "source": "Fuente: CMF, Normativa en Consulta"},
+    {"type": "cta", "text": "Quieres que te explique que norma aplica a tu caso?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

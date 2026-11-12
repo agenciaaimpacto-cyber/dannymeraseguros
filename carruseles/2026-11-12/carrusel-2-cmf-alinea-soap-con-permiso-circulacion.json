@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La CMF puso en consulta **una nueva fecha** de termino para el SOAP de los autos nuevos"},
+    {"type": "text", "lines": ["La propuesta se publico", "**el 9 de noviembre de 2026.**"], "sub": "Esta abierta a comentarios por dos semanas, no es una decision cerrada."},
+    {"type": "text", "lines": ["Busca que el SOAP y el permiso de circulacion", "**venzan en fechas alineadas.**"], "sub": "Para que no te encuentres con uno vigente y el otro no."},
+    {"type": "proof", "tag": "CIRCULAR N° 1.147", "text": "La CMF modifica por **consulta publica**, no a puertas cerradas, las reglas de un seguro obligatorio", "source": "Fuente: CMF, consulta publica 9 nov 2026"},
+    {"type": "cta", "text": "Sabes si tu seguro de desgravamen tambien quedo con reglas desactualizadas?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo sin costo."}
+  ]
+}
