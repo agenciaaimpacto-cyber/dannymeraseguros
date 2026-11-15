@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Tu familia puede terminar pagando años un credito que tu seguro de desgravamen **ya deberia haber cancelado**"},
+    {"type": "text", "lines": ["Si no sabes que aseguradora tiene", "**el seguro de tu credito,** tu familia tampoco lo sabra."], "sub": "Y seran ellos quienes tengan que averiguarlo despues."},
+    {"type": "text", "lines": ["Revisarlo ahora toma minutos,", "**cambiarte a uno mas barato,** tambien."], "sub": "Mientras menos cuotas lleves pagadas, mayor la prima que puedes recuperar."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a una compañia mas economica", "source": "Fuente: Ley N° 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber si tu seguro de desgravamen se puede cambiar?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Si tu credito tiene seguro de desgravamen vigente, **la deuda no pasa a tu familia** cuando falleces"},
+    {"type": "text", "lines": ["El seguro le paga directamente", "**al banco o casa comercial,** por el saldo que quede del credito."], "sub": "No es la familia quien debe pagarlo ni gestionarlo con sus propios recursos."},
+    {"type": "text", "lines": ["Por eso conviene saber, en vida,", "**que aseguradora tiene ese seguro** y si es el mas barato disponible."], "sub": "Si no es el mas conveniente, puedes cambiarte y recuperar lo no usado."},
+    {"type": "proof", "tag": "LEY N° 20.448", "text": "El seguro de desgravamen existe para **cubrir el saldo del credito,** no para que la familia lo asuma", "source": "Fuente: Ley N° 20.448, CMF Educa"},
+    {"type": "cta", "text": "Quieres revisar si tu seguro de desgravamen es el mas conveniente?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a revisarlo sin costo."}
+  ]
+}

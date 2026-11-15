@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La CMF tiene un tramite para que tu familia revise, con tu certificado de defuncion, **que seguros tenias** - incluido el de tu credito"},
+    {"type": "text", "lines": ["Se llama Sistema de Consultas de Seguros (SICS)", "**y lo pueden pedir tus herederos.**"], "sub": "Conyuge, conviviente civil, hijos, padres u otros herederos, cada uno con su propio tramite."},
+    {"type": "text", "lines": ["Piden Clave Unica, tus datos,", "**certificado de defuncion** de no mas de 60 dias y prueba de que son tus herederos."], "sub": "La CMF revisa la solicitud y, si corresponde, envia un correo con el detalle."},
+    {"type": "proof", "tag": "CMF · CHILEATIENDE", "text": "La informacion de cada poliza, **incluido el desgravamen de un credito,** la entregan las propias aseguradoras", "source": "Fuente: ChileAtiende, tramite 109511"},
+    {"type": "cta", "text": "Prefieres que tu familia no tenga que hacer este tramite despues?", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos ahora que seguro tiene tu credito."}
+  ]
+}
