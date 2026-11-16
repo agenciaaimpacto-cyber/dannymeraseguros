@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La Corte Suprema obligo a Walmart a devolver un descuento que le habia hecho a un trabajador **en su seguro de cesantia**"},
+    {"type": "text", "lines": ["Lo despidieron en 2022 por", "**\"necesidades de la empresa\".**"], "sub": "La justicia declaro ese despido injustificado."},
+    {"type": "text", "lines": ["Si el despido no era valido,", "**tampoco era valido** descontarle el aporte al seguro de cesantia."], "sub": "La Corte Suprema confirmo: Walmart debe pagarle $10,3 millones."},
+    {"type": "proof", "tag": "CORTE SUPREMA", "text": "Un descuento o una prima solo es valida **mientras la condicion que la justifica** tambien lo sea", "source": "Fuente: El Desconcierto, 7 de noviembre de 2026"},
+    {"type": "cta", "text": "Ese mismo principio aplica a tu seguro de desgravamen", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos si te corresponde una devolucion."}
+  ]
+}

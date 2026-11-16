@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "El banco elige con que aseguradora va tu seguro de desgravamen. **Tu puedes elegir otra.**"},
+    {"type": "text", "lines": ["Ese seguro llega por un convenio", "**entre el banco y una aseguradora.**"], "sub": "No porque sea la mas conveniente para ti, sino porque asi se armo el convenio."},
+    {"type": "text", "lines": ["Cambiarte a una mas barata", "**no te saca del credito,** solo cambia quien te asegura."], "sub": "Y si llevas pocas cuotas pagadas, puede devolverte parte de la prima."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "La ley te da el derecho a **portar** tu seguro de desgravamen a otra compañia", "source": "Fuente: Ley N° 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber si el tuyo se puede cambiar?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Hay un proyecto de ley que quiere **ampliar** el Seguro SANNA, el que cubre a ninos hospitalizados"},
+    {"type": "text", "lines": ["El Ministerio de Salud ingreso una", "**modificacion a la Ley N° 21.063.**"], "sub": "Agrega el egreso hospitalario por lesiones autoinfligidas como nueva cobertura."},
+    {"type": "text", "lines": ["Tambien extiende la edad tope", "**para cancer y enfermedades graves.**"], "sub": "Hasta los 19 anos y 11 meses en algunos casos, segun el proyecto."},
+    {"type": "proof", "tag": "MINSAL · SUSESO", "text": "Es un **proyecto de ley,** no una norma vigente todavia — hay que seguir su tramitacion", "source": "Fuente: Minsal, Superintendencia de Seguridad Social"},
+    {"type": "cta", "text": "Mientras tanto, revisa el seguro de tu credito", "button": "Escribeme por WhatsApp ->", "sub": "Ese sí lo puedes cambiar hoy, sin esperar una ley nueva."}
+  ]
+}
