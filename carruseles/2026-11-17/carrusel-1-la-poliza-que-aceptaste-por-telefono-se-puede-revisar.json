@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Dijiste que si por telefono sin ver la poliza completa? **Igual puedes revisarla y cambiarte hoy**"},
+    {"type": "text", "lines": ["Muchos seguros de desgravamen se venden", "**en la misma llamada** donde te aprueban el credito."], "sub": "Pocas veces alcanzas a leer la poliza completa antes de aceptar."},
+    {"type": "text", "lines": ["Eso no significa que estes", "**atrapado** con esa aseguradora."], "sub": "La ley te da el derecho a portarte a una compania mas barata, sin tocar tu credito."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "Puedes **portar** tu seguro de desgravamen a otra compania y recuperar lo que no has usado", "source": "Fuente: Ley N° 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres revisar la poliza que aceptaste por telefono?", "button": "Escribeme por WhatsApp ->", "sub": "Te decimos si te conviene cambiarte, sin costo."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "Si te vendieron un seguro por telefono y nunca te confirmaron por escrito, tu plazo para arrepentirte **no son 10 dias**"},
+    {"type": "text", "lines": ["La Ley N° 19.496 te da", "**10 dias** para retractarte de un contrato, sin dar explicaciones."], "sub": "El plazo cuenta desde que recibes el producto o se celebra el servicio."},
+    {"type": "text", "lines": ["Pero si la empresa nunca te envio", "**confirmacion escrita** del contrato..."], "sub": "la ley extiende ese plazo a 90 dias, no a 10."},
+    {"type": "proof", "tag": "LEY N° 19.496, ART. 3 BIS", "text": "El derecho a retracto se extiende a **90 dias** si no recibiste confirmacion escrita", "source": "Fuente: SERNAC Juridico, Ley N° 19.496"},
+    {"type": "cta", "text": "Esto es distinto a portar tu seguro de desgravamen", "button": "Escribeme por WhatsApp ->", "sub": "Si a ti te vendieron algo asi, revisemos tu caso sin costo."}
+  ]
+}

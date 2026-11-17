@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Existen **dos derechos distintos** sobre el seguro que te vendieron junto a tu credito"},
+    {"type": "text", "lines": ["Uno es el **derecho a retracto:**", "anular todo el contrato, sin dar motivo."], "sub": "Tiene un plazo corto: 10 dias, o 90 si no te confirmaron por escrito."},
+    {"type": "text", "lines": ["El otro es la **portabilidad:**", "cambiarte a un seguro de desgravamen mas barato."], "sub": "No tiene plazo limite dentro de tu credito, y te devuelve lo que no has usado."},
+    {"type": "proof", "tag": "DOS CAMINOS, UNA META", "text": "Ambos buscan lo mismo: que **no te quedes pagando** algo que nunca revisaste bien", "source": "Fuente: Ley N° 19.496 y Ley N° 21.236"},
+    {"type": "cta", "text": "Si ya pasaron los 90 dias, la portabilidad sigue disponible", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}
