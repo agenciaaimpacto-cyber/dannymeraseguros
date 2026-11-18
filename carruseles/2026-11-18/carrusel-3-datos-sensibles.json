@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Tienes derecho a preguntar **quien ve tus datos** y por cuanto tiempo los guardan"},
+    {"type": "text", "lines": ["La Ley N° 21.719 obliga a cualquier", "empresa que trate tus datos a **tener una razon especifica** para hacerlo."], "sub": "Eso incluye a aseguradoras, bancos y casas comerciales."},
+    {"type": "stat", "number": "1", "unit": "dic 2026", "text": "es cuando entra en vigencia la Ley N° 21.719 de **Proteccion de Datos Personales** en Chile"},
+    {"type": "text", "lines": ["Mientras tanto, el criterio de fondo", "**ya deberias poder exigirlo:**"], "sub": "que te digan para que van a usar cada documento que te pidan, antes de enviarlo."},
+    {"type": "cta", "text": "Vas a portar tu seguro de desgravamen?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso y te explicamos cada paso, sin costo."}
+  ]
+}

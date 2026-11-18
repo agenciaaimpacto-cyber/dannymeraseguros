@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "Firmar tu poliza nueva **no le da automaticamente** a la aseguradora derecho a usar tus datos de salud"},
+    {"type": "text", "lines": ["La nueva Ley N° 21.719 de Proteccion", "de Datos Personales entra en vigencia **el 1 de diciembre.**"], "sub": "Clasifica los datos de salud como datos sensibles, el nivel mas alto de proteccion que existe."},
+    {"type": "text", "lines": ["Por eso cada uso de esos datos", "**necesita su propia justificacion.**"], "sub": "Segun explico la abogada Carla Illanes (Alessandri) en Diario Constitucional, tener una poliza firmada no basta por si sola."},
+    {"type": "proof", "tag": "LEY N° 21.719", "text": "Las aseguradoras necesitan **tu autorizacion expresa**, o una ley que lo permita, para cada uso especifico de tus datos de salud", "source": "Fuente: Diario Constitucional, 12 nov 2026"},
+    {"type": "cta", "text": "Quieres saber para que usamos exactamente tus documentos?", "button": "Escribeme por WhatsApp ->", "sub": "Te lo explicamos antes de pedirte nada."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Enviaste tu carnet, tu poliza y el resumen de tu credito? **Eso no es un cheque en blanco**"},
+    {"type": "text", "lines": ["Pedimos esos 3 documentos", "**por una razon especifica cada uno.**"], "sub": "El resumen de credito dice cuantas cuotas has pagado. La poliza dice cuanto vale tu seguro actual. El carnet confirma que los documentos son tuyos."},
+    {"type": "text", "lines": ["Eso no te quita el derecho", "**a saber para que se usa cada uno.**"], "sub": "Ninguna aseguradora ni agente deberia pedirte un documento sin poder explicarte para que exactamente lo va a usar."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "Tienes derecho a **portar** tu seguro de desgravamen a otra compania y recuperar lo que no has usado", "source": "Fuente: Ley N° 21.236, CMF Educa"},
+    {"type": "cta", "text": "Quieres saber que hacemos con tus documentos antes de enviarlos?", "button": "Escribeme por WhatsApp ->", "sub": "Te explicamos cada paso, sin costo."}
+  ]
+}
