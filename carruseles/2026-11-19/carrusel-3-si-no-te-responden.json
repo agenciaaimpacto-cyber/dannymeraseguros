@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si una aseguradora **no te responde**, no tienes que quedarte ahi"},
+    {"type": "text", "lines": ["Primero reclama **por escrito**", "a la propia compania."], "sub": "Guarda la poliza, las condiciones y la respuesta que te den."},
+    {"type": "text", "lines": ["Si no resuelve, puedes reclamar", "**ante la CMF**, sin costo."], "sub": "En regiones tambien puedes hacerlo en una oficina del SERNAC, que lo deriva."},
+    {"type": "proof", "tag": "CMF · CHILEATIENDE", "text": "Presentar un reclamo ante la CMF **no tiene costo** y se puede hacer todo el año", "source": "Fuente: ChileAtiende, CMF"},
+    {"type": "cta", "text": "Tienes un problema con un seguro ligado a tu credito?", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudamos a revisar que opciones tienes."}
+  ]
+}

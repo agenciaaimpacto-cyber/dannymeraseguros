@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La CMF puede ser **arbitro gratis** en tu disputa con una aseguradora — casi nadie lo pide"},
+    {"type": "text", "lines": ["Si tu poliza tiene clausula de", "**arbitraje**, puedes pedirselo a la CMF."], "sub": "El tramite es gratis, todo el año, con Clave Unica o por carta."},
+    {"type": "stat", "number": "120", "unit": "UF", "text": "es el tope general para pedir que la CMF actue como **arbitro gratis** en tu caso"},
+    {"type": "proof", "tag": "CMF", "text": "Puedes pedir este arbitraje **todo el año, sin costo**, con Clave Unica o por carta a la CMF", "source": "Fuente: CMF, consultas y reclamos de seguros"},
+    {"type": "cta", "text": "Tu aseguradora se demora o discute un monto?", "button": "Escribeme por WhatsApp ->", "sub": "Te explicamos que vias tienes, sin costo."}
+  ]
+}

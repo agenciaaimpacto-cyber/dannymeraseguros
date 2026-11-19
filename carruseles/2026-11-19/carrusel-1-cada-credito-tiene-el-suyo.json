@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Tienes mas de un credito vigente? **Cada uno trae su propio seguro de desgravamen** que puedes revisar"},
+    {"type": "text", "lines": ["No es un solo seguro por persona,", "**es uno por cada credito que tengas.**"], "sub": "Un credito de consumo, una tarjeta, un avance en efectivo — cada uno puede traer el suyo."},
+    {"type": "text", "lines": ["Eso significa que puedes tener", "**mas de una devolucion pendiente** sin saberlo."], "sub": "Revisar uno no significa que ya revisaste todos los que tienes."},
+    {"type": "proof", "tag": "LEY N° 21.236", "text": "Tienes derecho a **portar** cada uno de esos seguros a una compania mas barata", "source": "Fuente: Ley N° 21.236, CMF Educa"},
+    {"type": "cta", "text": "Tienes mas de un credito vigente?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos todos tus creditos, sin costo."}
+  ]
+}
