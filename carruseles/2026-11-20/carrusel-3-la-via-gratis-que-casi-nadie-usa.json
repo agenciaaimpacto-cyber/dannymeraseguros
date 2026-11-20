@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "POR QUE IMPORTA", "text": "Si una aseguradora no te responde, existe una via gratuita que **casi nadie conoce**"},
+    {"type": "text", "lines": ["Se llama Defensoria del Asegurado,", "**y es autonoma de las aseguradoras.**"], "sub": "La administra la Asociacion de Aseguradores de Chile, pero resuelve en forma independiente."},
+    {"type": "text", "lines": ["No tienes que ir directo", "**a tribunales.**"], "sub": "Puedes reclamar ahi antes, o en paralelo, a un reclamo en la CMF o el SERNAC."},
+    {"type": "proof", "tag": "DERECHOS DEL ASEGURADO", "text": "Reclamar en el **SERNAC** ademas suspende el plazo de 2 años que tienes para demandar", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "Una aseguradora se demora o no te responde?", "button": "Escribeme por WhatsApp ->", "sub": "Te oriento sobre que via usar en tu caso."}
+  ]
+}

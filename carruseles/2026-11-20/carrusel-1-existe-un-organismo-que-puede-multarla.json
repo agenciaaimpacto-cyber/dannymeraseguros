@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Existe un organismo que puede **multar** a una aseguradora si no te devuelve tu plata a tiempo"},
+    {"type": "text", "lines": ["No es una sugerencia,", "**es una obligacion fiscalizada.**"], "sub": "La CMF fija el plazo y revisa que se cumpla."},
+    {"type": "text", "lines": ["La prima que no usaste", "**sigue siendo tuya.**"], "sub": "Mientras menos cuotas hayas pagado de tu credito, mas prima queda sin usar."},
+    {"type": "proof", "tag": "CIRCULAR CMF N° 2.114", "text": "La aseguradora tiene **10 dias habiles** para poner tu devolucion a disposicion", "source": "Fuente: Circular CMF N° 2.114"},
+    {"type": "cta", "text": "Quieres saber cuanto puedes recuperar tu?", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

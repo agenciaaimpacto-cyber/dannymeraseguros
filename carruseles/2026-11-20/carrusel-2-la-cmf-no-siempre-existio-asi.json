@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "La CMF que fiscaliza tu seguro **no siempre existio asi**"},
+    {"type": "text", "lines": ["Antes de 2017 existia otro organismo,", "**dirigido por una sola persona.**"], "sub": "La Superintendencia de Valores y Seguros."},
+    {"type": "text", "lines": ["La Ley 21.000 creo un consejo", "**de cinco personas con mas poder.**"], "sub": "Empezo a operar el 14 de diciembre de 2017."},
+    {"type": "proof", "tag": "LEY N° 21.000", "text": "Le dio a la CMF el poder de **fiscalizar y multar** a toda la industria de seguros", "source": "Fuente: BCN, Ley N° 21.000"},
+    {"type": "cta", "text": "Si una aseguradora no te responde, no estas solo", "button": "Escribeme por WhatsApp ->", "sub": "Te ayudo a reclamar lo que te corresponde."}
+  ]
+}
