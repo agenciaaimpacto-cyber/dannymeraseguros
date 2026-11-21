@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si tu aseguradora te dice que no, **esa no es la ultima palabra**"},
+    {"type": "text", "lines": ["Pidele el motivo", "**por escrito.**"], "sub": "Tiene que explicar en que parte de tu poliza se basa para negarte la cobertura."},
+    {"type": "text", "lines": ["Si el motivo no te convence,", "**puedes reclamar.**"], "sub": "Ante la propia aseguradora, ante la CMF, o ante los tribunales."},
+    {"type": "stat", "number": "531", "unit": "C. Comercio", "text": "es el articulo que pone la carga de la prueba **en la aseguradora**, no en ti"},
+    {"type": "cta", "text": "Esto tambien aplica cuando te dicen que no te corresponde devolucion", "button": "Escribeme por WhatsApp ->", "sub": "Revisamos tu caso sin costo."}
+  ]
+}

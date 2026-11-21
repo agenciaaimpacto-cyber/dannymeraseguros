@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "Una aseguradora le dijo que no a un siniestro. La Corte Suprema le dijo que **eso no basta**"},
+    {"type": "text", "lines": ["Una tromba marina dano", "**el auto asegurado** en Talcahuano."], "sub": "Mapfre se nego a pagar, alegando que el auto llevaba un pasajero."},
+    {"type": "text", "lines": ["La Corte de Apelaciones", "**le dio la razon a la aseguradora.**"], "sub": "La Corte Suprema revirtio ese fallo."},
+    {"type": "proof", "tag": "ART. 531 CODIGO DE COMERCIO", "text": "Si el hecho esta dentro de tu poliza, la ley **presume que esta cubierto** — la aseguradora debe probar lo contrario", "source": "Fuente: Poder Judicial / CNN Chile"},
+    {"type": "cta", "text": "La misma logica aplica a tu seguro de desgravamen", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos si te corresponde una devolucion."}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Revisar cuanto puedes recuperar **no te obliga** a cambiarte de seguro"},
+    {"type": "text", "lines": ["Es solo eso:", "**una revision.**"], "sub": "Vemos tu resumen de credito y tu poliza, y te decimos cuanto hay."},
+    {"type": "text", "lines": ["Si no te conviene,", "**no pasa nada.**"], "sub": "Sigues con el mismo seguro de desgravamen que tienes hoy."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad es un **derecho**, no una obligacion de aceptar lo que te ofrezcan", "source": "Fuente: Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Revisemos tu caso, sin compromiso", "button": "Escribeme por WhatsApp ->", "sub": "Si no aplica, te lo decimos de inmediato."}
+  ]
+}
