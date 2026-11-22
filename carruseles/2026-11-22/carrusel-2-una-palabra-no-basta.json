@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "NOTICIA DEL RUBRO", "text": "Una aseguradora dijo que una palabra **no estaba en la poliza.** La Corte Suprema dijo que eso no basta"},
+    {"type": "text", "lines": ["Un semirremolque sufrio un dano", "**durante un lavado.**"], "sub": "El cierre de una tapa genero una diferencia de presion que provoco una implosion."},
+    {"type": "text", "lines": ["La aseguradora dijo que su poliza", "**solo cubria explosiones,** no implosiones."], "sub": "La Corte de Apelaciones le dio la razon a la aseguradora."},
+    {"type": "proof", "tag": "ROL N° 23.696-2025", "text": "La Corte Suprema anulo ese fallo: lo que importa es **la intencion real** de lo que se quiso asegurar", "source": "Fuente: Diario Constitucional"},
+    {"type": "cta", "text": "La misma logica aplica si te dicen que tu seguro no te cubre por un detalle de forma", "button": "Escribeme por WhatsApp ->", "sub": "Revisemos tu caso sin costo."}
+  ]
+}

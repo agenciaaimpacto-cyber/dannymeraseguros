@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "SABIAS QUE...", "text": "Tu credito puede traer **mas de un seguro** atado, y no todos son el mismo"},
+    {"type": "text", "lines": ["El seguro de desgravamen", "**paga el saldo del credito** si mueres o quedas invalido."], "sub": "Es el que revisamos para buscarte una devolucion."},
+    {"type": "text", "lines": ["El seguro de cesantia", "**paga tus cuotas** si quedas sin trabajo."], "sub": "Es un seguro distinto, con su propia poliza y sus propias condiciones."},
+    {"type": "proof", "tag": "LEY 21.236", "text": "La portabilidad que ofrecemos es especifica para tu seguro de **desgravamen**", "source": "Fuente: Ley de Portabilidad Financiera"},
+    {"type": "cta", "text": "Revisemos cual de los seguros de tu credito puedes cambiar", "button": "Escribeme por WhatsApp ->", "sub": "Te lo decimos despues de ver tu resumen de credito, sin costo."}
+  ]
+}

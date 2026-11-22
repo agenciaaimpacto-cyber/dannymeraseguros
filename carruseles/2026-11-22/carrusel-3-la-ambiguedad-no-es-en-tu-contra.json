@@ -1,0 +1,9 @@
+{
+  "slides": [
+    {"type": "hook", "tag": "DERECHOS DEL CONSUMIDOR", "text": "Si no entiendes una clausula de tu poliza, **no es tu culpa** - es su trabajo explicarla"},
+    {"type": "text", "lines": ["La Corte Suprema dijo que una poliza", "**se interpreta por su sentido real,**"], "sub": "no solo por si una palabra exacta aparece escrita o no."},
+    {"type": "text", "lines": ["Eso sirve para entender", "**lo que de verdad cubre tu seguro.**"], "sub": "Y tambien para entender que documentos te pueden pedir, y por que."},
+    {"type": "stat", "number": "23.696-2025", "unit": "Rol C. Suprema", "text": "confirma que la ambiguedad de una poliza **no se resuelve en tu contra**"},
+    {"type": "cta", "text": "Si tienes dudas sobre tu poliza actual, revisemosla juntos", "button": "Escribeme por WhatsApp ->", "sub": "Sin costo, sin compromiso."}
+  ]
+}
