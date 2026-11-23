@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SABIAS QUE...",
+      "text": "Ya terminaste de pagar tu credito? **Igual puedes reclamar** lo que te sobro del seguro"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Mientras pagabas tu credito,",
+        "**pagabas tambien el seguro de desgravamen.**"
+      ],
+      "sub": "Ese seguro cubre lo que falta pagar si el titular fallece o queda invalido."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Si terminaste de pagar antes",
+        "**del plazo original, sobro prima.**"
+      ],
+      "sub": "La aseguradora cobro por un riesgo que dejo de existir en el momento en que tu credito se termino."
+    },
+    {
+      "type": "proof",
+      "tag": "PRIMA NO CONSUMIDA",
+      "text": "Esa diferencia **no se la queda la aseguradora** - es tuya y la puedes reclamar",
+      "source": "Fuente: Circular CMF N° 2.114"
+    },
+    {
+      "type": "cta",
+      "text": "Terminaste de pagar tu credito hace poco? **Revisemos si te corresponde devolucion**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - revisamos tu caso sin costo."
+    }
+  ]
+}

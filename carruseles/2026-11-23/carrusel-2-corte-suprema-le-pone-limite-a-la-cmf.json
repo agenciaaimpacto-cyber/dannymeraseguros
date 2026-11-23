@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "NOTICIA DEL RUBRO",
+      "text": "La CMF le dijo a varias aseguradoras **como pagar** un anticipo. La Corte Suprema dijo que no podia"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "En 2021, la CMF emitio un oficio",
+        "**dirigido a un grupo de aseguradoras.**"
+      ],
+      "sub": "Les indicaba como debian pagar el anticipo de hasta un 10% de las rentas vitalicias del tercer retiro."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Penta Vida, 4Life, Bice Vida",
+        "y Renta Nacional **reclamaron en tribunales.**"
+      ],
+      "sub": "La Corte de Apelaciones de Santiago les dio la razon en 2024."
+    },
+    {
+      "type": "proof",
+      "tag": "OFICIO CIRCULAR N° 1208",
+      "text": "La Corte Suprema confirmo: un oficio **no puede imponer** una obligacion que no esta en una norma general",
+      "source": "Fuente: Diario Constitucional"
+    },
+    {
+      "type": "cta",
+      "text": "Tu derecho a portar tu seguro de desgravamen **no depende de un oficio** - nace de la ley",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - revisemos tu caso sin costo."
+    }
+  ]
+}

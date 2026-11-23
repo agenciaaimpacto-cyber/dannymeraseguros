@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "DERECHOS DEL CONSUMIDOR",
+      "text": "No toda instruccion de la CMF **pesa lo mismo** - y eso te conviene saber"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Un oficio es una instruccion",
+        "**dirigida a una empresa puntual.**"
+      ],
+      "sub": "Una Corte la puede anular si no tiene respaldo en una norma que rija para toda la industria."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Una norma general aplica",
+        "**igual para todas las aseguradoras.**"
+      ],
+      "sub": "Nadie puede alegar que a ella no le corresponde cumplirla."
+    },
+    {
+      "type": "proof",
+      "tag": "CIRCULAR CMF N° 2.114",
+      "text": "El plazo para devolverte la prima no usada **es una norma general** - rige para todas por igual",
+      "source": "Fuente: Circular CMF N° 2.114"
+    },
+    {
+      "type": "cta",
+      "text": "Tu derecho a portar tu seguro de desgravamen **no depende de un favor** de nadie",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - revisamos tu caso sin costo."
+    }
+  ]
+}
