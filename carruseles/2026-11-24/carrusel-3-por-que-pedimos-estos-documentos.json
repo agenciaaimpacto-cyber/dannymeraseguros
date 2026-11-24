@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "DERECHOS DEL CONSUMIDOR",
+      "text": "Te pedimos 3 documentos. **Esto es exactamente para que sirve cada uno**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Resumen de tu credito: para ver",
+        "**cuotas pagadas, cuotas que faltan.**"
+      ],
+      "sub": "Sin eso no se puede calcular cuanta prima te sobro."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Poliza actual: numero y compania,",
+        "**para cotizar una alternativa mas barata.**"
+      ],
+      "sub": "Carnet: solo para confirmar que esos documentos son tuyos."
+    },
+    {
+      "type": "proof",
+      "tag": "NINGUN DOCUMENTO SIN EXPLICACION",
+      "text": "Si alguien te los pide **sin decirte para que**, tienes derecho a preguntar antes de enviarlos",
+      "source": "Ley 21.719 de Proteccion de Datos Personales"
+    },
+    {
+      "type": "cta",
+      "text": "Prefieres que te explique esto **por mensaje, antes de enviar nada?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo, sin compromiso."
+    }
+  ]
+}

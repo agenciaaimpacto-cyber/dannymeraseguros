@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "NOTICIA DEL RUBRO",
+      "text": "El Senado **aprobo postergar** la nueva ley de proteccion de datos personales"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La Ley N 21.719 iba a exigir, desde",
+        "diciembre, **reglas mas estrictas** sobre tus datos."
+      ],
+      "sub": "Afecta como las empresas -incluidas las aseguradoras- tratan tu identidad y tu salud."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "El Senado voto el 28 de octubre:",
+        "**la fecha se mueve a octubre de 2027.**"
+      ],
+      "sub": "Ahora tiene que revisarlo la Camara de Diputados antes de ser ley."
+    },
+    {
+      "type": "proof",
+      "tag": "33 A FAVOR, 6 EN CONTRA",
+      "text": "Mientras no se publique en el Diario Oficial, **la ley sigue su fecha original**",
+      "source": "Fuente: Senado.cl"
+    },
+    {
+      "type": "cta",
+      "text": "Te pedimos documentos para portar tu seguro? **Pregunta siempre para que son**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - revisamos tu caso sin costo."
+    }
+  ]
+}

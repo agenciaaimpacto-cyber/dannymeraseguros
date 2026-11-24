@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "ANTES DE ESCRIBIRME",
+      "text": "Hay **3 tipos de credito** donde no puedo portar tu seguro de desgravamen"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Credito de consumo, automotriz",
+        "o de casa comercial? **Ahi si aplica.**"
+      ],
+      "sub": "Son la mayoria de los casos que reviso."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Credito Hipotecario, de Caja de",
+        "Compensacion o con Forum? **Ahi no aplica.**"
+      ],
+      "sub": "No es algo que dependa de tu situacion personal, es una restriccion del tramite mismo."
+    },
+    {
+      "type": "stat",
+      "number": "3",
+      "unit": "excepciones",
+      "text": "de esas, si tu credito **no es ninguna**, hay altas chances de que califiques"
+    },
+    {
+      "type": "cta",
+      "text": "No sabes en que grupo cae tu credito? **Te lo confirmo yo**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo en un mensaje, sin compromiso."
+    }
+  ]
+}
