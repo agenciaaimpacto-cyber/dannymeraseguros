@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SABIAS QUE...",
+      "text": "Elegir otro seguro de desgravamen **no te puede salir mas caro** en tu credito"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La ley dice que el banco no puede",
+        "**condicionar tu credito** a que uses su aseguradora."
+      ],
+      "sub": "Tampoco te puede ofrecer peores condiciones por elegir otra."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Si te amenazan con una tasa peor",
+        "o te complican el tramite, **eso no es legal.**"
+      ],
+      "sub": "El seguro y el credito son dos contratos distintos, de dos empresas distintas."
+    },
+    {
+      "type": "proof",
+      "tag": "LEY 20.448",
+      "text": "Puedes elegir **libremente** la aseguradora de tu seguro de desgravamen",
+      "source": "Fuente: CMF Educa"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres revisar si tu credito califica **sin compromiso?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}

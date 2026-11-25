@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "NOTICIA DEL RUBRO",
+      "text": "La propia CMF lo confirma: el seguro de tu credito de consumo **no es obligatorio por ley**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La CMF responde esto mismo en su",
+        "sitio: **no hay norma que lo obligue.**"
+      ],
+      "sub": "Se rige por el articulo 8 de la Ley N 20.448, de 2010."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Esa misma ley te deja elegir",
+        "**cualquier aseguradora autorizada.**"
+      ],
+      "sub": "Aplica a credito de consumo, automotriz y de casa comercial."
+    },
+    {
+      "type": "proof",
+      "tag": "ARTICULO 8, LEY 20.448",
+      "text": "El proveedor del credito **no puede condicionarlo** a que uses su propio seguro",
+      "source": "Fuente: CMF Educa"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres saber si tu credito **tiene margen para cambiarse?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - revisamos tu caso sin costo."
+    }
+  ]
+}

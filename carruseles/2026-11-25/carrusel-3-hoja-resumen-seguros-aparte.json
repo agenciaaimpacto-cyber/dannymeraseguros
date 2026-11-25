@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "DERECHOS DEL CONSUMIDOR",
+      "text": "Tu credito trae una **Hoja Resumen** - ahi los seguros van separados del resto"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Por ley, el contrato de tu credito",
+        "debe incluir **una hoja con lo esencial.**"
+      ],
+      "sub": "Incluye una sección propia para los seguros asociados."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Ahi deberias ver la compania,",
+        "**el numero de poliza y el costo.**"
+      ],
+      "sub": "Si no la revisaste al firmar, puedes pedirla ahora."
+    },
+    {
+      "type": "stat",
+      "number": "7",
+      "unit": "dias habiles",
+      "text": "es el minimo que debe mantenerse vigente una cotizacion antes de que decidas"
+    },
+    {
+      "type": "cta",
+      "text": "No encuentras tu Hoja Resumen? **Te ayudo a revisarla**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - sin compromiso."
+    }
+  ]
+}
