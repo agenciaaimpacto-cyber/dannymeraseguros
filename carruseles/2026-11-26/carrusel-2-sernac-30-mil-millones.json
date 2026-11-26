@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "DATO DEL DIA",
+      "text": "El SERNAC logro mas de **$30.000 millones** en compensaciones durante 2025"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Casi todo, a traves de acuerdos",
+        "**sin que nadie fuera a juicio.**"
+      ],
+      "sub": "Se llaman Procedimientos Voluntarios Colectivos: la empresa acuerda compensar, sin litigar."
+    },
+    {
+      "type": "stat",
+      "number": "18%",
+      "unit": "de los reclamos",
+      "text": "del mercado financiero -bancos, cooperativas y **aseguradoras**- fueron al SERNAC en 2025"
+    },
+    {
+      "type": "proof",
+      "tag": "CUENTA PUBLICA SERNAC 2025",
+      "text": "El retail lidero los reclamos con **22%**, el mercado financiero quedo segundo",
+      "source": "Fuente: Chocale, 27 jul 2026"
+    },
+    {
+      "type": "cta",
+      "text": "Tu tambien puedes reclamar lo que te corresponde, **sin juicio**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}

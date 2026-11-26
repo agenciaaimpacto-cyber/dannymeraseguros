@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SABIAS QUE...",
+      "text": "No necesitas **demandar a nadie** para recuperar tu seguro de desgravamen"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Portar tu seguro y reclamar",
+        "lo que no usaste **es un tramite administrativo.**"
+      ],
+      "sub": "No un juicio, no una demanda, no abogados."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Juntamos tus documentos,",
+        "**calculamos tu devolucion** y hacemos la gestion."
+      ],
+      "sub": "Tu solo revisas si te conviene antes de decidir."
+    },
+    {
+      "type": "proof",
+      "tag": "LEY 20.448 Y LEY 21.236",
+      "text": "Tu derecho a portar el seguro de desgravamen **ya existe**, sin pedirle permiso a nadie",
+      "source": "Fuente: CMF Educa"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres saber cuanto puedes **recuperar tu?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}
