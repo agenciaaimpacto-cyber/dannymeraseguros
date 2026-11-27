@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SABIAS QUE...",
+      "text": "Al portarte, no solo miramos el precio: tambien revisamos **quien te respalda**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La CMF exige que toda aseguradora",
+        "**mantenga reservas y patrimonio minimo.**"
+      ],
+      "sub": "Para que pueda responder si hay un siniestro o tu devolucion."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Por eso, al calcular tu portabilidad,",
+        "**no elegimos cualquier compania mas barata.**"
+      ],
+      "sub": "Buscamos una autorizada y vigilada por el regulador."
+    },
+    {
+      "type": "proof",
+      "tag": "NORMATIVA DE SOLVENCIA CMF",
+      "text": "Toda aseguradora que opera en Chile **debe cumplir limites de deuda y reservas**",
+      "source": "Fuente: CMF"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres saber cuanto puedes **recuperar tu?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}

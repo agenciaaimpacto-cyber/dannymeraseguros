@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "DERECHOS DEL CONSUMIDOR",
+      "text": "Que es el **margen de solvencia** de una aseguradora"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Es la plata que la ley le exige tener",
+        "**de respaldo, ademas de lo que te cobra.**"
+      ],
+      "sub": "Para poder pagar siniestros y devoluciones aunque un mes le vaya mal."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La CMF lo revisa mes a mes",
+        "**y puede exigir mas capital** si no se cumple."
+      ],
+      "sub": "No depende de la buena voluntad de la aseguradora."
+    },
+    {
+      "type": "proof",
+      "tag": "LO QUE ESTO SIGNIFICA PARA TI",
+      "text": "Tu seguro de desgravamen **esta respaldado por una norma**, no solo por una promesa",
+      "source": "Fuente: CMF, normativa de solvencia de seguros"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres saber cuanto puedes **recuperar tu?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}

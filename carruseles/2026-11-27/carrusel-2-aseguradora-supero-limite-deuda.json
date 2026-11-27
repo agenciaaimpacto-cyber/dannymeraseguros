@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "DATO DEL DIA",
+      "text": "Una aseguradora en Chile **supero el limite de deuda** que le permite la ley"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Llego a 5,84 veces su patrimonio,",
+        "**sobre el maximo legal de 5 veces.**"
+      ],
+      "sub": "Por siniestros de incendio y terremoto entre julio y octubre de 2026."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Su matriz tuvo que responder:",
+        "**aporto $9.500 millones** en capital fresco."
+      ],
+      "sub": "El 5 de noviembre de 2026, para corregir el exceso de deuda."
+    },
+    {
+      "type": "proof",
+      "tag": "ASI FUNCIONA LA SOLVENCIA EN SEGUROS",
+      "text": "Si una aseguradora se pasa del limite, **su matriz tiene que responder con plata**",
+      "source": "Fuente: Diario Estrategia, sobre hecho esencial a la CMF"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres revisar tu caso **sin compromiso?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}
