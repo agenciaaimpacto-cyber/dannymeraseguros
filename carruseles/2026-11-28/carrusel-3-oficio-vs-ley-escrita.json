@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SABIAS QUE...",
+      "text": "No toda instruccion de un regulador **vale lo mismo**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Si la CMF regula algo basandose",
+        "en un articulo especifico de una ley,"
+      ],
+      "sub": "esa instruccion es solida y los tribunales la respaldan."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Pero si lo hace con un oficio propio,",
+        "**sin respaldo en una norma general,**"
+      ],
+      "sub": "una Corte puede anularlo despues — y ya ha pasado."
+    },
+    {
+      "type": "proof",
+      "tag": "CORTE SUPREMA, 22 OCT 2026",
+      "text": "La Suprema confirmo que la CMF **se excedio** al regular anticipos de rentas vitalicias por oficio",
+      "source": "Fuente: Diario Constitucional"
+    },
+    {
+      "type": "cta",
+      "text": "Tu derecho a portar tu seguro **esta en la ley, no en un oficio**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}

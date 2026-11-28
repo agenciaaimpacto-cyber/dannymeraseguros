@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "SABIAS QUE...",
+      "text": "Cambiarte de seguro de desgravamen **no depende de que nadie te autorice**"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "No es un favor que te hace",
+        "el banco ni la aseguradora."
+      ],
+      "sub": "Es un derecho que ya esta escrito en la ley, desde hace anos."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Por eso ninguna de las dos partes",
+        "**puede simplemente decidir ignorarlo.**"
+      ],
+      "sub": "Ni el banco puede negarte el cambio, ni la aseguradora puede quedarse con tu prima no usada."
+    },
+    {
+      "type": "proof",
+      "tag": "LEY N° 20.448 Y LEY N° 21.236",
+      "text": "Tu derecho a portar tu seguro de desgravamen **nace de la ley, no de un permiso**",
+      "source": "Fuente: BCN"
+    },
+    {
+      "type": "cta",
+      "text": "Quieres saber cuanto puedes **recuperar tu?**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}

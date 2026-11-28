@@ -1,0 +1,37 @@
+{
+  "slides": [
+    {
+      "type": "hook",
+      "tag": "NOTICIA DEL DIA",
+      "text": "La Contraloria confirmo que la CMF **si puede** regular este descuento de rentas vitalicias"
+    },
+    {
+      "type": "text",
+      "lines": [
+        "Una cooperativa de ahorro y credito",
+        "le pregunto a la Contraloria si la CMF"
+      ],
+      "sub": "podia instruir sobre descuentos a socios que tambien reciben rentas vitalicias."
+    },
+    {
+      "type": "text",
+      "lines": [
+        "La respuesta fue si — pero",
+        "**solo porque un articulo de la ley lo permite.**"
+      ],
+      "sub": "La CMF debe coordinarse con la Superintendencia de Pensiones."
+    },
+    {
+      "type": "proof",
+      "tag": "DICTAMEN N° OF215306N26",
+      "text": "La facultad de la CMF viene de la **Ley General de Cooperativas**, articulo 54 bis",
+      "source": "Fuente: Diario Constitucional, 18 nov 2026"
+    },
+    {
+      "type": "cta",
+      "text": "Tu seguro de desgravamen tambien tiene **una ley que lo respalda**",
+      "button": "Escribeme por WhatsApp ->",
+      "sub": "+56 9 5793 8503 - te respondo yo."
+    }
+  ]
+}
